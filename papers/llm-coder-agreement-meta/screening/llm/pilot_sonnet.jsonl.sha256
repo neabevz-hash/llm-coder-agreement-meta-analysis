@@ -1,0 +1,8 @@
+{
+  "file": "pilot_sonnet.jsonl",
+  "sha256": "5585488167ef7e39da69c5728e73291372faf9f4f94414706de982790db7cdb4",
+  "records": 103,
+  "written_at_utc": "2026-10-21T12:05:17+00:00",
+  "model": "claude-sonnet-5-5",
+  "system_prompt_sha": "2a4c798c9c8114eb"
+}

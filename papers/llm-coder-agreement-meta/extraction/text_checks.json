@@ -1,0 +1,3878 @@
+{
+"ST001|28.6%|a second examination under the revised gold set (v3 prompt round) gave 42.9% wide / 28.6% strict": [
+true,
+true
+],
+"ST001|42.9%|a second examination under the revised gold set (v3 prompt round) gave 42.9% wide / 28.6% strict": [
+true,
+true
+],
+"ST002|mean expert kw 0.41|mean expert κw for Empathetic Dialogues, EPITOME, Perceived Empathy and Lend an Ear pilot are 0.41, 0.46, 0.60 and 0.55": [
+false,
+true
+],
+"ST002|mean expert kw 0.46|mean expert κw for Empathetic Dialogues, EPITOME, Perceived Empathy and Lend an Ear pilot are 0.41, 0.46, 0.60 and 0.55": [
+false,
+true
+],
+"ST002|mean expert kw 0.55|mean expert κw for Empathetic Dialogues, EPITOME, Perceived Empathy and Lend an Ear pilot are 0.41, 0.46, 0.60 and 0.55": [
+false,
+true
+],
+"ST002|mean expert kw 0.60|mean expert κw for Empathetic Dialogues, EPITOME, Perceived Empathy and Lend an Ear pilot are 0.41, 0.46, 0.60 and 0.55": [
+false,
+true
+],
+"ST003|0.617|The pilot produced Cohen's κ = 0.617 and Gwet's AC1 = 0.919.": [
+true,
+false
+],
+"ST003|0.919|The pilot produced Cohen's κ = 0.617 and Gwet's AC1 = 0.919.": [
+true,
+false
+],
+"ST005|0.09|quadratic weighted κ=0.09, Spearman ρ=0.20": [
+true,
+false
+],
+"ST005|0.20|Spearman ρ=0.20, p < .001": [
+true,
+false
+],
+"ST005|78.2% within-one-point|78.2% within-one-point agreement across five dimensions": [
+true,
+true
+],
+"ST008|0.589|Llama Scout 4 16.640 18.057 0.619 0.589 0.617 0.209": [
+true,
+true
+],
+"ST008|0.617|Llama Scout 4 16.640 18.057 0.619 0.589 0.617 0.209": [
+true,
+true
+],
+"ST008|0.619|Llama Scout 4 16.640 18.057 0.619 0.589 0.617 0.209": [
+true,
+true
+],
+"ST008|0.790|DeepSeek R1 3.368 4.456 0.800 0.791 0.790 0.774": [
+true,
+true
+],
+"ST008|0.791|DeepSeek R1 3.368 4.456 0.800 0.791 0.790 0.774": [
+true,
+true
+],
+"ST008|0.799|GPT OSS 3.216 4.177 0.811 0.801 0.799 0.795": [
+true,
+true
+],
+"ST008|0.801|GPT OSS 3.216 4.177 0.811 0.801 0.799 0.795": [
+true,
+true
+],
+"ST008|0.822|Gemini Pro 3.319 4.353 0.841 0.824 0.822 0.781": [
+true,
+true
+],
+"ST008|0.824|Gemini Pro 3.319 4.353 0.841 0.824 0.822 0.781": [
+true,
+true
+],
+"ST008|0.829|Claude Sonnet 4 3.588 4.662 0.852 0.841 0.829 0.755": [
+true,
+true
+],
+"ST008|0.830|Claude Sonnet 4 3.892 5.024 0.856 0.843 0.830 0.724": [
+true,
+true
+],
+"ST008|0.836|Gemini Pro 3.833 4.870 0.859 0.848 0.836 0.741": [
+true,
+true
+],
+"ST008|0.839|Llama Scout 4 4.363 5.219 0.841 0.848 0.839 0.743": [
+true,
+true
+],
+"ST008|0.841|Claude Sonnet 4 3.588 4.662 0.852 0.841 0.829 0.755": [
+true,
+true
+],
+"ST008|0.843|Claude Sonnet 4 3.892 5.024 0.856 0.843 0.830 0.724": [
+true,
+true
+],
+"ST008|0.843|GPT OSS 2.740 3.670 0.854 0.843 0.844 0.844": [
+true,
+true
+],
+"ST008|0.844|GPT OSS 2.740 3.670 0.854 0.843 0.844 0.844": [
+true,
+true
+],
+"ST008|0.846|Llama Scout 4 3.373 4.306 0.848 0.857 0.846 0.810": [
+true,
+true
+],
+"ST008|0.848|Gemini Pro 3.833 4.870 0.859 0.848 0.836 0.741": [
+true,
+true
+],
+"ST008|0.848|Llama Scout 4 3.373 4.306 0.848 0.857 0.846 0.810": [
+true,
+true
+],
+"ST008|0.848|Llama Scout 4 4.363 5.219 0.841 0.848 0.839 0.743": [
+true,
+true
+],
+"ST008|0.854|GPT OSS 2.740 3.670 0.854 0.843 0.844 0.844": [
+true,
+true
+],
+"ST008|0.856|Claude Sonnet 4 3.892 5.024 0.856 0.843 0.830 0.724": [
+true,
+true
+],
+"ST008|0.857|Llama Scout 4 3.373 4.306 0.848 0.857 0.846 0.810": [
+true,
+true
+],
+"ST008|0.859|Gemini Pro 3.833 4.870 0.859 0.848 0.836 0.741": [
+true,
+true
+],
+"ST008|0.865|DeepSeek R1 3.691 4.643 0.877 0.869 0.865 0.774": [
+true,
+true
+],
+"ST008|0.869|DeepSeek R1 3.691 4.643 0.877 0.869 0.865 0.774": [
+true,
+true
+],
+"ST008|0.877|DeepSeek R1 3.691 4.643 0.877 0.869 0.865 0.774": [
+true,
+true
+],
+"ST008|0.902|GPT OSS 3.949 4.949 0.906 0.902 0.905 0.831": [
+true,
+true
+],
+"ST008|0.905|GPT OSS 3.949 4.949 0.906 0.902 0.905 0.831": [
+true,
+true
+],
+"ST008|0.906|GPT OSS 3.949 4.949 0.906 0.902 0.905 0.831": [
+true,
+true
+],
+"ST008|0.910|Claude Sonnet 4 2.453 3.257 0.915 0.910 0.915 0.915": [
+true,
+true
+],
+"ST008|0.915|Claude Sonnet 4 2.453 3.257 0.915 0.910 0.915 0.915": [
+true,
+true
+],
+"ST008|0.919|DeepSeek R1 2.414 3.204 0.922 0.919 0.922 0.919": [
+true,
+true
+],
+"ST008|0.922|DeepSeek R1 2.414 3.204 0.922 0.919 0.922 0.919": [
+true,
+true
+],
+"ST008|0.923|Gemini Pro 2.184 3.019 0.928 0.923 0.927 0.926": [
+true,
+true
+],
+"ST008|0.927|Gemini Pro 2.184 3.019 0.928 0.923 0.927 0.926": [
+true,
+true
+],
+"ST008|0.928|Gemini Pro 2.184 3.019 0.928 0.923 0.927 0.926": [
+true,
+true
+],
+"ST009|0.321|fair level of agreement was also found within physician raters (k = 0.321": [
+true,
+true
+],
+"ST009|0.345|non-physician raters (k = 0.345, p < 0.001)": [
+true,
+false
+],
+"ST010|0.14|0.14 for EmoryNLP": [
+true,
+true
+],
+"ST010|0.27|0.27 for IEMOCAP": [
+true,
+true
+],
+"ST010|0.29|0.29 for DailyDialog": [
+true,
+false
+],
+"ST010|0.32|IEMOCAP Gemma-3-27B 0.32": [
+true,
+true
+],
+"ST010|0.36|IEMOCAP Qwen2.5-32B 0.36": [
+true,
+false
+],
+"ST010|0.40|MELD Qwen2.5-32B 0.40": [
+true,
+false
+],
+"ST010|0.43|EmoryNLP Gemma-3-27B 0.43": [
+true,
+true
+],
+"ST010|0.43|EmoryNLP Qwen2.5-32B 0.43": [
+true,
+false
+],
+"ST010|0.43|κ = 0.43 for MELD with the help of multimodal information": [
+true,
+false
+],
+"ST010|0.44|IEMOCAP Gemma-4-26B 0.44": [
+true,
+false
+],
+"ST010|0.46|IEMOCAP Gemma-4-31B 0.46": [
+true,
+false
+],
+"ST010|0.47|IEMOCAP Qwen3.5-35B 0.47": [
+true,
+false
+],
+"ST010|0.47|MELD Gemma-3-27B 0.47": [
+true,
+true
+],
+"ST010|0.49|EmoryNLP Gemma-4-26B 0.49": [
+true,
+false
+],
+"ST010|0.51|EmoryNLP Qwen3.5-35B 0.51": [
+true,
+false
+],
+"ST010|0.51|MELD Gemma-4-26B 0.51": [
+true,
+false
+],
+"ST010|0.52|EmoryNLP Gemma-4-31B 0.52": [
+true,
+false
+],
+"ST010|0.57|DailyDialog Qwen2.5-32B 0.57": [
+true,
+false
+],
+"ST010|0.60|DailyDialog Gemma-3-27B 0.60": [
+true,
+true
+],
+"ST010|0.62|DailyDialog Gemma-4-26B 0.62": [
+true,
+false
+],
+"ST010|0.65|DailyDialog Qwen3.5-35B 0.65": [
+true,
+false
+],
+"ST010|0.66|DailyDialog Gemma-4-31B 0.66": [
+true,
+false
+],
+"ST010|0.70|IEMOCAP 0.82 0.76 0.83 0.70 0.88 0.81 0.75 0.85": [
+true,
+true
+],
+"ST010|0.74|EmoryNLP 0.80 0.85 0.91 0.86 0.93 0.81 0.74 0.88": [
+true,
+true
+],
+"ST010|0.75|IEMOCAP 0.82 0.76 0.83 0.70 0.88 0.81 0.75 0.85": [
+true,
+true
+],
+"ST010|0.76|IEMOCAP 0.82 0.76 0.83 0.70 0.88 0.81 0.75 0.85": [
+true,
+true
+],
+"ST010|0.79|MELD 0.84 0.86 0.91 0.89 0.93 0.90 0.79 0.92": [
+true,
+true
+],
+"ST010|0.80|EmoryNLP 0.80 0.85 0.91 0.86 0.93 0.81 0.74 0.88": [
+true,
+true
+],
+"ST010|0.81|DailyDialog 0.91 0.96 0.97 0.88 0.89 0.95 0.81 0.93": [
+true,
+true
+],
+"ST010|0.81|EmoryNLP 0.80 0.85 0.91 0.86 0.93 0.81 0.74 0.88": [
+true,
+true
+],
+"ST010|0.81|IEMOCAP 0.82 0.76 0.83 0.70 0.88 0.81 0.75 0.85": [
+true,
+true
+],
+"ST010|0.82|IEMOCAP 0.82 0.76 0.83 0.70 0.88 0.81 0.75 0.85": [
+true,
+true
+],
+"ST010|0.83|IEMOCAP 0.82 0.76 0.83 0.70 0.88 0.81 0.75 0.85": [
+true,
+true
+],
+"ST010|0.84|MELD 0.84 0.86 0.91 0.89 0.93 0.90 0.79 0.92": [
+true,
+true
+],
+"ST010|0.85|EmoryNLP 0.80 0.85 0.91 0.86 0.93 0.81 0.74 0.88": [
+true,
+true
+],
+"ST010|0.85|IEMOCAP 0.82 0.76 0.83 0.70 0.88 0.81 0.75 0.85": [
+true,
+true
+],
+"ST010|0.86|EmoryNLP 0.80 0.85 0.91 0.86 0.93 0.81 0.74 0.88": [
+true,
+true
+],
+"ST010|0.86|MELD 0.84 0.86 0.91 0.89 0.93 0.90 0.79 0.92": [
+true,
+true
+],
+"ST010|0.88|DailyDialog 0.91 0.96 0.97 0.88 0.89 0.95 0.81 0.93": [
+true,
+true
+],
+"ST010|0.88|EmoryNLP 0.80 0.85 0.91 0.86 0.93 0.81 0.74 0.88": [
+true,
+true
+],
+"ST010|0.88|IEMOCAP 0.82 0.76 0.83 0.70 0.88 0.81 0.75 0.85": [
+true,
+true
+],
+"ST010|0.89|DailyDialog 0.91 0.96 0.97 0.88 0.89 0.95 0.81 0.93": [
+true,
+true
+],
+"ST010|0.89|MELD 0.84 0.86 0.91 0.89 0.93 0.90 0.79 0.92": [
+true,
+true
+],
+"ST010|0.91|DailyDialog 0.91 0.96 0.97 0.88 0.89 0.95 0.81 0.93": [
+true,
+true
+],
+"ST010|0.91|EmoryNLP 0.80 0.85 0.91 0.86 0.93 0.81 0.74 0.88": [
+true,
+true
+],
+"ST010|0.91|MELD 0.84 0.86 0.91 0.89 0.93 0.90 0.79 0.92": [
+true,
+true
+],
+"ST010|0.92|MELD 0.84 0.86 0.91 0.89 0.93 0.90 0.79 0.92": [
+true,
+true
+],
+"ST010|0.93|DailyDialog 0.91 0.96 0.97 0.88 0.89 0.95 0.81 0.93": [
+true,
+true
+],
+"ST010|0.93|EmoryNLP 0.80 0.85 0.91 0.86 0.93 0.81 0.74 0.88": [
+true,
+true
+],
+"ST010|0.95|DailyDialog 0.91 0.96 0.97 0.88 0.89 0.95 0.81 0.93": [
+true,
+true
+],
+"ST010|0.96|DailyDialog 0.91 0.96 0.97 0.88 0.89 0.95 0.81 0.93": [
+true,
+true
+],
+"ST010|0.97|DailyDialog 0.91 0.96 0.97 0.88 0.89 0.95 0.81 0.93": [
+true,
+true
+],
+"ST011|.44|IG and OG raters showed moderate agreement on severity (κ = .44)": [
+true,
+true
+],
+"ST011|0.8|IG-rater median (median IG human-human F1) was 0.8": [
+true,
+false
+],
+"ST011|IG α .293–.530 by community|agreement is generally moderate for severity (approximately α ≈.29–.54)": [
+false,
+true
+],
+"ST011|IG α .343–.490 by community|moderate for support-seeking (approximately α ≈.34–.50)": [
+false,
+true
+],
+"ST011|IG-rater median .567|IG-rater median": [
+false,
+true
+],
+"ST012|100.0|Antisocial Resp. 100.0 N/A": [
+true,
+true
+],
+"ST012|52.0|Misunderstanding 95.5 52.0": [
+true,
+false
+],
+"ST012|52.2|Failure to Repair 95.5 52.2": [
+true,
+false
+],
+"ST012|64.2|Survey Coverage 76.0 64.2": [
+true,
+false
+],
+"ST012|64.7|Out-of-Survey (b) 93.4 64.7": [
+true,
+false
+],
+"ST012|71.7|No Opportunity 96.1 71.7": [
+true,
+false
+],
+"ST012|74.1|Out-of-Survey (a) 94.7 74.1": [
+true,
+false
+],
+"ST012|76.0|Survey Coverage 76.0 64.2": [
+true,
+false
+],
+"ST013|0.77|Human annotations and system-generated labels in the experimental condition showed κ = 0.77 agreement": [
+true,
+true
+],
+"ST013|0.81|Inter-rater reliability, computed with Cohen's κ, was high (κ=0.81).": [
+true,
+true
+],
+"ST013|82.93%|overall agreement: 82.93%; weighted F1: 0.84": [
+true,
+true
+],
+"ST014|0.634 [0.59, 0.72]|Emotional Reaction 0.634 [0.59, 0.72]": [
+true,
+true
+],
+"ST014|0.654 [0.60, 0.74]|Reflection 0.654 [0.60, 0.74]": [
+true,
+true
+],
+"ST014|0.657-0.838 across 9 emotions|Anger 0.799 [0.73, 0.85] ... Depression 0.710 [0.62, 0.77]": [
+false,
+true
+],
+"ST014|0.720 [0.61, 0.81]|Rapport 0.720 [0.61, 0.81]": [
+true,
+true
+],
+"ST014|0.749 [0.67, 0.81]|Self-Disclosure 0.749 [0.67, 0.81]": [
+true,
+true
+],
+"ST014|0.763 [0.70, 0.82]|Interpretation 0.763 [0.70, 0.82]": [
+true,
+true
+],
+"ST014|0.826 [0.78, 0.87]|Exploration 0.826 [0.78, 0.87]": [
+true,
+true
+],
+"ST016|0.74 to 0.77 (range across four mechanisms)|Cohen's κ, ranged from 0.74 to 0.77 across the four communication mechanisms": [
+false,
+true
+],
+"ST016|22.13 ± 0.51|Llama3.1-8B-Instruct 22.13 ± 0.51 29.20 ± 1.37": [
+true,
+true
+],
+"ST016|22.97 ± 1.54|22.97 ± 1.54 25.34 ± 1.18": [
+true,
+true
+],
+"ST016|25.34 ± 1.18|22.97 ± 1.54 25.34 ± 1.18": [
+true,
+true
+],
+"ST016|25.57 ± 1.28|25.57 ± 1.28 31.25 ± 0.47": [
+true,
+true
+],
+"ST016|27.33 ± 1.21|27.33 ± 1.21 30.63 ± 1.61": [
+true,
+true
+],
+"ST016|27.92 ± 1.57|Qwen2.5-7B-Instruct 27.92 ± 1.57 34.91 ± 1.56": [
+true,
+true
+],
+"ST016|29.20 ± 1.37|22.13 ± 0.51 29.20 ± 1.37": [
+true,
+true
+],
+"ST016|29.34 ± 1.35|29.34 ± 1.35 39.49 ± 1.69": [
+true,
+true
+],
+"ST016|29.37 ± 1.18|29.37 ± 1.18 30.74 ± 1.13": [
+true,
+true
+],
+"ST016|29.64 ± 0.81|30.01 ± 0.91 29.64 ± 0.81": [
+true,
+true
+],
+"ST016|29.67 ± 1.17|29.75 ± 1.04 29.67 ± 1.17": [
+true,
+true
+],
+"ST016|29.75 ± 1.04|29.75 ± 1.04 29.67 ± 1.17": [
+true,
+true
+],
+"ST016|30.01 ± 0.91|30.01 ± 0.91 29.64 ± 0.81": [
+true,
+true
+],
+"ST016|30.04 ± 1.38|30.04 ± 1.38 37.38 ± 2.06": [
+true,
+true
+],
+"ST016|30.55 ± 1.23|30.55 ± 1.23 33.97 ± 1.63": [
+true,
+true
+],
+"ST016|30.63 ± 1.61|27.33 ± 1.21 30.63 ± 1.61": [
+true,
+true
+],
+"ST016|30.74 ± 1.13|29.37 ± 1.18 30.74 ± 1.13": [
+true,
+true
+],
+"ST016|31.25 ± 0.47|25.57 ± 1.28 31.25 ± 0.47": [
+true,
+true
+],
+"ST016|32.20 ± 0.64|33.43 ± 1.71 32.20 ± 0.64": [
+true,
+true
+],
+"ST016|32.97 ± 1.29|32.97 ± 1.29 43.35 ± 0.93": [
+true,
+true
+],
+"ST016|33.32 ± 1.43|33.32 ± 1.43 38.35 ± 1.15": [
+true,
+true
+],
+"ST016|33.43 ± 1.71|Qwen2.5-14B-Instruct 33.43 ± 1.71 32.20 ± 0.64": [
+true,
+true
+],
+"ST016|33.91 ± 0.66|34.46 ± 0.49 33.91 ± 0.66": [
+true,
+true
+],
+"ST016|33.97 ± 1.63|30.55 ± 1.23 33.97 ± 1.63": [
+true,
+true
+],
+"ST016|34.72 ± 1.43|Qwen2.5-32B-Instruct 34.72 ± 1.43 44.24 ± 1.83": [
+true,
+true
+],
+"ST016|34.91 ± 1.56|27.92 ± 1.57 34.91 ± 1.56": [
+true,
+true
+],
+"ST016|35.79 ± 0.57|38.06 ± 1.41 35.79 ± 0.57": [
+true,
+true
+],
+"ST016|37.38 ± 2.06|30.04 ± 1.38 37.38 ± 2.06": [
+true,
+true
+],
+"ST016|37.73 ± 1.42|37.73 ± 1.42 47.08 ± 1.26": [
+true,
+true
+],
+"ST016|38.35 ± 1.15|33.32 ± 1.43 38.35 ± 1.15": [
+true,
+true
+],
+"ST016|39.11 ± 0.93|36.62 ± 1.88 39.11 ± 0.93": [
+true,
+true
+],
+"ST016|39.49 ± 1.69|29.34 ± 1.35 39.49 ± 1.69": [
+true,
+true
+],
+"ST016|40.74 ± 0.94|36.62 ± 0.84 40.74 ± 0.94": [
+true,
+true
+],
+"ST016|43.35 ± 0.93|32.97 ± 1.29 43.35 ± 0.93": [
+true,
+true
+],
+"ST016|44.24 ± 1.83|34.72 ± 1.43 44.24 ± 1.83": [
+true,
+true
+],
+"ST016|44.26 ± 0.48|41.72 ± 0.63 44.26 ± 0.48": [
+true,
+true
+],
+"ST016|44.92 ± 0.95|39.24 ± 0.95 44.92 ± 0.95": [
+true,
+true
+],
+"ST016|45.13 ± 1.97|45.36 ± 1.62 45.13 ± 1.97": [
+true,
+true
+],
+"ST016|47.08 ± 1.26|37.73 ± 1.42 47.08 ± 1.26": [
+true,
+true
+],
+"ST016|49.06 ± 1.38|41.38 ± 1.66 49.06 ± 1.38": [
+true,
+true
+],
+"ST016|52.16 ± 1.37|42.10 ± 2.22 52.16 ± 1.37": [
+true,
+true
+],
+"ST016|52.16 ± 1.94|38.90 ± 1.86 52.16 ± 1.94": [
+true,
+true
+],
+"ST016|53.10 ± 1.09|52.59 ± 1.41 53.10 ± 1.09": [
+true,
+true
+],
+"ST016|53.31 ± 1.38|GPT-4o 45.37 ± 1.33 53.31 ± 1.38": [
+true,
+true
+],
+"ST016|57.06 ± 1.56|Claude-3.5-Sonnet 41.61 ± 0.99 57.06 ± 1.56": [
+true,
+true
+],
+"ST016|60.77 ± 1.21|55.59 ± 1.44 60.77 ± 1.21": [
+true,
+true
+],
+"ST016|61.52 ± 1.21|53.16 ± 1.05 61.52 ± 1.21": [
+true,
+true
+],
+"ST016|63.87 ± 1.29|58.61 ± 1.99 63.87 ± 1.29": [
+true,
+true
+],
+"ST016|70.17 ± 1.30|70.17 ± 1.30 80.74 ± 0.42": [
+true,
+true
+],
+"ST016|73.21 ± 1.48|73.21 ± 1.48 74.15 ± 1.73": [
+true,
+true
+],
+"ST016|73.23 ± 2.67|73.23 ± 2.67 75.52 ± 3.21": [
+true,
+true
+],
+"ST016|73.24 ± 1.92|- Explanations 73.24 ± 1.92 83.38 ± 0.57": [
+true,
+true
+],
+"ST016|74.15 ± 1.73|73.21 ± 1.48 74.15 ± 1.73": [
+true,
+true
+],
+"ST016|75.52 ± 3.21|73.23 ± 2.67 75.52 ± 3.21": [
+true,
+true
+],
+"ST016|77.64 ± 0.56|77.87 ± 0.54 77.64 ± 0.56": [
+true,
+true
+],
+"ST016|78.68 ± 3.32|77.34 ± 3.67 78.68 ± 3.32": [
+true,
+true
+],
+"ST016|80.74 ± 0.42|70.17 ± 1.30 80.74 ± 0.42": [
+true,
+true
+],
+"ST016|83.38 ± 0.57|73.24 ± 1.92 83.38 ± 0.57": [
+true,
+true
+],
+"ST016|84.06 ± 1.37|77.56 ± 1.78 84.06 ± 1.37": [
+true,
+true
+],
+"ST016|87.06 ± 0.85|Our Model 80.92 ± 1.55 87.06 ± 0.85": [
+true,
+true
+],
+"ST017|0.60|The intercoder agreement between the two student assistants is somewhat lower, with a Kappa of 0.60": [
+true,
+true
+],
+"ST017|0.65 and 0.66|the two student assistants achieve Kappa values of 0.65 and 0.66 against the benchmark": [
+true,
+true
+],
+"ST018|0.62|EXP / NOV 0.62 (z = 9.17, p < .001)": [
+true,
+false
+],
+"ST018|0.72|EXP / NOV 0.72 (z = 10.3, p < .001)": [
+true,
+false
+],
+"ST018|0.83|Gwet's AC1 EXP / NOV 0.83 (SE = 0.04)": [
+true,
+false
+],
+"ST018|0.86|Gwet's AC1 EXP / NOV 0.86 (SE = 0.05)": [
+true,
+false
+],
+"ST020|0.389|The Krippendorff's α across annotators for this task was 0.389": [
+true,
+false
+],
+"ST020|58.19 ± 22.63|Experts 58.19 ± 22.63 (leave-one-annotator-out human ceiling)": [
+true,
+false
+],
+"ST021|0.463 (within-1 95.26%)|human-to-human agreement is higher than that of gpt-4o-mini (MAE=0.463 and within-1=95.26%)": [
+false,
+true
+],
+"ST021|0.553|average human-to-human agreement was moderate (mean κ=0.553)": [
+true,
+true
+],
+"ST021|0.55|achieving a moderate agreement in the interannotator reliability (FK=0.55)": [
+true,
+true
+],
+"ST021|78.42%|and llama-4-scout (MAE=0.726 and within-1=78.42%)": [
+true,
+true
+],
+"ST021|78.95%|outperforming gpt-5-nano (MAE=0.677 and within-1=78.95%)": [
+true,
+true
+],
+"ST022|-0.016 to 0.213 (E1-E2 .188, E2-E3 .213, E1-E3 -.016)|E2–E3 .213; E1–E2 .188; E1–E3 −.016": [
+false,
+false
+],
+"ST022|Jaccard .256, .342, .290|Expert 1–Expert 2 .256 (10/39); E1-E3 .342; E2-E3 .290": [
+false,
+false
+],
+"ST023|0.89|inter-annotator agreement achieved a Cohen's κ value of 0.89": [
+true,
+true
+],
+"ST024|0.35 pre / 0.32 post|corresponding MAE scores of 0.35 and 0.32": [
+false,
+true
+],
+"ST024|0.95|agreement between human annotators was very high (r = 0.95)": [
+true,
+false
+],
+"ST024|0.97 pre / 1.00 post (AHa rate)|AHa rate accuracy of 0.97 before and 1.00 after DPO": [
+false,
+true
+],
+"ST025|0.73|Fleiss' Kappa, with scores of κ = 0.73 for distortion type": [
+true,
+true
+],
+"ST026|0.404|IA 0.404 (898 / 398)": [
+true,
+true
+],
+"ST026|0.521|EA 0.521 (981 / 315)": [
+true,
+true
+],
+"ST027|0.390|ZH 0.417 0.413 0.409 0.390": [
+true,
+true
+],
+"ST027|0.426|ZH 0.433 0.438 0.428 0.426": [
+true,
+true
+],
+"ST028|0.19|Krippendorff's alpha was 0.19 for Nigerian tweets": [
+true,
+true
+],
+"ST028|0.41|compared to 0.41 for UK tweets": [
+true,
+true
+],
+"ST029|0.85|LLM agent turns show higher agreement (88%, κ = 0.85)": [
+true,
+true
+],
+"ST029|88%|LLM agent turns show higher agreement (88%, κ = 0.85)": [
+true,
+true
+],
+"ST030|0.137|Relevance 0.306 [0.011, 0.767] 0.137": [
+true,
+true
+],
+"ST030|0.140|Relevance 0.342 [0.069, 0.673] 0.140": [
+true,
+true
+],
+"ST030|0.180|Understanding 0.362 [0.137, 0.781] 0.180": [
+true,
+true
+],
+"ST030|0.243|Relevance 0.532 [0.267, 0.826] 0.243": [
+true,
+true
+],
+"ST030|0.259|Safety 0.259 [0.081, 0.703] 0.117": [
+true,
+true
+],
+"ST030|0.306|Relevance 0.306 [0.011, 0.767] 0.137": [
+true,
+true
+],
+"ST030|0.342|Relevance 0.342 [0.069, 0.673] 0.140": [
+true,
+true
+],
+"ST030|0.362|Understanding 0.362 [0.137, 0.781] 0.180": [
+true,
+true
+],
+"ST030|0.377|Safety 0.377 [0.077, 0.868] 0.222": [
+true,
+true
+],
+"ST030|0.385|Helpfulness 0.734 [0.271, 0.832] 0.385": [
+true,
+true
+],
+"ST030|0.480|Safety 0.480 [0.116, 0.858] 0.279": [
+true,
+true
+],
+"ST030|0.485|Understanding 0.823 [0.549, 0.884] 0.485": [
+true,
+true
+],
+"ST030|0.532|Relevance 0.532 [0.267, 0.826] 0.243": [
+true,
+true
+],
+"ST030|0.592|Understanding 0.871 [0.636, 0.938] 0.592": [
+true,
+true
+],
+"ST030|0.681|Informativeness 0.856 [0.655, 0.964] 0.681": [
+true,
+true
+],
+"ST030|0.730|Relevance 0.730 [0.394, 0.987] 0.743": [
+true,
+true
+],
+"ST030|0.734|Helpfulness 0.734 [0.271, 0.832] 0.385": [
+true,
+true
+],
+"ST030|0.742|Helpfulness 0.900 [0.734, 0.992] 0.742": [
+true,
+true
+],
+"ST030|0.743|Relevance 0.730 [0.394, 0.987] 0.743": [
+true,
+true
+],
+"ST030|0.791|Understanding 0.791 [0.563, 0.956] 0.806": [
+true,
+true
+],
+"ST030|0.800|Helpfulness 0.800 [0.407, 0.924] 0.457": [
+true,
+true
+],
+"ST030|0.806|Understanding 0.791 [0.563, 0.956] 0.806": [
+true,
+true
+],
+"ST030|0.823|Understanding 0.823 [0.549, 0.884] 0.485": [
+true,
+true
+],
+"ST030|0.849|Guidance 0.849 [0.650, 0.975] 0.475": [
+true,
+true
+],
+"ST030|0.855|Guidance 0.855 [0.557, 0.956] 0.682": [
+true,
+true
+],
+"ST030|0.856|Informativeness 0.856 [0.655, 0.964] 0.681": [
+true,
+true
+],
+"ST030|0.871|Helpfulness 0.871 [0.578, 0.934] 0.660": [
+true,
+true
+],
+"ST030|0.871|Understanding 0.871 [0.636, 0.938] 0.592": [
+true,
+true
+],
+"ST030|0.877|Informativeness 0.878 [0.522, 0.962] 0.877": [
+true,
+true
+],
+"ST030|0.878|Informativeness 0.878 [0.522, 0.962] 0.877": [
+true,
+true
+],
+"ST030|0.900|Helpfulness 0.900 [0.734, 0.992] 0.742": [
+true,
+true
+],
+"ST030|0.908|Informativeness 0.918 [0.638, 0.978] 0.908": [
+true,
+true
+],
+"ST030|0.915|Informativeness 0.915 [0.830, 0.972] 0.915": [
+true,
+true
+],
+"ST030|0.918|Informativeness 0.918 [0.638, 0.978] 0.908": [
+true,
+true
+],
+"ST030|0.948|Guidance 0.948 [0.744, 0.976] 0.786": [
+true,
+true
+],
+"ST030|96% exact agreement; 100% majority agreement|The analysis yielded 96% exact agreement and 100% majority agreement": [
+false,
+true
+],
+"ST031|0.639|Independent double-blind annotation yielded a Cohen's κ of 0.639": [
+true,
+true
+],
+"ST031|14.88|Qwen3-Next (w/o) 40.89 26.91 19.09 14.88": [
+true,
+true
+],
+"ST031|16.15|DeepSeek-V3.2 (w/o) 39.83 24.77 19.97 16.15": [
+true,
+true
+],
+"ST031|17.58|Kimi-K2 41.10 21.28 21.38 17.58": [
+true,
+true
+],
+"ST031|18.41|GPT-5 mini 54.03 26.30 16.99 18.41": [
+true,
+true
+],
+"ST031|20.68|Qwen3-Next (w/) 44.28 27.23 21.58 20.68": [
+true,
+true
+],
+"ST031|28.39|Qwen3-8B 61.44 30.10 28.91 28.39": [
+true,
+true
+],
+"ST031|28.46|Qwen3-4B 60.59 30.49 28.53 28.46": [
+true,
+true
+],
+"ST031|28.61|GLM-4-9B 62.92 30.10 29.53 28.61": [
+true,
+true
+],
+"ST031|30.51|Llama3.1-8B 62.92 33.24 30.08 30.51": [
+true,
+true
+],
+"ST031|30.53|InternLM3-8B 63.98 33.47 29.93 30.53": [
+true,
+true
+],
+"ST031|39.83|DeepSeek-V3.2 (w/o) 39.83 24.77 19.97 16.15": [
+true,
+true
+],
+"ST031|40.89|Qwen3-Next (w/o) 40.89 26.91 19.09 14.88": [
+true,
+true
+],
+"ST031|41.10|Kimi-K2 41.10 21.28 21.38 17.58": [
+true,
+true
+],
+"ST031|44.28|Qwen3-Next (w/) 44.28 27.23 21.58 20.68": [
+true,
+true
+],
+"ST031|54.03|GPT-5 mini 54.03 26.30 16.99 18.41": [
+true,
+true
+],
+"ST031|60.59|Qwen3-4B 60.59 30.49 28.53 28.46": [
+true,
+true
+],
+"ST031|61.44|Qwen3-8B 61.44 30.10 28.91 28.39": [
+true,
+true
+],
+"ST031|62.92|GLM-4-9B 62.92 30.10 29.53 28.61": [
+true,
+true
+],
+"ST033|0.90|high inter-annotator agreement on a random sample of 20 notes (F-measure=0.90)": [
+true,
+true
+],
+"ST034|0.77 (95% CI 0.71-0.82)|Overall (across-dimension) IRR for the 6 clinician raters was 0.77 (95% CI 0.71-0.82": [
+false,
+true
+],
+"ST035|0.82|All MAPS and PREDICT entries were double-coded ... reliability was excellent (Cohen’s kappa = 0.82)": [
+true,
+true
+],
+"ST036|> 90%|20 of the responses were coded by both observers (JB and MM). After obtaining an agreement of > 90%": [
+true,
+true
+],
+"ST037|0.78|The fixed-marginal kappa was 0.78": [
+true,
+true
+],
+"ST037|84.00%|percent overall agreement of 84.00%": [
+true,
+true
+],
+"ST037|free-marginal kappa 0.80|percent overall agreement of 84.00% with a free-marginal kappa of 0.80": [
+false,
+true
+],
+"ST038|0.63 (dimension-averaged)|typical agreement among human raters (ρhuman = 0.63)": [
+false,
+true
+],
+"ST039|0.25-0.91 by category|Giving information 0.91 (0.79 to 1.00)": [
+false,
+false
+],
+"ST039|0.526|moderate agreement between the 2 human coders (κ=0.526, 95% CI 0.256-0.797)": [
+true,
+true
+],
+"ST039|78.6%|78.6% between the 2 human coders": [
+true,
+true
+],
+"ST040|0.9921|The ICC for total HAMD-21 scores was 0.9921 (95% confidence interval [CI]: 0.9698 to 0.9980).": [
+true,
+true
+],
+"ST041|0.121 to 0.538|nominal Krippendorff's α ranged from 0.121 to 0.538": [
+true,
+false
+],
+"ST041|44.4% to 73.3%|exact pairwise agreement ranged from 44.4% to 73.3%": [
+true,
+true
+],
+"ST042|0.78|Overall interrater agreement was substantial (Cohen κ=0.78).": [
+true,
+true
+],
+"ST042|0.87|hospitalization events (κ=0.87)": [
+true,
+true
+],
+"ST043|ICC[3,1] = .82|Inter-coder agreement was high (Spearman ρ = .83, ICC[3,1] = .82)": [
+true,
+true
+],
+"ST043|ρ = .83|Inter-coder agreement was high (Spearman ρ = .83, ICC[3,1] = .82)": [
+true,
+true
+],
+"ST044|.74|Krippendorff’s 𝛼 = .74 pooled": [
+true,
+true
+],
+"ST044|0.62|0.62 (0.57–0.65)": [
+true,
+true
+],
+"ST044|0.64|0.64 (0.59–0.67)": [
+true,
+true
+],
+"ST044|0.72|𝛼= 0.72 on Family Support": [
+true,
+true
+],
+"ST044|0.74|0.74 (0.70–0.77)": [
+true,
+true
+],
+"ST044|0.74|human-human agreement was among the lowest (𝛼= 0.74)": [
+true,
+false
+],
+"ST044|0.76|0.76 (0.71–0.79)": [
+true,
+true
+],
+"ST044|0.76|0.76 (0.72–0.79)": [
+true,
+true
+],
+"ST044|0.76|the two human coders achieve a subset agreement of 0.76": [
+true,
+true
+],
+"ST044|0.77|0.77 (0.72–0.80)": [
+true,
+true
+],
+"ST044|0.77|0.77 (0.73–0.80)": [
+true,
+true
+],
+"ST044|0.77|Human coders achieved 𝛼= 0.77": [
+true,
+true
+],
+"ST044|0.78|0.78 (0.74–0.81)": [
+true,
+true
+],
+"ST044|0.79|0.79 (0.75–0.82)": [
+true,
+true
+],
+"ST044|0.80|0.80 (0.76–0.83)": [
+true,
+true
+],
+"ST044|0.81|0.81 (0.77–0.83)": [
+true,
+true
+],
+"ST044|0.81|0.81 (0.78–0.84)": [
+true,
+true
+],
+"ST044|0.82|0.82 (0.78–0.84)": [
+true,
+true
+],
+"ST044|0.82|0.82 (0.78–0.85)": [
+true,
+true
+],
+"ST044|0.83|0.83 (0.79–0.86)": [
+true,
+true
+],
+"ST044|0.86|𝛼= 0.86 on Friend Support": [
+true,
+true
+],
+"ST044|86.9|Llama 3.1 8B 86.9 (85.8–87.9)": [
+true,
+true
+],
+"ST044|87.7|Mistral 7B 87.7 (86.5–88.8)": [
+true,
+true
+],
+"ST044|92.3|Gemma 3 12B 92.3 (91.2–93.2)": [
+true,
+true
+],
+"ST044|92.5|GPT-OSS-120B 92.5 (91.4–93.6)": [
+true,
+true
+],
+"ST044|92.7|Mistral Large 2 92.7 (91.8–93.7)": [
+true,
+true
+],
+"ST044|92.8|GPT-5.4 Mini 92.8 (91.9–93.8)": [
+true,
+true
+],
+"ST044|93.3|Gemma 4 31B 93.3 (92.3–94.3)": [
+true,
+true
+],
+"ST044|93.5|Qwen3.6 35B-A3B 93.5 (92.7–94.4)": [
+true,
+true
+],
+"ST044|93.6|Grok 4.20 93.6 (92.7–94.5)": [
+true,
+true
+],
+"ST044|93.6|Qwen3 14B 93.6 (92.7–94.5)": [
+true,
+true
+],
+"ST044|93.8|Claude Sonnet 4.6 93.8 (93.0–94.7)": [
+true,
+true
+],
+"ST044|94.0%|agree on 94.0% of cells": [
+true,
+true
+],
+"ST044|94.0|Kimi K2.6 94.0 (93.1–94.9)": [
+true,
+true
+],
+"ST044|94.2|GPT-5.4 94.2 (93.2–95.1)": [
+true,
+true
+],
+"ST044|94.5|Claude Opus 4.7 94.5 (93.6–95.4)": [
+true,
+true
+],
+"ST044|94.7|Gemini 3.5 Flash 94.7 (93.8–95.6)": [
+true,
+true
+],
+"ST044|94.8|Qwen3.5 397B-A17B 94.8 (94.0–95.6)": [
+true,
+true
+],
+"ST044|95.1|Grok 4.1 Fast 95.1 (94.3–95.9)": [
+true,
+true
+],
+"ST044|95.2|Gemini 3.1 Pro 95.2 (94.4–96.0)": [
+true,
+true
+],
+"ST045|κ=0.59 (95%CI 0.49–0.69); adjusted κ=0.76|than the raters showed with each other (κ=0.59, 95%CI: 0.49–0.69; adjusted κ=0.76": [
+false,
+false
+],
+"ST047|0.62|Kendall’s Tau τ 0.71 0.75 0.67 0.62": [
+true,
+true
+],
+"ST047|0.67|Kendall’s Tau τ 0.71 0.75 0.67 0.62": [
+true,
+true
+],
+"ST047|0.71|Kendall’s Tau τ 0.71 0.75 0.67 0.62": [
+true,
+true
+],
+"ST047|0.75|Kendall’s Tau τ 0.71 0.75 0.67 0.62": [
+true,
+true
+],
+"ST048|81%|We used Cohen’s Kappa across overlapping annotated samples to compute inter-annotator agreement. The resulting score of 81%": [
+true,
+false
+],
+"ST050|mean 0.827; pos 0.798; neg 0.855|average inter-annotator agreement of κ¯ = 0.827, with κpos = 0.798 (raw agreement 83.9%) and κneg = 0.855": [
+false,
+false
+],
+"ST052|0.37 to 0.60|0.37 to 0.60 (Cohen's Kappa)": [
+true,
+true
+],
+"ST052|0.64 to 0.94|0.64 to 0.94 (Gwet's AC1)": [
+true,
+false
+],
+"ST052|0.74 to 0.95|ranged from 0.74 to 0.95 (raw)": [
+true,
+true
+],
+"ST053|0.71|the corpus-level macro-average Cohen's κ is 0.71": [
+true,
+true
+],
+"ST054|avg 0.52 (median 0.55, range 0.23-0.72)|Krippendorff's α averages 0.52 (median 0.55, range 0.23–0.72)": [
+false,
+true
+],
+"ST054|avg 0.58|average associations of Spearman ρ = 0.58 and Pearson r = 0.60": [
+false,
+true
+],
+"ST054|avg 0.60|average associations of Spearman ρ = 0.58 and Pearson r = 0.60": [
+false,
+true
+],
+"ST055|0.682|moderate-to-substantial for intensity (κ = 0.682)": [
+true,
+true
+],
+"ST055|0.731|Agreement is substantial for valence (κ = 0.731)": [
+true,
+false
+],
+"ST056|0.58|E1 vs E2 0.58 Moderate": [
+true,
+true
+],
+"ST061|0.799|Krippendorff α for ordinal data was α=0.799": [
+true,
+true
+],
+"ST061|ICC(A,10)=0.978; ICC(A,1)=.817|The single-measures ICC was also strong (ICC(A, 1)=.817, 95% CI 0.708-0.908)": [
+false,
+true
+],
+"ST061|mean 0.83 (range 0.61-0.97)|Pairwise correlations among the 10 raters ranged from 0.61 to 0.97 (mean 0.83, SD 0.10)": [
+false,
+true
+],
+"ST062|>=0.80 (item-level, required threshold)|all raters were required to achieve item-level Cohen's κ ≥0.80 on separate calibration data": [
+false,
+false
+],
+"ST066|0.721|strong overall agreement (α = 0.7205)": [
+true,
+true
+],
+"ST066|0.776|Krippendorff’s α ... 0.776": [
+true,
+true
+],
+"ST066|Mean Jaccard 0.776|A1|A2 0.749, A1|A3 0.787, A2|A3 0.791, Mean 0.776": [
+false,
+false
+],
+"ST068|human κ, 0.71–0.94 (two-level, range across 5 measures)|human κ, 0.71–0.94; human-plus-LLM κ, 0.70–0.93": [
+false,
+true
+],
+"ST069|ICC(A,1) = .557 (Original); .532 (Gender-swapped)|Individual-rater agreement was moderate in the Original and Gender-swapped conditions, ICC(A,1) = .557 and .532, respectively": [
+false,
+false
+],
+"ST069|ICC(A,k) = .992 (Original); .991 (Gender-swapped)|aggregated profile ratings were highly reliable, ICC(A,k) = .992 and .991, respectively": [
+false,
+true
+],
+"ST070|0.34 (human mean; A1 0.25, A2 0.42)|Human mean | 92.7 (91.6–93.9) | 0.34 (0.26–0.41)": [
+false,
+true
+],
+"ST070|0.931 (95% CI 0.891–0.966)|Pre-adjudication agreement was high 99.0% (95% CI 98.4–99.4); κ = 0.931": [
+true,
+true
+],
+"ST072|0.73|we manually annotated 30 client sessions with a Cohen's kappa of 0.73": [
+true,
+false
+],
+"ST072|0.81|we annotated 60 sessions, reaching a Cohen's kappa of 0.81": [
+true,
+true
+],
+"ST073|0.880|(94.0%; κ = 0.880)": [
+true,
+true
+],
+"ST073|0.976|98.8% observed agreement and Cohen's κ = 0.976": [
+true,
+true
+],
+"ST078|> 0.8 across all dimensions|Following two training rounds on a subset (N = 80), inter-rater reliability achieved a Cohen's kappa (κ) > 0.8 across all dimensions.": [
+true,
+true
+],
+"ST079|0.78|Inter-annotator agreement: Fleiss’ κ = 0.78": [
+true,
+true
+],
+"ST079|Big Five κ = 0.76|Big Five κ = 0.76, DM κ = 0.82, overall κ = 0.78": [
+true,
+true
+],
+"ST079|DM κ = 0.82|Big Five κ = 0.76, DM κ = 0.82, overall κ = 0.78": [
+true,
+true
+],
+"ST080|0.20|Mean ... Fleiss' κ 0.20": [
+true,
+false
+],
+"ST080|0.21|Mean ... Cohen's κ 0.21": [
+true,
+false
+],
+"ST080|0.44|mean pairwise quadratically weighted κ of the turn-level severities is 0.44": [
+true,
+true
+],
+"ST080|0.63|Kendall's W 0.63 (All)": [
+true,
+false
+],
+"ST080|49.0%|Exact agreement 49.0% (All)": [
+true,
+false
+],
+"ST081|0.06 (deflection)|Deflection 0.06 [-0.02, 0.14] Slight": [
+false,
+true
+],
+"ST081|0.16 (mixed signals)|Mixed Signals 0.16 [0.07, 0.25] Slight": [
+false,
+true
+],
+"ST081|0.20 (strategic politeness)|Strategic Politeness 0.20 [0.10, 0.29] Slight": [
+false,
+true
+],
+"ST081|0.21|Overall 0.21 [0.16, 0.25] Fair": [
+true,
+true
+],
+"ST081|0.22 (passive aggression)|Passive Aggression 0.22 [0.13, 0.30] Fair": [
+false,
+true
+],
+"ST081|0.25 (sarcasm/irony)|Sarcasm/Irony 0.25 [0.15, 0.34] Fair": [
+false,
+true
+],
+"ST081|60.9% (mean annotator agreement with gold)|Individual annotator agreement with gold ranges from 45.0% to 81.7% (mean 60.9%, N=15)": [
+false,
+true
+],
+"ST085|0.31|mean F1 on therapy transcripts fell from 0.88 at depth 0 to 0.31 at 200 turns for Qwen 2.5 3B": [
+true,
+true
+],
+"ST085|0.55|F1 at maximum depth fell to 0.55 for Qwen 3.5 35B (from 0.93)": [
+true,
+true
+],
+"ST085|0.63|0.63 for Gemma 4 31B (from 0.98)": [
+true,
+true
+],
+"ST085|0.72 (range 0.55 to 0.88)|mean pairwise κ, 0.72; range, 0.55 to 0.88": [
+false,
+true
+],
+"ST085|0.77|0.77 for Gemini 2.5 Flash (from 0.96)": [
+true,
+true
+],
+"ST085|0.88|mean F1 on therapy transcripts fell from 0.88 at depth 0 to 0.31 at 200 turns for Qwen 2.5 3B": [
+true,
+true
+],
+"ST085|0.93|F1 at maximum depth fell to 0.55 for Qwen 3.5 35B (from 0.93)": [
+true,
+true
+],
+"ST085|0.94|but only from 0.98 to 0.94 for Gemma 4 31B (Table S5)": [
+true,
+true
+],
+"ST085|0.96|0.77 for Gemini 2.5 Flash (from 0.96)": [
+true,
+true
+],
+"ST085|0.96|Gemini 3.5 Flash (0.96 to 0.97) were essentially unaffected": [
+true,
+true
+],
+"ST085|0.96|whereas GPT-5.4 (0.96 to 0.96) and Gemini 3.5 Flash (0.96 to 0.97) were essentially unaffected": [
+true,
+true
+],
+"ST085|0.97|Gemini 3.5 Flash (0.96 to 0.97) were essentially unaffected": [
+true,
+true
+],
+"ST085|0.98|0.63 for Gemma 4 31B (from 0.98)": [
+true,
+true
+],
+"ST085|0.98|but only from 0.98 to 0.94 for Gemma 4 31B (Table S5)": [
+true,
+true
+],
+"ST086|0.550|a mean weighted κ of 0.550": [
+true,
+true
+],
+"ST086|0.737|a mean weighted κ of 0.737": [
+true,
+true
+],
+"ST086|0.769|an ICC(2,1) of 0.769 (95% CI 0.732‐0.799) across 110 observations": [
+true,
+true
+],
+"ST086|0.866|ICC(2,1) of 0.866 (95% CI 0.825‐0.898) across 90 session × criterion observations": [
+true,
+true
+],
+"ST087|.764|This yielded an overall human-human ICC of .764 (Table 3)": [
+true,
+true
+],
+"ST088|.83|ICC of .83, based on a two-way mixed-effects, single-measure, absolute-agreement model": [
+true,
+false
+],
+"ST090|0.354|O3 C Omi 0.354 0.202 0.856 0.328": [
+true,
+true
+],
+"ST090|0.533|GPT-5 C Omi 0.533 0.241 0.718 0.360": [
+true,
+true
+],
+"ST090|0.536 average (range 0.406-0.667)|overall average of F1=0.536 (range: 0.406-0.667)": [
+false,
+true
+],
+"ST090|0.547|GPT-4o-mini C Omi 0.547 0.538 0.667 0.595": [
+true,
+true
+],
+"ST090|0.652|GPT-4o-mini K Omi 0.652 0.746 0.489 0.591": [
+true,
+true
+],
+"ST090|0.759|GPT-4o-mini K Hal 0.759 0.800 0.016 0.032": [
+true,
+true
+],
+"ST090|0.943|O3 C Hal 0.943 0.107 0.076 0.089": [
+true,
+true
+],
+"ST092|0.911 (pooled); 0.904 high-distress; 0.899 broader|Agreement was also high in the pooled 30-case analysis (ICC=0.911)": [
+false,
+true
+],
+"ST093|0.743|For ordinal severity ordering, agreement was substantial (weighted Cohen’s κ = 0.743)": [
+true,
+true
+],
+"ST093|1.000|Inter-rater agreement was perfect (Cohen’s κ = 1.000) for binary presence/absence.": [
+true,
+true
+],
+"ST094|0.71 (0.55-0.83)|κrecency = 0.71 (0.55-0.83)": [
+true,
+true
+],
+"ST094|0.86 (0.78-0.94)|κself-harm=0.86 (0.78-0.94)": [
+true,
+true
+],
+"ST097|0.55|weighted Kendall's tau coefficient ... for the paired human evaluators' fine-grained scores is 0.55": [
+true,
+false
+],
+"ST098|0.673|inter-rater reliability (Fleiss' κ) of 0.673": [
+true,
+true
+],
+"ST098|79.5%|closely matching inter-human agreement of 79.5%": [
+true,
+false
+],
+"ST099|0.723|macro-averaged agreement was substantial (Cohen’s 𝜅= 0.723)": [
+true,
+true
+],
+"ST100|65.4%|The overall pairwise percent agreement among clinicians was 65.4%": [
+true,
+true
+],
+"ST101|0.77-0.78|All 3 human rater pairs had similar interrater reliability (κ=0.77-0.78).": [
+true,
+true
+],
+"ST102|0.052|from 0.052 to 0.555 on the animal subset": [
+true,
+true
+],
+"ST102|0.063|Subset Accuracy from 0.063 to 0.502": [
+true,
+true
+],
+"ST102|0.092|from 0.092 to 0.614 on the animal subset": [
+true,
+true
+],
+"ST102|0.096|improved from 0.096 to 0.611 on the food subset": [
+true,
+true
+],
+"ST102|0.132|Micro-F1 from 0.132 to 0.731 on the food subset": [
+true,
+true
+],
+"ST102|0.139|Macro-F1 from 0.139 to 0.640 on the food subset": [
+true,
+false
+],
+"ST102|0.207|improved from 0.207 to 0.778 on the food subset": [
+true,
+true
+],
+"ST102|0.220|from 0.220 to 0.765 on the animal subset": [
+true,
+true
+],
+"ST102|0.222|and 0.222 on the animal subset": [
+true,
+true
+],
+"ST102|0.244|from 0.244 to 0.601 on the animal subset": [
+true,
+true
+],
+"ST102|0.267|from 0.267 to 0.766 on the animal subset": [
+true,
+true
+],
+"ST102|0.325|from 0.325 to 0.685 on the animal subset": [
+true,
+false
+],
+"ST102|0.369|from 0.369 to 0.787 on the food subset": [
+true,
+true
+],
+"ST102|0.555|from 0.052 to 0.555 on the animal subset": [
+true,
+true
+],
+"ST102|0.614|from 0.092 to 0.614 on the animal subset": [
+true,
+true
+],
+"ST102|0.85, 0.84, 0.91|yielding Krippendorff's α values of 0.85, 0.84, and 0.91": [
+false,
+true
+],
+"ST102|92%|a further 100 responses reached 92% exact-match agreement": [
+true,
+true
+],
+"ST103|Gwet AC2 0.42 (Purity) to 0.60 (Clarity)|Human-human AC2 ranged from 0.42 (Purity) to 0.60 (Clarity)": [
+false,
+true
+],
+"ST104|53.12|1.5B general 59.82 53.12": [
+true,
+true
+],
+"ST104|54.67|0-Shot At-risk (52) 45.33 12.82 58.18 56.91 54.67": [
+true,
+true
+],
+"ST104|57.33|0-Shot At-risk (52) 56.01 38.46 68.54 64.89 57.33": [
+true,
+true
+],
+"ST104|59.82|1.5B general 59.82 53.12": [
+true,
+true
+],
+"ST104|67.16|8B Arabic-centric 78.63 67.16 71.79 33.33 84.47 83.07": [
+true,
+true
+],
+"ST104|67.17|1.5B general 77.33 67.17": [
+true,
+true
+],
+"ST104|70.00|0-Shot High (30) 41.18 0.00 38.36 58.93 70.00": [
+true,
+true
+],
+"ST104|70.44|14B general 71.92 70.44 64.10 44.44 84.37 87.70": [
+true,
+true
+],
+"ST104|71.92|14B general 71.92 70.44 64.10 44.44 84.37 87.70": [
+true,
+true
+],
+"ST104|72.21|14B general 75.89 72.21 79.49 72.22 84.01 81.88": [
+true,
+true
+],
+"ST104|73.33|Fine-tuned At-risk (52) 73.29 74.36 81.13 82.19 73.33": [
+true,
+true
+],
+"ST104|74.65|70B general 74.65 77.78 69.23 55.56 82.02 85.05": [
+true,
+true
+],
+"ST104|75.89|14B general 75.89 72.21 79.49 72.22 84.01 81.88": [
+true,
+true
+],
+"ST104|76.00|Fine-tuned At-risk (52) 75.96 76.92 89.85 87.25 76.00": [
+true,
+true
+],
+"ST104|77.33|1.5B general 77.33 67.17": [
+true,
+true
+],
+"ST104|77.78|70B general 74.65 77.78 69.23 55.56 82.02 85.05": [
+true,
+true
+],
+"ST104|78.33|0-Shot High (30) 73.78 61.11 78.75 85.45 78.33": [
+true,
+true
+],
+"ST104|78.63|8B Arabic-centric 78.63 67.16 71.79 33.33 84.47 83.07": [
+true,
+true
+],
+"ST104|78.66|70B Arabic-centric 78.66 79.48 76.92 66.67 85.83 91.34": [
+true,
+true
+],
+"ST104|78.66|8B Arabic-centric 78.66 79.11 76.92 77.78 85.90 89.35": [
+true,
+true
+],
+"ST104|79.11|8B Arabic-centric 78.66 79.11 76.92 77.78 85.90 89.35": [
+true,
+true
+],
+"ST104|79.48|70B Arabic-centric 78.66 79.48 76.92 66.67 85.83 91.34": [
+true,
+true
+],
+"ST105|0.85|The results showed that the coding had good inter-rater reliability (Kappa = 0.85).": [
+true,
+true
+],
+"ST107|0.72 – 0.95|Interrater reliability was good across SAPS and SANS items (κ = 0.72 – κ = 0.95)": [
+false,
+false
+],
+"ST108|ICC(2,1)=0.720|LA vs. FF: ICC (2, 1) = 0.720, 95% CI [0.283, 0.910]": [
+false,
+true
+],
+"ST108|ICC(2,1)=0.952|CR vs. FDS: ICC (2, 1) = 0.952, 95% CI [0.808, 0.987]": [
+false,
+true
+],
+"ST109|balanced accuracy 0.841 (avg); sens .955, spec .728|On average, the raters achieved a very strong balanced accuracy (.841), sensitivity (.955) and specificity (.728)": [
+false,
+true
+],
+"ST110|0.45|Human annotators 0.45***": [
+true,
+true
+],
+"ST110|0.4|anger annotations (W = 0.62, ICC = 0.4, all p < 0.001)": [
+true,
+true
+],
+"ST110|0.57|Human annotators — 0.69*** 0.57***": [
+true,
+false
+],
+"ST110|0.88|Human annotators 0.45*** 0.84*** 0.88***": [
+true,
+false
+],
+"ST111|0.73|attribution of hostility = 0.80, aggression response = 0.73": [
+true,
+true
+],
+"ST111|0.80|attribution of hostility = 0.80, aggression response = 0.73": [
+true,
+true
+],
+"ST111|0.873 (text); 0.879 (Table 3)|correlation between the two trained human raters was 0.873 for attribution of hostility": [
+false,
+true
+],
+"ST111|0.896|attribution of hostility (r = 0.896, t(142) = 23.99": [
+true,
+true
+],
+"ST111|0.918|aggression response ratings (r = 0.918, t(142) = 27.49": [
+true,
+true
+],
+"ST111|0.930 (text); 0.929 (Table 3)|0.930 for aggression response ratings": [
+false,
+true
+],
+"ST113|Subst. Use 0.76; EMS 0.93; High Instab. 0.44|Mean CK: average pairwise Cohen's kappa across all coder pairs": [
+false,
+true
+],
+"ST113|Subst. Use 0.78; EMS 0.92; High Instab. 0.50|each coder's labels were evaluated against gold standard labels derived from the other two coders": [
+false,
+false
+],
+"ST114|0.62|moderate agreement between expert and LLM raters (ICC = 0.66 and 0.62)": [
+true,
+true
+],
+"ST114|0.66|moderate agreement between expert and LLM raters (ICC = 0.66 and 0.62)": [
+true,
+true
+],
+"ST114|0.79|good agreement between expert raters (ICC = 0.79)": [
+true,
+true
+],
+"ST115|0.78|Two licensed mental health professionals (κ=0.78 [15, 16]) rated risk levels.": [
+true,
+false
+],
+"ST115|66%|Claude Haiku 4.5 78% 66% 12pp**": [
+true,
+true
+],
+"ST115|68%|Claude Opus 4.0 79% 68% 11pp**": [
+true,
+true
+],
+"ST115|69%|Claude Sonnet 4.0 81% 69% 12pp**": [
+true,
+true
+],
+"ST116|0.671|Mean pairwise r 0.671 (Godspeed Q1-Q5 average)": [
+true,
+false
+],
+"ST116|0.851|Mean pairwise r 0.851 (Harm)": [
+true,
+false
+],
+"ST116|0.937|Mean pairwise r 0.937 (Inappropriate behaviour)": [
+true,
+false
+],
+"ST116|0.93|Mean pairwise r 0.93 (Negative emotion)": [
+true,
+false
+],
+"ST116|0.942|Mean pairwise r 0.942 (Empathic language)": [
+true,
+false
+],
+"ST118|0.7282|Aspect (F1) Mean 0.7282": [
+true,
+false
+],
+"ST118|0.7905|Emo. Mean 0.7905": [
+true,
+false
+],
+"ST118|0.8279|Sent. Mean 0.8279": [
+true,
+false
+],
+"ST119|0.78|Inter-oncologist agreement sets the empirical ceiling for MU and PU at QWK 0.78 and 0.96": [
+true,
+false
+],
+"ST119|0.82|The TS ceiling is 0.82 after adjudication": [
+true,
+true
+],
+"ST119|0.96|Inter-oncologist agreement sets the empirical ceiling for MU and PU at QWK 0.78 and 0.96": [
+true,
+false
+],
+"ST120|0.57|T8_direct_inquiry ... 0.57 0.63": [
+true,
+true
+],
+"ST120|0.69|T5_grief_support ... 0.69 0.69": [
+true,
+true
+],
+"ST120|0.74|T8_urges_contact ... 0.19 0.74": [
+true,
+true
+],
+"ST120|0.89|T3_death_stance 80 0.90 0.52 0.89": [
+true,
+false
+],
+"ST120|1.00|T4_grief_support ... 1.00 1.00": [
+true,
+true
+],
+"ST120|1.00|T7_risk_recognized ... Coder 1 vs. coder 2: κ 1.00 AC1 1.00": [
+true,
+false
+],
+"ST120|93.3%|The two coders agreed on 93.3% of 2,880 decisions in the validation sample": [
+true,
+true
+],
+"ST121|.80|The raters achieved substantial agreement as measured by Cohen's Kappa (Cohen's Khuman×human = .80)": [
+true,
+false
+],
+"ST122|0.30|Human-Human Perturbed 292 0.30": [
+true,
+false
+],
+"ST122|0.61|Human annotators showed substantial agreement on linguistic profile classification (0.61 κ": [
+true,
+false
+],
+"ST122|0.73|Human-Human Full 1786 0.73": [
+true,
+false
+],
+"ST122|0.93|Human annotators showed high agreement on behavioral profile classification (0.93 κ": [
+true,
+false
+],
+"ST123|0.803|Their agreement was strong (κ = 0.803)": [
+true,
+true
+],
+"ST125|0.048|values of 0.184 for Safety and 0.048 for Overall Preference": [
+true,
+true
+],
+"ST125|0.184|values of 0.184 for Safety and 0.048 for Overall Preference": [
+true,
+true
+],
+"ST125|65.5%|slightly exceeds the leave-one-out human baseline (65.5%)": [
+true,
+true
+],
+"ST125|80.0%|compared to 80.0% for the leave-one-out human baseline": [
+true,
+true
+],
+"ST128|0.605|PsyDARA ranks the primary code first in 29 cases versus 26 for Direct": [
+false,
+false
+],
+"ST128|0.674|PsyDARA ranks the primary code first in 29 cases versus 26 for Direct": [
+false,
+false
+],
+"ST128|44/50 on issuing a diagnosis|Reviewers agreed on issuing a diagnosis in 44/50": [
+false,
+true
+],
+"ST128|9/12 on first code|on the first code in 9/12 where both issued one": [
+false,
+true
+],
+"ST133|0.71|excluding medical facts yielded a Cohen κ of 0.71 with 86.06% (142/165) agreement": [
+true,
+true
+],
+"ST133|0.763|when medical facts were included, agreement reached a Cohen κ of 0.763 with 87.27% (144/165) agreement": [
+true,
+true
+],
+"ST134|0.089|Llama-3.2-1B-Instruct 1B 0.060 0.089 1608": [
+true,
+true
+],
+"ST134|0.410|Llama-3.2-3B-Instruct 3B 0.412 0.410 1603": [
+true,
+true
+],
+"ST134|0.587|Mistral-7B-Instruct-v0.3 7B 0.511 0.587 1523": [
+true,
+true
+],
+"ST135|0.66|pre-consensus inter-rater agreement: 89%, κ = 0.66 (Yale)": [
+true,
+false
+],
+"ST135|0.67|Cohen's κ= 0.67, 95% CI [0.54, 0.79]; overall accuracy = 90.7%": [
+true,
+false
+],
+"ST135|0.76|pre-consensus inter-rater agreement: 89.9%, κ = 0.76 (UTHealth)": [
+true,
+false
+],
+"ST135|0.87|Gwet's AC1 = 0.87, 95% CI [0.79, 0.94]; Cohen's κ= 0.67": [
+true,
+false
+],
+"ST136|-0.01|Affect 1689 0.31 0.01 -0.01": [
+true,
+true
+],
+"ST136|0.01|Affect 1689 0.31 0.01 -0.01": [
+true,
+true
+],
+"ST136|0.04|Relevance 1688 0.31 0.04 0.41": [
+true,
+true
+],
+"ST136|0.05|Decision Proximity 1689 0.48 0.05 0.08": [
+true,
+true
+],
+"ST136|0.08|Decision Proximity 1689 0.48 0.05 0.08": [
+true,
+true
+],
+"ST136|0.08|Enablement 1689 0.74 0.08 0.15": [
+true,
+true
+],
+"ST136|0.15|Enablement 1689 0.74 0.08 0.15": [
+true,
+true
+],
+"ST136|0.18|Novelty 1689 0.81 0.18 0.25": [
+true,
+true
+],
+"ST136|0.25|Novelty 1689 0.81 0.18 0.25": [
+true,
+true
+],
+"ST136|0.31|Affect 1689 0.31 0.01 -0.01": [
+true,
+true
+],
+"ST136|0.31|Relevance 1688 0.31 0.04 0.41": [
+true,
+true
+],
+"ST136|0.41|Relevance 1688 0.31 0.04 0.41": [
+true,
+true
+],
+"ST136|0.48|Decision Proximity 1689 0.48 0.05 0.08": [
+true,
+true
+],
+"ST136|0.74|Enablement 1689 0.74 0.08 0.15": [
+true,
+true
+],
+"ST136|0.81|Novelty 1689 0.81 0.18 0.25": [
+true,
+true
+],
+"ST137|0.759|Re-annotation yields 84.96% raw agreement and Cohen's κ = 0.759": [
+true,
+true
+],
+"ST137|0.800|85% (κ = 0.800) for dialogue acts": [
+true,
+true
+],
+"ST137|0.805|87% (κ = 0.805) for sentiment": [
+true,
+true
+],
+"ST137|0.872|89% (κ = 0.872) for emotions": [
+true,
+true
+],
+"ST137|0.929|Inter-annotator agreement reached 95.89% with Cohen's κ = 0.929": [
+true,
+true
+],
+"ST138|0.4997|NEP 80.06 0.6958 0.4997": [
+true,
+true
+],
+"ST138|0.5712|Valence 85.33 0.725 0.5712": [
+true,
+true
+],
+"ST139|0.62|We achieve a Krippendorff's α score of 0.62 for the inter-annotator agreement.": [
+true,
+true
+],
+"ST141|0.55 overall agreement; kappa 0.30-0.85 by dimension|overall agreement on the dimension labels was 0.55": [
+false,
+false
+],
+"ST141|0.58|Interrater reliability for process identification (yes/no) was 0.58": [
+true,
+true
+],
+"ST142|0.482|Qwen-3-32B 0.482 [0.450, 0.513]": [
+true,
+true
+],
+"ST142|0.490|LLaMA-3.1-8B 0.490 [0.459, 0.521]": [
+true,
+true
+],
+"ST142|0.590|Allam-2-7B 0.590 [0.559, 0.621]": [
+true,
+true
+],
+"ST142|0.713|Mistral-Large 0.713 [0.685, 0.741]": [
+true,
+true
+],
+"ST142|0.720|Mistral-Medium 0.720 [0.692, 0.747]": [
+true,
+true
+],
+"ST142|0.722|Allam-2-7B 0.722 [0.694, 0.750]": [
+true,
+true
+],
+"ST142|0.754|GPT-4.1-mini 0.754 [0.728, 0.780]": [
+true,
+true
+],
+"ST142|0.767|Claude-Sonnet-4.6 0.767 [0.742, 0.792]": [
+true,
+true
+],
+"ST142|0.770|Mistral-Medium 0.770 [0.745, 0.796]": [
+true,
+true
+],
+"ST142|0.776|GPT-4.1-mini 0.776 [0.750, 0.801]": [
+true,
+true
+],
+"ST142|0.785|Gemma-3-12B 0.785 [0.759, 0.810]": [
+true,
+true
+],
+"ST142|0.789|Gemma-3-12B 0.789 [0.763, 0.815]": [
+true,
+true
+],
+"ST142|0.812|GPT-5 0.812 [0.787, 0.836]": [
+true,
+true
+],
+"ST142|0.816|Gemini-2.5-Flash 0.816 [0.792, 0.839]": [
+true,
+true
+],
+"ST142|0.823|OpenAI-o3 0.823 [0.799, 0.846]": [
+true,
+true
+],
+"ST142|0.835|GPT-4o 0.835 [0.812, 0.858]": [
+true,
+true
+],
+"ST142|980 of 1002 agreed (22 disagreements)|The two annotators disagreed on 22 instances and agreed on 980 instances.": [
+false,
+true
+],
+"ST143|0.745 (95% CI 0.652 to 0.839)|Prior to consensus, inter-rater reliability among the three clinical raters was Fleiss’ κ=0.745": [
+true,
+true
+],
+"ST144|0.77|high agreement of 0.77 (Cohen κ) after the second phase of the annotation process": [
+true,
+true
+],
+"ST145|0.273|GPT-3.5-turbo | 0.469 | 0.586 | 0.412 | 0.395 | 0.273 | 0.505 | 0.385 | 0.237": [
+true,
+true
+],
+"ST145|0.389|GPT-4 | 0.487 | 0.542 | 0.477 | 0.468 | 0.389 | 0.486 | 0.466 | 0.381": [
+true,
+true
+],
+"ST145|0.447|GPT-3.5-turbo | 0.531 | 0.534 | 0.501 | 0.509 | 0.447 | 0.534 | 0.455 | 0.367": [
+true,
+true
+],
+"ST145|0.451|GPT-4 | 0.451 | 0.472 | 0.474 | 0.455 | 0.523 | 0.541 | 0.528 | 0.500": [
+true,
+true
+],
+"ST145|0.469|GPT-3.5-turbo | 0.469 | 0.586 | 0.412 | 0.395 | 0.273 | 0.505 | 0.385 | 0.237": [
+true,
+true
+],
+"ST145|0.487|GPT-4 | 0.487 | 0.542 | 0.477 | 0.468 | 0.389 | 0.486 | 0.466 | 0.381": [
+true,
+true
+],
+"ST145|0.523|GPT-4 | 0.451 | 0.472 | 0.474 | 0.455 | 0.523 | 0.541 | 0.528 | 0.500": [
+true,
+true
+],
+"ST145|0.531|GPT-3.5-turbo | 0.531 | 0.534 | 0.501 | 0.509 | 0.447 | 0.534 | 0.455 | 0.367": [
+true,
+true
+],
+"ST145|0.876|The Cohen κ values for IS and ES in Sharma and De Choudhury [12] are 0.879 and 0.876": [
+true,
+true
+],
+"ST145|0.879|The Cohen κ values for IS and ES in Sharma and De Choudhury [12] are 0.879 and 0.876": [
+true,
+true
+],
+"ST145|Cronbach alpha 0.81|Peng et al [11] reported Cronbach α values of 0.91 and 0.81 for IS and ES": [
+false,
+true
+],
+"ST145|Cronbach alpha 0.91|Peng et al [11] reported Cronbach α values of 0.91 and 0.81 for IS and ES": [
+false,
+true
+],
+"ST151|0.872|inter-human-annotator 0.872 almost perfect": [
+true,
+true
+],
+"ST152|0.51|κ = 0.51 across all dimensions and models, with the highest reliability observed for Adherence as κ = 0.79": [
+true,
+true
+],
+"ST153|0.68|Average Cohen's κ = 0.68": [
+true,
+true
+],
+"ST155|R1: 0.32-0.51; R2: 0.52-1.00; R3 full agreement|Agreement was highest for Strategy Choice (κ = 0.51)": [
+false,
+true
+],
+"ST156|0.110-0.372 (median 0.295)|human κ min 0.110 median 0.295 max 0.372": [
+false,
+false
+],
+"ST156|0.17|human α ... MFRC 0.17": [
+true,
+false
+],
+"ST156|0.414-0.773 (median 0.607)|human κ min 0.414 median 0.607 max 0.773": [
+false,
+false
+],
+"ST156|0.47|AnnoMI client 0.47": [
+true,
+false
+],
+"ST156|0.631-0.886 (median 0.834)|human κ min 0.631 median 0.834 max 0.886": [
+false,
+false
+],
+"ST156|0.74|AnnoMI therapist 0.74": [
+true,
+false
+],
+"ST157|0.802 overall; Concretism 0.968; Blocking 0.536|overall agreement was strong (α = 0.802)": [
+false,
+true
+],
+"ST158|0.19 item; 0.93 section|P1 versus P2 | 0.19 ... 0.93": [
+false,
+true
+],
+"ST158|0.25 item; 0.42 section|P1 versus P2 | 0.25 ... 0.42": [
+false,
+true
+],
+"ST160|ICC(2,1)=0.564; ICC(2,6)=0.901 (7 humans, LORO none dropped)|None 0.564 0.901": [
+false,
+true
+],
+"ST162|0.88|94.4% for IF (Cohen's κ = 0.88)": [
+true,
+true
+],
+"ST164|0.938 (R1-2), 0.957 (R1-3), 0.938 (R2-3)|Kappa values were 0.938 (Raters 1-2), 0.957 (Raters 1-3), 0.938 (Raters 2-3)": [
+false,
+true
+],
+"ST166|0.833|The coefficient is obtained as 0.833 using MASI distance": [
+true,
+true
+],
+"ST168|0.6|Cohen’s κ of 0.6 for both domains": [
+true,
+true
+],
+"ST168|86%|86% for the fatigue domain": [
+true,
+true
+],
+"ST168|88%|raw concordance rates of 88% for the pain domain": [
+true,
+true
+],
+"ST169|.73 [.65, .82]|QWK between the two human raters was .73, with 95% CI [.65, .82]": [
+false,
+true
+],
+"ST169|.75 [.67, .83]|Krippendorff's α of .75 [.67, .83]": [
+true,
+true
+],
+"ST172|0.23|overall Krippendorff’s α is 0.23 for human evaluators and 0.71 for LLM evaluators": [
+true,
+true
+],
+"ST172|88.14%|88.14% for human evaluators and 96.09% for LLM evaluators": [
+true,
+true
+],
+"ST174|0.78|initial interrater reliability was calculated based on the first 10 transcripts and was established as substantial agreement (κ=0.78)": [
+true,
+true
+],
+"ST175|ICC(2,1)=0.38; ICC(2,5)=0.75|interrater reliability among the 5 HBA physician raters was only fair on single measures (ICC(2,1)=0.38)": [
+false,
+true
+],
+"ST178|0 (98.94% agreement)|thus had 98.94% agreement with a κ = 0": [
+false,
+true
+],
+"ST178|0.514|reflected in κ values of 0.675 and 0.514 respectively": [
+true,
+true
+],
+"ST178|0.675|reflected in κ values of 0.675 and 0.514 respectively": [
+true,
+true
+],
+"ST178|0.886|Self-efficacy demonstrated reasonably good inter-rater reliability with a Cohen’s kappa of 0.886 and 94.39% agreement": [
+true,
+true
+],
+"ST178|100% (kappa not calculable)|thus achieved perfect 100% agreement, and thus κ could not be calculated": [
+false,
+true
+],
+"ST179|IRR = 0.60 for severity|IRR = 0.72 for symptoms, 0.60 for severity": [
+false,
+true
+],
+"ST179|IRR = 0.72 for symptoms|annotated for symptom severities by 5 SMEs (IRR = 0.72 for symptoms, 0.60 for severity)": [
+true,
+true
+],
+"ST180|0.48-0.94 across codes (Table 2)|agreement ranges from Cohen's κ = 0.58 to 0.94": [
+false,
+true
+],
+"ST180|0.773|Inter-annotator agreement was Cohen's κ = 0.773.": [
+true,
+true
+],
+"ST181|.24|Krippendorff’s ordinal α = .24 over 31 rater pairs": [
+true,
+false
+],
+"ST181|.29|the BGR+OSCE judge's overall grade agrees with the expert at ρ = .32/.29/.41 (TICKS/VACC/TEACH)": [
+true,
+false
+],
+"ST181|.32|the BGR+OSCE judge's overall grade agrees with the expert at ρ = .32/.29/.41 (TICKS/VACC/TEACH)": [
+true,
+false
+],
+"ST181|.41|the BGR+OSCE judge's overall grade agrees with the expert at ρ = .32/.29/.41 (TICKS/VACC/TEACH)": [
+true,
+false
+],
+"ST181|.77–.85|reliability on double-rated subsets is ICC = .77–.85": [
+true,
+true
+],
+"ST181|.80|a second independently rated 15% of them (ICC = .80)": [
+true,
+false
+],
+"ST181|ICC(2,1)=.53; ICC(2,k)=.82|ICC(2,1) = .53, average-raters ICC(2,k) = .82": [
+false,
+true
+],
+"ST182|Cronbach's alpha .90-.98|annotated by ten trained graduate experts (Cronbach's alpha = .90-.98)": [
+false,
+true
+],
+"ST183|ICC = .93|the interrater reliability between the two raters was high, ICC = .93": [
+true,
+true
+],
+"ST184|0.502|Fleiss’ κ was 0.502 (95% CI, 0.439 to 0.560)": [
+true,
+false
+],
+"ST184|63.1%|Mean within-vignette pairwise agreement between raters was 63.1%": [
+true,
+true
+],
+"ST184|82.6%|Weighted agreement between the two human coders was 82.6%": [
+true,
+true
+],
+"ST185|0.15 (i1); 0.36 (i2)|RF 0.15 [0.02–0.26] 0.36 [0.20–0.54]": [
+false,
+true
+],
+"ST185|0.33 (i1); 0.40 (i2)|PF 0.33 [0.25–0.41] 0.40 [0.27–0.54]": [
+false,
+true
+],
+"ST187|0.788|Human-human PABAK averaged 0.788 across the 13 semantic fields": [
+true,
+true
+],
+"ST187|68.8%|the percent agreement for arc assignment was 68.8%": [
+true,
+true
+],
+"ST188|0.40|Endorse ... (κ = .40, [.04, .64])": [
+true,
+true
+],
+"ST188|0.69|followed by Reframe (κ = .69, [.39, .85])": [
+true,
+true
+],
+"ST188|0.80|Inter-expert agreement was highest for Soothe (κ = .80, 95% CI [.58, .90])": [
+true,
+true
+],
+"ST190|0.19|The overall α was 0.19, indicating low consistency among the three SLPs.": [
+true,
+false
+],
+"ST190|SLP1-SLP2 0.31; SLP1-SLP3 0.15; SLP2-SLP3 0.11|SLP1 and SLP2 (α = 0.31), ... SLP1–SLP3 (α = 0.15) and SLP2–SLP3 (α = 0.11)": [
+false,
+false
+],
+"ST191|0.11 (quadrant)|Fleiss quadrant κ = 0.11, though the two most MITI-aligned coders reach 0.52": [
+false,
+true
+],
+"ST191|GP 0.13, RA 0.42|mean pairwise quadratic-weighted κ: GP 0.13, RA 0.42": [
+true,
+true
+],
+"ST192|0.31|Overall agreement across the three raters was fair (Fleiss’ κ = 0.31).": [
+true,
+true
+],
+"ST192|0.49 to 0.81|Pairwise quadratic-weighted Cohen’s κ ranged from 0.49 to 0.81": [
+true,
+true
+],
+"ST192|0.927|Inter-rater reliability was high (quadratic-weighted κ = 0.927)": [
+true,
+true
+],
+"ST194|0.109|C1 0.109 1.. 0.956 0.184 0.183": [
+true,
+false
+],
+"ST194|0.151|C1 0.151 0.796 0.288 0.236 17/50": [
+true,
+true
+],
+"ST194|0.203|C3 0.203 / 0.207": [
+true,
+true
+],
+"ST194|0.489|C3 0.489 / 0.322": [
+true,
+true
+],
+"ST194|0.686|Two domain experts labeled the posts against written guidelines, with Cohen's κ = 0.686 between them [3]": [
+true,
+false
+],
+"ST198|.55|Model | GPT-4.5 | 7 | .62 [.46, .75] ... | .55 [.37, .70]": [
+true,
+true
+],
+"ST198|.57|Model | GPT-4o | 7 | .57 [.21, .76] ... | .65 [.50, .77]": [
+true,
+true
+],
+"ST198|.62|Model | GPT-4.5 | 7 | .62 [.46, .75] ... | .55 [.37, .70]": [
+true,
+true
+],
+"ST198|.62|Model | o3-mini-high | 7 | .67 [.52, .88] ... | .62 [.39, .76]": [
+true,
+true
+],
+"ST198|.63|Model | o3-mini | 7 | .67 [.52, .78] ... | .63 [.46, .75]": [
+true,
+true
+],
+"ST198|.65|Model | GPT-4o | 7 | .57 [.21, .76] ... | .65 [.50, .77]": [
+true,
+true
+],
+"ST198|.66|Protocol | o3-mini | 10 | .70 [.56, .80] ... | .66 [.34, .82]": [
+true,
+true
+],
+"ST198|.67|Model | o3-mini | 7 | .67 [.52, .78] ... | .63 [.46, .75]": [
+true,
+true
+],
+"ST198|.67|Model | o3-mini-high | 7 | .67 [.52, .88] ... | .62 [.39, .76]": [
+true,
+true
+],
+"ST198|.70|Protocol | o3-mini | 10 | .70 [.56, .80] ... | .66 [.34, .82]": [
+true,
+true
+],
+"ST198|.75|Initial | GPT-4o | 7 | .77 [.65, .85] ... | .75 [.63, .84]": [
+true,
+true
+],
+"ST198|.77|Initial | GPT-4o | 7 | .77 [.65, .85] ... | .75 [.63, .84]": [
+true,
+true
+],
+"ST199|0.52|we compute Fleiss' κ over the full dataset, obtaining κ = 0.52": [
+true,
+false
+],
+"ST200|0.7222, 0.7815, 0.7148, 0.7519 (MostVoted vs LeastVoted)|average accuracy between each human judge and the other judges for different evaluated pairs": [
+false,
+true
+],
+"ST201|0.78 (pre-discussion, 3 coders)|The pre-discussion inter-rater reliability reached a Krippendorff’s alpha of 0.78.": [
+false,
+true
+],
+"ST201|0.85, 0.84, 0.91 (coder pairs)|yielding Krippendorff’s alpha values of 0.85, 0.84, and 0.91": [
+false,
+true
+],
+"ST202|43.0-64.0 (single-rater ICC(3,1) across dimensions; VF 64.0)|Human single-rater agreement ceiling on the 625 fully rated videos.": [
+false,
+true
+],
+"ST203|0.63|Pearson’s r = 0.63, p < 0.001": [
+true,
+true
+],
+"ST203|0.685|ICC(A, 2) = 0.685, 95% CI [0.349, 0.849]": [
+true,
+true
+],
+"ST205|0.3770|Ekman | 0.3770 | 0.3826": [
+true,
+true
+],
+"ST205|0.3912|SevenEmotions | 0.3912 | 0.3893": [
+true,
+true
+],
+"ST205|0.4063|Plutchik | 0.4063 | 0.3899": [
+true,
+true
+],
+"ST205|0.4381|GoEmotions | 0.4381 | 0.3755": [
+true,
+true
+],
+"ST205|0.4622|SemEval | 0.4622 | 0.4576": [
+true,
+true
+],
+"ST206|81.13 (EN), 81.80 (ZH)|Overall Blame 81.13 81.80": [
+false,
+false
+],
+"ST206|83.33 (EN), 84.06 (ZH)|Overall Resp. 83.33 84.06": [
+false,
+true
+],
+"ST209|0.802|yielding a manually labeled dataset of 2000 posts in total (Cohen κ=0.802)": [
+true,
+true
+],
+"ST210|0.845|Strong vs. Strong 0.576 0.569 0.845": [
+true,
+true
+],
+"ST210|0.879|Weak vs. Weak 0.748 0.765 0.879": [
+true,
+true
+],
+"ST210|0.959|Strong vs. Weak 1.000 0.959 0.959": [
+true,
+true
+],
+"ST211|0.68 (average over 11 indicators; range 0.48-0.88)|average human-human κ of 0.68": [
+false,
+true
+],
+"ST212|0.286|The initial entity kappa score is 0.286.": [
+true,
+true
+],
+"ST215|0.79|the value of κ was found to be 0.79, suggesting substantial agreement between annotators": [
+true,
+true
+],
+"ST216|0.6160|F1-Score * 0.7505 0.7384 0.7208 0.6839 0.6160": [
+true,
+true
+],
+"ST216|0.6839|F1-Score * 0.7505 0.7384 0.7208 0.6839 0.6160": [
+true,
+true
+],
+"ST216|0.7208|F1-Score * 0.7505 0.7384 0.7208 0.6839 0.6160": [
+true,
+true
+],
+"ST216|0.7384|F1-Score * 0.7505 0.7384 0.7208 0.6839 0.6160": [
+true,
+true
+],
+"ST216|0.82|strong inter-annotator agreement, with a Cohen’s kappa coefficient of κ = 0.82": [
+true,
+true
+],
+"ST216|0.8308|SRC 0.8809 0.8843 0.8640 0.8766 0.8308": [
+true,
+true
+],
+"ST216|0.8640|SRC 0.8809 0.8843 0.8640 0.8766 0.8308": [
+true,
+true
+],
+"ST216|0.8766|SRC 0.8809 0.8843 0.8640 0.8766 0.8308": [
+true,
+true
+],
+"ST216|0.8809|SRC 0.8809 0.8843 0.8640 0.8766 0.8308": [
+true,
+true
+],
+"ST217|0.29|Percent agreement | 0.29": [
+true,
+true
+],
+"ST217|0.31|Percent agreement | 0.31": [
+true,
+true
+],
+"ST217|0.66|Krippendorff α | 0.66": [
+true,
+true
+],
+"ST217|0.69|Krippendorff α | 0.69": [
+true,
+true
+],
+"ST217|0.83|Gwet AC2a | 0.83": [
+true,
+true
+],
+"ST217|0.87|Gwet AC2 | 0.87": [
+true,
+true
+],
+"ST218|0.53|Open interviews also resulted in accurate scores, with a Pearson correlation of r = 0.53": [
+true,
+true
+],
+"ST218|0.54|Pearson correlation between predicted and true total scores of r = 0.54": [
+true,
+true
+],
+"ST219|72%|SMEs agreed with each other 72% in the mental health domain": [
+true,
+true
+],
+"ST219|75%|75% in the dietetics domain": [
+true,
+true
+],
+"ST220|0.6313|Tertiary 19,430 19,179 251 0.6313 Substantial": [
+true,
+true
+],
+"ST220|0.8284|Secondary 7370 7242 128 0.8284 Almost perfect": [
+true,
+true
+],
+"ST220|0.9131|Primary 2010 1954 56 0.9131 Almost perfect": [
+true,
+true
+],
+"ST221|0.58-0.65, median 0.58|Cohen's Kappa values ranging between 0.58 and 0.65, with a median at 0.58": [
+false,
+true
+],
+"ST221|0.60|a Krippendorff's α of 0.60": [
+true,
+false
+],
+"ST221|77.04%|higher for majority (82.63% mean overall) compared to consensus (77.04%)": [
+true,
+true
+],
+"ST221|82.63%|higher for majority (82.63% mean overall) compared to consensus (77.04%)": [
+true,
+true
+],
+"ST222|stereotyping 0.35 (89% agreement); discrediting 0.81|stereotyping, a rarer and more context-dependent class, had κ of 0.35 with 89% percentage agreement": [
+false,
+true
+],
+"ST223|0.88|Overall Average 0.87 0.90 0.87 0.88": [
+true,
+true
+],
+"ST226|0.44|Krippendorff's alpha across all moral foundation dimensions, resulting in α = 0.44 based on 735 moral questions": [
+true,
+true
+],
+"ST226|0.515 (average)|Human Avg 0.515": [
+false,
+true
+],
+"ST227|R1-3 κ>0.64 (emp, comp); applic. κ<0.60; R4-5 vs R1-3 <0.10|substantial agreement for both empathy and comprehensiveness (κ > 0.64), and moderate agreement for applicability (κ < 0.60)": [
+false,
+true
+],
+"ST229|0.62 [0.61, 0.63]|The raters agreed substantially ... on the strategy codings at an unweighted Cohen’s κ = 0.62 [0.61, 0.63]": [
+true,
+true
+],
+"ST231|0.429|Fleiss' Kappa ... yielding a score of 0.429, indicating moderate agreement": [
+true,
+true
+],
+"ST233|0.975 therapist; 0.916/0.986/0.890 client|Inter-annotator agreement as intraclass correlation (Wu et al., 2023)": [
+false,
+false
+],
+"ST235|0.69 to 0.88|the agreement scores ranged from 0.69 to 0.88 for strategies in our codebook": [
+true,
+true
+],
+"ST236|0.43|yielding 0.52 for ICF categories and 0.43 for sentiment": [
+true,
+false
+],
+"ST236|0.52|yielding 0.52 for ICF categories and 0.43 for sentiment": [
+true,
+false
+],
+"ST236|0.54|micro-averaged F1-score was also calculated for IAA, resulting in 0.54 for ICF categories": [
+true,
+true
+],
+"ST236|0.67|0.54 for ICF categories and 0.67 for sentiment": [
+true,
+true
+],
+"ST237|0.92 [0.85;0.96]|HumanRater2 | 0.92 [0.85;0.96]": [
+true,
+true
+],
+"ST238|.793|The ICC between human evaluators across all 120 articles was .793": [
+true,
+true
+],
+"ST239|0.95|lower reliability (α = .28, Gwet's AC1 = 0.95)": [
+true,
+true
+],
+"ST239|0.98|α = .79, Gwet's AC1 = 0.98": [
+true,
+true
+],
+"ST239|α = .28|lower reliability (α = .28, Gwet's AC1 = 0.95)": [
+true,
+true
+],
+"ST239|α = .79|α = .79, Gwet's AC1 = 0.98": [
+true,
+true
+],
+"ST240|0.256|Depression ... κ 0.337 0.374 0.535 0.331 0.335 0.610 0.256 0.282 0.544 0.343 0.370 0.616": [
+true,
+true
+],
+"ST240|0.259|Suicide Risk ... κ 0.363 0.318 0.936 0.400 0.427 0.839 0.259 0.262 0.938 0.373 0.401 0.942": [
+true,
+true
+],
+"ST240|0.262|Suicide Risk ... κ 0.363 0.318 0.936 0.400 0.427 0.839 0.259 0.262 0.938 0.373 0.401 0.942": [
+true,
+true
+],
+"ST240|0.282|Depression ... κ 0.337 0.374 0.535 0.331 0.335 0.610 0.256 0.282 0.544 0.343 0.370 0.616": [
+true,
+true
+],
+"ST240|0.318|Suicide Risk ... κ 0.363 0.318 0.936 0.400 0.427 0.839 0.259 0.262 0.938 0.373 0.401 0.942": [
+true,
+true
+],
+"ST240|0.331|Depression ... κ 0.337 0.374 0.535 0.331 0.335 0.610 0.256 0.282 0.544 0.343 0.370 0.616": [
+true,
+true
+],
+"ST240|0.335|Depression ... κ 0.337 0.374 0.535 0.331 0.335 0.610 0.256 0.282 0.544 0.343 0.370 0.616": [
+true,
+true
+],
+"ST240|0.337|Depression ... κ 0.337 0.374 0.535 0.331 0.335 0.610 0.256 0.282 0.544 0.343 0.370 0.616": [
+true,
+true
+],
+"ST240|0.343|Depression ... κ 0.337 0.374 0.535 0.331 0.335 0.610 0.256 0.282 0.544 0.343 0.370 0.616": [
+true,
+true
+],
+"ST240|0.363|Suicide Risk ... κ 0.363 0.318 0.936 0.400 0.427 0.839 0.259 0.262 0.938 0.373 0.401 0.942": [
+true,
+true
+],
+"ST240|0.370|Depression ... κ 0.337 0.374 0.535 0.331 0.335 0.610 0.256 0.282 0.544 0.343 0.370 0.616": [
+true,
+true
+],
+"ST240|0.373|Suicide Risk ... κ 0.363 0.318 0.936 0.400 0.427 0.839 0.259 0.262 0.938 0.373 0.401 0.942": [
+true,
+true
+],
+"ST240|0.374|Depression ... κ 0.337 0.374 0.535 0.331 0.335 0.610 0.256 0.282 0.544 0.343 0.370 0.616": [
+true,
+true
+],
+"ST240|0.400|Suicide Risk ... κ 0.363 0.318 0.936 0.400 0.427 0.839 0.259 0.262 0.938 0.373 0.401 0.942": [
+true,
+true
+],
+"ST240|0.401|Suicide Risk ... κ 0.363 0.318 0.936 0.400 0.427 0.839 0.259 0.262 0.938 0.373 0.401 0.942": [
+true,
+true
+],
+"ST240|0.427|Suicide Risk ... κ 0.363 0.318 0.936 0.400 0.427 0.839 0.259 0.262 0.938 0.373 0.401 0.942": [
+true,
+true
+],
+"ST240|0.467|Social Anxiety ... κ 0.736 0.719 0.792 0.644 0.665 0.777 0.467 0.482 0.893 0.644 0.644 0.914": [
+true,
+true
+],
+"ST240|0.482|Social Anxiety ... κ 0.736 0.719 0.792 0.644 0.665 0.777 0.467 0.482 0.893 0.644 0.644 0.914": [
+true,
+true
+],
+"ST240|0.644|Social Anxiety ... κ 0.736 0.719 0.792 0.644 0.665 0.777 0.467 0.482 0.893 0.644 0.644 0.914": [
+true,
+true
+],
+"ST240|0.665|Social Anxiety ... κ 0.736 0.719 0.792 0.644 0.665 0.777 0.467 0.482 0.893 0.644 0.644 0.914": [
+true,
+true
+],
+"ST240|0.690|Generalized Anxiety ... κ 0.841 0.842 0.831 0.815 0.832 0.880 0.690 0.719 0.914 0.821 0.847 0.941": [
+true,
+true
+],
+"ST240|0.719|Generalized Anxiety ... κ 0.841 0.842 0.831 0.815 0.832 0.880 0.690 0.719 0.914 0.821 0.847 0.941": [
+true,
+true
+],
+"ST240|0.719|Social Anxiety ... κ 0.736 0.719 0.792 0.644 0.665 0.777 0.467 0.482 0.893 0.644 0.644 0.914": [
+true,
+true
+],
+"ST240|0.736|Social Anxiety ... κ 0.736 0.719 0.792 0.644 0.665 0.777 0.467 0.482 0.893 0.644 0.644 0.914": [
+true,
+true
+],
+"ST240|0.78|jointly annotated 150 cases, achieving strong inter-rater reliability with an ICC of 0.78": [
+true,
+true
+],
+"ST240|0.815|Generalized Anxiety ... κ 0.841 0.842 0.831 0.815 0.832 0.880 0.690 0.719 0.914 0.821 0.847 0.941": [
+true,
+true
+],
+"ST240|0.821|Generalized Anxiety ... κ 0.841 0.842 0.831 0.815 0.832 0.880 0.690 0.719 0.914 0.821 0.847 0.941": [
+true,
+true
+],
+"ST240|0.832|Generalized Anxiety ... κ 0.841 0.842 0.831 0.815 0.832 0.880 0.690 0.719 0.914 0.821 0.847 0.941": [
+true,
+true
+],
+"ST240|0.841|Generalized Anxiety ... κ 0.841 0.842 0.831 0.815 0.832 0.880 0.690 0.719 0.914 0.821 0.847 0.941": [
+true,
+true
+],
+"ST240|0.842|Generalized Anxiety ... κ 0.841 0.842 0.831 0.815 0.832 0.880 0.690 0.719 0.914 0.821 0.847 0.941": [
+true,
+true
+],
+"ST240|0.847|Generalized Anxiety ... κ 0.841 0.842 0.831 0.815 0.832 0.880 0.690 0.719 0.914 0.821 0.847 0.941": [
+true,
+true
+],
+"ST240|0.87|random re-sampling of 50 cases confirmed the annotation quality with an ICC of 0.87": [
+true,
+true
+],
+"ST240|> 0.85|maintaining high agreement (Cohen's κ > 0.85)": [
+true,
+true
+],
+"ST241|ICC(3,4) = 0.897, 95% CI [0.843, 0.935]|ICC(3, 4) = 0.897, 95% CI [0.843, 0.935]": [
+false,
+true
+],
+"ST242|0.89|The Cohen's Kappa of the two annotators is 0.89": [
+true,
+true
+],
+"ST243|0.66|agreement = 0.86; Krippendorff's α = 0.66": [
+true,
+false
+],
+"ST243|0.81|Krippendorff's α = 0.81": [
+true,
+false
+],
+"ST243|0.86|excellent inter-rater reliability (ICC= 0.86)": [
+true,
+true
+],
+"ST244|0.54|Exact agreement between clinical raters was 56.00% (Fleiss' Kappa = 0.54, moderate agreement).": [
+true,
+true
+],
+"ST245|85.51%|we randomly selected 50 samples for joint annotation. Once Cohen's Kappa reached 85.51%": [
+true,
+true
+],
+"ST247|0.541|0.625 (95% CI: 0.583 - 0.667) and 0.541 (95% CI: 0.494 - 0.588)": [
+true,
+true
+],
+"ST247|0.625|Gwet's AC1 and Fleiss' Kappa between two coders' annotation were 0.625": [
+true,
+true
+],
+"ST247|0.851|0.972 (95% CI: 0.966 - 0.979) and 0.851 (95% CI: 0.817 - 0.886)": [
+true,
+true
+],
+"ST247|0.972|Gwet's AC1 and Fleiss' Kappa scores on the 1,080 posts labeled by the two coders were 0.972": [
+true,
+true
+],
+"ST249|0.7983|The agreement for individual post labels (H1, H2, C) was 0.7983": [
+true,
+false
+],
+"ST249|0.8111|The agreement for contextualized labels that incorporate historical information (H1+H2+C) was 0.8111": [
+true,
+true
+],
+"ST250|0.71|After consolidating these into coarse-grained categories for evaluation, the mean κ increases to 0.71.": [
+true,
+true
+],
+"ST250|0.82|independently annotate a shared subset of 95 posts, achieving a high inter-annotator agreement of 0.82": [
+true,
+true
+],
+"ST251|ICC(2,1) .20-.26 (CCT, PAR, EMP, OVR); .03 SST|Expert single-rater reliability was low for CCT, PAR, EMP, and OVR (ICC(2,1) = .20–.26) and very low for SST (.03).": [
+false,
+true
+],
+"ST252|0.855|GPT-4o Zero-Shot 0.875 0.855 0.825 0.868 0.873": [
+true,
+true
+],
+"ST252|0.876|GPT–5.5 Zero-Shot 0.891 0.876 0.831 0.902 0.895": [
+true,
+true
+],
+"ST252|0.965|GPT-4o Zero-Shot 0.962 0.970 0.968 0.965": [
+true,
+true
+],
+"ST253|r=.76 internal; .86 external|correlation between human raters for internal details... r =.76": [
+false,
+true
+],
+"ST253|r=.78 internal; .73 external|two human raters had a correlation of r =.78": [
+false,
+false
+],
+"ST253|r=.78 internal; .83 external|two human raters showed a correlation of r =.78": [
+false,
+true
+],
+"ST253|r=.80 internal; .76 external|correlation between the two human raters was r =.80": [
+false,
+true
+],
+"ST253|r=.81 internal; .76 external|human raters showed a correlation of r =.81": [
+false,
+true
+],
+"ST253|r=.84 internal; .80 external|correlation between human raters was strong, r =.84": [
+false,
+true
+],
+"ST255|0.91|coded independently by two survey researchers (Cohen's kappa = 0.91": [
+true,
+true
+],
+"ST256|W = 0.626|their ratings demonstrated high consistency, with Kendall's W = 0.626 (p < 0.010)": [
+true,
+true
+],
+"ST256|W = 0.626|yielded substantial agreement (Kendall's W = 0.626, p < 0.010)": [
+true,
+true
+],
+"ST257|ICC .84 to 1.0 per item, median .93|Interrater reliability for the 10 items ranged from ICC = .84 ... to ICC = 1.0 ..., with a median of ICC = .93.": [
+false,
+true
+],
+"ST258|0.47|Fleiss’ kappa scores on this subset were 0.74 for therapist behavior and 0.47 for client talk type": [
+true,
+true
+],
+"ST259|36%|took appropriate actions in response to risk (36% match rate)": [
+true,
+true
+],
+"ST259|43% (57% different ratings)|Just over half (57%) the time (across all dimensions), clinicians actually gave the same conversation different ratings": [
+false,
+true
+],
+"ST259|48%|detected risk (48% match rate)": [
+true,
+true
+],
+"ST261|consistently exceeding .80 (agreement 94%-99%)|inter-rater agreement for the different scenarios ranged from 94% to 99%, with Cohen's Kappa values consistently exceeding the .80 threshold": [
+false,
+true
+],
+"ST261|exceeding .83 (agreement 93.33%-98.30%)|ranged from 93.33% to 98.30%, with Cohen's Kappas consistently exceeding .83": [
+false,
+true
+],
+"ST263|ICC(2,4) = .791|Inter-rater reliability for the total set of valid achievements was acceptable, ICC(2,4) = .791": [
+true,
+true
+],
+"ST263|ICC(3,6) = .934|Inter-rater reliability was excellent, ICC(3,6) = .934": [
+true,
+true
+],
+"ST264|0.71|We achieved Cohen's κ of 0.71 across all 4,200 messages": [
+true,
+false
+],
+"ST264|0.78|after a total of 200 entities had been examined, achieving a Cohen's κ of 0.78": [
+true,
+false
+],
+"ST265|0.330-0.738 (pairwise)|Expert 3 vs Expert 4 0.738; Expert 1 vs Expert 2 0.330": [
+false,
+false
+],
+"ST265|0.457-0.802 (pairwise)|Expert 3 vs Expert 4 0.802; Expert 1 vs Expert 3 0.457": [
+false,
+false
+],
+"ST266|0.80 (0.67 to 0.88)|ITI DSO severity ICC | 0.80 (0.67 to 0.88) | 0.82 (0.72 to 0.90) | 0.86 (0.77 to 0.92)": [
+true,
+false
+],
+"ST266|0.82 (0.72 to 0.90)|ITI DSO severity ICC | 0.80 (0.67 to 0.88) | 0.82 (0.72 to 0.90) | 0.86 (0.77 to 0.92)": [
+true,
+false
+],
+"ST266|0.87 (0.78 to 0.92)|ITI PTSD severity ICC | 0.85 (0.76 to 0.91) | 0.87 (0.78 to 0.92) | 0.88 (0.80 to 0.93)": [
+true,
+false
+],
+"ST266|0.88 (0.80 to 0.93)|ITI PTSD severity ICC | 0.85 (0.76 to 0.91) | 0.87 (0.78 to 0.92) | 0.88 (0.80 to 0.93)": [
+true,
+false
+],
+"ST266|0.91|0.91 for ITI DSO severity": [
+true,
+true
+],
+"ST266|0.92|0.92 for ITI PTSD severity": [
+true,
+true
+],
+"ST266|0.99|0.99 for CAPS-5 PTSD severity": [
+true,
+true
+],
+"ST271|0.77|for fine-grained, 0.77 [MSHS]": [
+true,
+true
+],
+"ST271|0.81|0.81 [WCM]": [
+true,
+true
+],
+"ST271|0.86|0.86 [WCM]": [
+true,
+true
+],
+"ST271|0.92|coarse-grained annotation, the inter-annotator agreement (IAA) Cohen's Kappa scores were 0.92 [MSHS]": [
+true,
+true
+],
+"ST272|0.1178-0.3854 (P2-P4 0.1178; P1-P3 0.3854)|values below the diagonal are Kendall-τ between annotators of the scores for every interaction": [
+false,
+true
+],
+"ST272|MIPSA 0.5303-0.7623 (P2-P3 0.5303; P1-P3 0.7623)|above the diagonal are mean interaction-level pairwise system accuracy (MIPSA)": [
+false,
+true
+],
+"ST274|0.96|The two research assistants showed near-perfect consistency with each other (κ = 0.96)": [
+true,
+false
+],
+"ST275|0.78|we computed Krippendorff's α, resulting in a value of 0.78": [
+true,
+true
+],
+"ST275|0.82|we calculated Fleiss' κ, achieving a score of 0.82": [
+true,
+true
+],
+"ST276|0.69|average Cohen's Kappa of 0.69 for all iterations involving the dataset annotation": [
+true,
+true
+],
+"ST278|0.25|Human 0.25": [
+true,
+false
+],
+"ST278|0.50|Human 0.50": [
+true,
+true
+],
+"ST278|70|a speech therapist ... manually re-assessed ten samples per language": [
+true,
+true
+],
+"ST278|80|a speech therapist ... manually re-assessed ten samples per language": [
+true,
+true
+],
+"ST281|0.85|weighted Cohen's Kappa for the 7-point scale, yielding a value of 0.85": [
+true,
+true
+],
+"ST281|0.96|The correlation among the scores of the two raters was also very high, r = 0.96": [
+true,
+true
+],
+"ST282|SHCMP >60% for n=2 bins|the SHCMP scores are high (greater than 60% for n = 2)": [
+false,
+true
+],
+"ST284|0.47|T2 counsellor codes (κ = 0.47)": [
+true,
+true
+],
+"ST284|0.60|(d) T2 Client Fleiss' κ = 0.60": [
+true,
+true
+],
+"ST284|0.67|0.67 for client codes": [
+true,
+true
+],
+"ST284|0.68|overall Fleiss' κ was 0.68 for counsellor codes": [
+true,
+true
+],
+"ST284|0.70|(c) T2 Counsellor Fleiss' κ = 0.70": [
+true,
+true
+],
+"ST284|0.74|(b) T1 Client Fleiss' κ = 0.74": [
+true,
+true
+],
+"ST284|0.79|(a) T1 Counsellor Fleiss' κ = 0.79": [
+true,
+true
+],
+"ST285|0.74|The final IRR between the two researchers resulted in a Cohen's Kappa of 0.74.": [
+true,
+true
+],
+"ST287|0.58|Cohen's Kappa result of κ = 0.58 between the EHRs": [
+true,
+true
+],
+"ST287|0.60|EHR 2 0.72 0.80 0.43 0.60": [
+true,
+true
+],
+"ST287|0.79|EHR 2 0.75 0.79 0.50 0.58": [
+true,
+true
+],
+"ST287|0.80|EHR 2 0.72 0.80 0.43 0.60": [
+true,
+true
+],
+"ST287|0.85|EHR 2 0.98 0.93 0.96 0.85": [
+true,
+true
+],
+"ST287|0.93|EHR 2 0.98 0.93 0.96 0.85": [
+true,
+true
+],
+"ST289|0.91/0.67/0.63/0.76 (low-vhigh); sum -0.02|Human reliability | 0.91 ... | 0.67 ... | 0.63 ... | 0.76 ... | −0.02": [
+false,
+true
+],
+"ST289|voices 1.00; hopelessness 0.62; withdrawal 0.92|hearing voices ... (human α = 1.00 ... hopelessness ... human α = 0.62": [
+false,
+true
+],
+"ST293|0.46|The interrater‐reliability of the human evaluators was moderate (Fleiss' kappa: 0.46)": [
+true,
+true
+],
+"ST294|0.962|inter-rater reliability was calculated using Cohen's κ = 0.962": [
+true,
+true
+],
+"ST295|0.38|0.53 ± 0.27, 0.38 ± 0.18, and 0.55 ± 0.17": [
+true,
+true
+],
+"ST295|0.42|0.55 ± 0.16, 0.42 ± 0.17, and 0.56 ± 0.17": [
+true,
+true
+],
+"ST295|0.53|0.53 ± 0.27, 0.38 ± 0.18, and 0.55 ± 0.17": [
+true,
+true
+],
+"ST295|0.55|0.53 ± 0.27, 0.38 ± 0.18, and 0.55 ± 0.17": [
+true,
+true
+],
+"ST295|0.55|0.55 ± 0.16, 0.42 ± 0.17, and 0.56 ± 0.17": [
+true,
+true
+],
+"ST295|0.56|0.55 ± 0.16, 0.42 ± 0.17, and 0.56 ± 0.17": [
+true,
+true
+],
+"ST296|0.52 (0.524)|inter-annotator κ values ranged from 0.33 to 0.67 with an overall κ of 0.52": [
+false,
+true
+],
+"ST296|0.59 (0.586)|inter-annotator agreement (κ) ranged from 0.49 to 0.71 with an overall κ of 0.59": [
+false,
+true
+],
+"ST298|.85 (students); .84 (working adults)|the ICC for the average ratings across the three raters was .85 for the student sample": [
+false,
+true
+],
+"ST300|0.25|Qwen2.5 -0.16 0.55 0.32 0.61 0.76 0.90 0.52 0.80 0.15 0.25 (self, observer per trait)": [
+true,
+false
+],
+"ST300|0.44|Llama-3 -0.23 0.44 0.41 0.45 0.78 0.60 0.58 0.78 0.05 0.59 (self, observer per trait)": [
+true,
+false
+],
+"ST300|0.45|Llama-3 -0.23 0.44 0.41 0.45 0.78 0.60 0.58 0.78 0.05 0.59 (self, observer per trait)": [
+true,
+false
+],
+"ST300|0.55|Qwen2.5 -0.16 0.55 0.32 0.61 0.76 0.90 0.52 0.80 0.15 0.25 (self, observer per trait)": [
+true,
+false
+],
+"ST300|0.59|Llama-3 -0.23 0.44 0.41 0.45 0.78 0.60 0.58 0.78 0.05 0.59 (self, observer per trait)": [
+true,
+false
+],
+"ST300|0.60|Llama-3 -0.23 0.44 0.41 0.45 0.78 0.60 0.58 0.78 0.05 0.59 (self, observer per trait)": [
+true,
+false
+],
+"ST300|0.61|Qwen2.5 -0.16 0.55 0.32 0.61 0.76 0.90 0.52 0.80 0.15 0.25 (self, observer per trait)": [
+true,
+false
+],
+"ST300|0.78|Llama-3 -0.23 0.44 0.41 0.45 0.78 0.60 0.58 0.78 0.05 0.59 (self, observer per trait)": [
+true,
+false
+],
+"ST300|0.80|Qwen2.5 -0.16 0.55 0.32 0.61 0.76 0.90 0.52 0.80 0.15 0.25 (self, observer per trait)": [
+true,
+false
+],
+"ST300|0.90|Qwen2.5 -0.16 0.55 0.32 0.61 0.76 0.90 0.52 0.80 0.15 0.25 (self, observer per trait)": [
+true,
+false
+],
+"ST300|AGR 0.59|Inter-rater agreement (Pearson's correlation coefficient) of human ratings": [
+false,
+false
+],
+"ST300|CON 0.69|Inter-rater agreement (Pearson's correlation coefficient) of human ratings": [
+false,
+false
+],
+"ST300|EXT 0.73|Inter-rater agreement (Pearson's correlation coefficient) of human ratings": [
+false,
+false
+],
+"ST300|NEU 0.45|Inter-rater agreement (Pearson's correlation coefficient) of human ratings": [
+false,
+false
+],
+"ST300|OPE 0.31|Inter-rater agreement (Pearson's correlation coefficient) of human ratings": [
+false,
+false
+],
+"ST301|> 0.7|coders achieved inter-rater reliability (Cohen's Kappa > 0.7) with the lead coder": [
+true,
+true
+],
+"ST302|0.697|Cohen's Kappa is 0.697, the MCC is 0.7078, and the F1 Score is 0.8024": [
+true,
+false
+],
+"ST304|0.57|we achieve an emotion Fleiss kappa score of 0.57": [
+true,
+true
+],
+"ST304|0.69|we achieve a strategy Fleiss kappa score of 0.69": [
+true,
+true
+],
+"ST308|0.6888 (overall)|we adopt the ICC(2, k) form with two-way random effects, absolute agreement, and multiple raters": [
+false,
+true
+],
+"ST309|0.5119|RE Kappa 0.5119": [
+true,
+true
+],
+"ST309|0.8452|RR F1 0.8452": [
+true,
+true
+],
+"ST310|0.4779|0.4779 for E/I, 0.4686 for S/N, 0.5517 for T/F, 0.4622 for J/P.": [
+true,
+true
+],
+"ST310|2.17|gpt-4o-mini Zero-shot 2.78 2.17 2.77 2.24 2.37 1.99 3.11 2.60": [
+true,
+true
+],
+"ST310|2.28|gpt-4o Zero-shot 2.91 2.28 2.90 2.23 2.62 2.06 3.80 3.15": [
+true,
+true
+],
+"ST310|2.78|gpt-4o-mini Zero-shot 2.78 2.17 2.77 2.24 2.37 1.99 3.11 2.60": [
+true,
+true
+],
+"ST310|2.91|gpt-4o Zero-shot 2.91 2.28 2.90 2.23 2.62 2.06 3.80 3.15": [
+true,
+true
+],
+"ST311|0.91 (HurricaneEmo avg)|HurricaneEmo 0.92 0.89 0.92 0.91": [
+false,
+true
+],
+"ST313|0.95 (kappa, 3 annotators)|The κ agreement of the 3 annotators was 0.95": [
+false,
+true
+],
+"ST314|approximately 82%|occurring in approximately 82% of the dataset’s turning point events": [
+true,
+true
+],
+"ST315|0.83|a Fleiss-Kappa score of 0.83 was calculated, indicating a high level of agreement": [
+true,
+false
+],
+"ST316|32.6|CoI ... 53.2 32.6": [
+true,
+true
+],
+"ST316|34.5|CoI 63.5 34.5": [
+true,
+true
+],
+"ST316|34.6|CoI ... 52.0 34.6": [
+true,
+true
+],
+"ST316|38.0|Zeroshot 42.7 33.6 40.3 31.0 39.6 30.4 52.0 38.0 43.7 33.3": [
+true,
+true
+],
+"ST316|40.5|CoI 63.5 34.5 53.2 32.6 52.0 34.6 60.2 40.5 57.2 35.6": [
+true,
+true
+],
+"ST316|52.0|CoI ... 52.0 34.6": [
+true,
+true
+],
+"ST316|52.0|Zeroshot 42.7 33.6 40.3 31.0 39.6 30.4 52.0 38.0 43.7 33.3": [
+true,
+true
+],
+"ST316|53.2|CoI ... 53.2 32.6": [
+true,
+true
+],
+"ST316|60.2|CoI 63.5 34.5 53.2 32.6 52.0 34.6 60.2 40.5 57.2 35.6": [
+true,
+true
+],
+"ST316|63.5|CoI 63.5 34.5": [
+true,
+true
+],
+"ST319|21.42|Avg. InternLM2 25.50/21.42 79.59/76.56": [
+true,
+true
+],
+"ST319|25.50|Avg. InternLM2 25.50/21.42 79.59/76.56": [
+true,
+true
+],
+"ST319|32.15|Avg. GPT-4 32.15/35.98 72.07/75.03": [
+true,
+false
+],
+"ST319|35.98|Avg. GPT-4 32.15/35.98 72.07/75.03": [
+true,
+false
+],
+"ST319|70.53|Avg. ESC-RANK 70.53/71.27 98.93/99.17": [
+true,
+false
+],
+"ST319|71.27|Avg. ESC-RANK 70.53/71.27 98.93/99.17": [
+true,
+false
+],
+"ST319|72.07|Avg. GPT-4 32.15/35.98 72.07/75.03": [
+true,
+false
+],
+"ST319|75.03|Avg. GPT-4 32.15/35.98 72.07/75.03": [
+true,
+false
+],
+"ST319|98.93|Avg. ESC-RANK 70.53/71.27 98.93/99.17": [
+true,
+false
+],
+"ST319|99.17|Avg. ESC-RANK 70.53/71.27 98.93/99.17": [
+true,
+false
+],
+"ST322|0.88|average sentiment scores for first compared to second raters in both Study 1 (Pearson R = 0.88": [
+true,
+true
+],
+"ST322|0.91|Study 2 (R = 0.91, P < 0.001": [
+true,
+true
+],
+"ST325|.33|Constructive .33 .20 .25 .33 .20 .25 .29 .40 .33": [
+true,
+true
+],
+"ST325|.65|Active .77 .40 .53 .74 .61 .71 .67 .64 .65": [
+true,
+true
+],
+"ST325|.77|Passive .59 .10 .74 .71 .85 .77 .77 .79 .77": [
+true,
+true
+],
+"ST325|.79|Active .69 .62 .66 .50 .57 .53 .68 .93 .79": [
+true,
+true
+],
+"ST325|.84|achieving an inter-rater reliability (IRR) of Cohen's K = .84": [
+true,
+true
+],
+"ST328|.98 (ICC(2,k))|Only ratings of social desirability (.98) surpassed this expectation": [
+false,
+true
+],
+"ST328|OB .78; IP .75; BR .73; ST .79; AB .57 (ICC(2,k))|observability (.78), importance (.75), base rate (.73) and stability (.79) just missed it": [
+false,
+true
+],
+"ST329|0.37|GPT3 vs. Annotator (real data) 0.39 0.52 0.37": [
+true,
+true
+],
+"ST329|0.39|GPT3 vs. Annotator (real data) 0.39 0.52 0.37": [
+true,
+true
+],
+"ST329|0.40|GPT3 vs. Annotator (synthetic data) 0.64 0.63 0.40": [
+true,
+true
+],
+"ST329|0.52|GPT3 vs. Annotator (real data) 0.39 0.52 0.37": [
+true,
+true
+],
+"ST329|0.60 / 0.59 / 0.35|Annotator vs. Annotator (real data) 0.60 0.59 0.35": [
+false,
+true
+],
+"ST329|0.63|GPT3 vs. Annotator (synthetic data) 0.64 0.63 0.40": [
+true,
+true
+],
+"ST329|0.64|GPT3 vs. Annotator (synthetic data) 0.64 0.63 0.40": [
+true,
+true
+],
+"ST329|0.69|GPT4 vs. Annotator (synthetic data) 0.70 0.69 0.71": [
+true,
+true
+],
+"ST329|0.70|GPT4 vs. Annotator (synthetic data) 0.70 0.69 0.71": [
+true,
+true
+],
+"ST329|0.71|GPT4 vs. Annotator (synthetic data) 0.70 0.69 0.71": [
+true,
+true
+],
+"ST329|0.77 / 0.71 / 0.68|Annotator vs. Annotator (synthetic data) 0.77 0.71 0.68": [
+false,
+true
+],
+"ST331|range .83 to .98 per story (total scores)|when considering total scores, Pearson correlations ranged between .83 and .98 per story": [
+false,
+true
+],
+"ST333|49.1%|weighted F-1 score of 49.1%, 77.7%, and 54.6% for CBT-CD, CBT-PC, and CBT-FC": [
+true,
+false
+],
+"ST333|54.6%|weighted F-1 score of 49.1%, 77.7%, and 54.6% for CBT-CD, CBT-PC, and CBT-FC": [
+true,
+false
+],
+"ST333|77.7%|weighted F-1 score of 49.1%, 77.7%, and 54.6% for CBT-CD, CBT-PC, and CBT-FC": [
+true,
+false
+],
+"ST334|F1 = .77|(2) F1 = .77": [
+true,
+true
+],
+"ST334|F1 = .95|(2) F1 = .95": [
+true,
+true
+],
+"ST334|α = .63|PTSD ... (1) α = .63": [
+true,
+true
+],
+"ST334|α = .69|Counseling ... (1) α = .69": [
+true,
+true
+],
+"ST334|κ = .82|annotated a subset of 200 instances from each dataset ... (Cohen's κ = .82)": [
+true,
+true
+],
+"ST335|0.392 (empathy)|KA 0.214 0.316 0.392 0.392": [
+false,
+true
+],
+"ST335|0.422 (empathy)|Agreement scores for Urdu annotators on the Roman Urdu dataset.": [
+false,
+true
+],
+"ST337|0.85|intra-class coefficients were 0.85, 0.97 and 0.94 for coherence, content and tangentiality": [
+true,
+true
+],
+"ST337|0.94|intra-class coefficients were 0.85, 0.97 and 0.94 for coherence, content and tangentiality": [
+true,
+true
+],
+"ST337|0.97|intra-class coefficients were 0.85, 0.97 and 0.94 for coherence, content and tangentiality": [
+true,
+true
+],
+"ST339|0.513 (0.028)|computed r for each rater by comparing their ratings with those assigned by other raters": [
+true,
+true
+],
+"ST341|77%|a 77% (E1-E2) inter-rater concordance ratio": [
+true,
+true
+],
+"ST345|19.7|LLaMA-3-8B 41.8 42.5 29.4 31.7 19.7 42.4 47.1 43.2": [
+true,
+true
+],
+"ST345|39.0|GPT-3.5 42.2 37.6 37.9 35.1 39.0 40.0 54.5 64.3": [
+true,
+true
+],
+"ST345|41.8|LLaMA-3-8B 41.8 42.5 29.4 31.7 19.7 42.4 47.1 43.2": [
+true,
+true
+],
+"ST345|42.2|GPT-3.5 42.2 37.6 37.9 35.1 39.0 40.0 54.5 64.3": [
+true,
+true
+],
+"ST345|42.4|GPT-4 42.4 37.6 37.5 34.7 52.4 62.3 63.6 59.3": [
+true,
+true
+],
+"ST345|52.4|GPT-4 ... 52.4 62.3": [
+true,
+true
+],
+"ST345|59.3|GPT-4 ... 63.6 59.3": [
+true,
+true
+],
+"ST345|63.6|GPT-4 ... 63.6 59.3": [
+true,
+true
+],
+"ST345|63.8|GPT-4 3 63.8 49.4 66.5 74.1 58.5": [
+true,
+false
+],
+"ST345|66.5|GPT-4 3 63.8 49.4 66.5 74.1 58.5": [
+true,
+false
+],
+"ST349|0.62|0.62 for Perspective": [
+true,
+false
+],
+"ST349|0.73|0.73 for Resolution": [
+true,
+true
+],
+"ST349|0.76|0.76 for Compromise": [
+true,
+true
+],
+"ST349|0.79|0.79 for Limits": [
+true,
+true
+],
+"ST349|0.79|0.79 for change": [
+true,
+true
+],
+"ST355|0.32|Cohen's kappa between annotators was 0.32": [
+true,
+true
+],
+"ST355|0.38|inner-annotator agreement (0.38 Cohen's kappa coefficient) observed in the Facebook posts": [
+true,
+true
+],
+"ST362|95%|After the inter-annotator agreement score reaches 95% in assessing the small batches": [
+true,
+true
+],
+"ST363|0.7834|annotated 283 therapist utterances and 91 client utterances (inter-rater agreement, krippendorff’s alpha = 0.7834)": [
+true,
+true
+],
+"ST366|ICCs = .71 - .96|Originality ICCs = .71 - .96": [
+true,
+true
+],
+"ST366|ICCs = .76 - .88|Quality ICCs = .76 - .88": [
+true,
+true
+],
+"ST367|0.412|About 17 examples were annotated by both independently, and on this subset the Fleiss Kappa (1971) value is 0.412": [
+true,
+false
+],
+"ST370|20.21|ChatGPT + ZCoT 77.10 20.21": [
+true,
+false
+],
+"ST370|33.22|GPT-4 + ZCoT 81.97 33.22": [
+true,
+false
+],
+"ST370|77.10|ChatGPT + ZCoT 77.10": [
+true,
+true
+],
+"ST370|81.97|GPT-4 + ZCoT 81.97": [
+true,
+true
+],
+"ST371|0.88|Question complexity: Cohen's κ = 0.88": [
+true,
+false
+],
+"ST371|0.90|Syntactic Structure: Cohen's κ = 0.90": [
+true,
+false
+],
+"ST372|.18 - .45|Election data ... .18 - .45": [
+true,
+true
+],
+"ST372|.25 - .53|Feedback data ... Fleiss' Kappa (min – max) .25 - .53": [
+true,
+false
+],
+"ST372|.27 - .53|Reddit data ... .27 - .53": [
+true,
+true
+],
+"ST372|.55|Hate speech data ... .55": [
+true,
+true
+],
+"ST376|NR (threshold 0.7 used to discard)|For the controversial ratings which have low agreements (less than 0.7), we discard this statement and introduce another one.": [
+false,
+false
+],
+"ST379|0.60 (95% CI 0.57;0.64)|turn-level (Krippendorff's α nominal: 0.60 (95% CI 0.57;0.64)": [
+true,
+true
+],
+"ST379|0.79 (95% CI 0.73;0.84)|Krippendorff's α nominal: 0.79 (95% CI 0.73;0.84)": [
+true,
+true
+],
+"ST379|0.80 (95% CI 0.75;0.84)|Gwet's AC1: 0.80 (95% CI 0.75;0.84)": [
+true,
+true
+],
+"ST379|0.88 (95% CI 0.87;0.89)|Gwet's AC1: 0.88 (95% CI 0.87;0.89)": [
+true,
+true
+]
+}

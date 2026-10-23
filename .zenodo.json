@@ -1,0 +1,29 @@
+{
+  "title": "Agreement between large language models and human coders on psychological and clinical text: data and code",
+  "upload_type": "dataset",
+  "description": "<p>Records, decisions, coded data and analysis code for a registered systematic review and multilevel meta-analysis of agreement between generative large language models and human coders on psychological and clinical text (search 21 October 2026, citation searching 23 October 2026; 377 studies, 416 reports; 107 studies with 595 kappa-family estimates). The repository includes the protocol and deviations log, search logs and records, two AI screening passes with the reviewer's blind calibration and decisions, AI full-text proposals with the reviewer's decisions, the coded drafts with the reviewer's review applied as code, the analysis tables, R and Python analysis scripts, results, figures, Tables 1-4 and Supplementary Files S1-S6.</p>",
+  "creators": [
+    {
+      "name": "Rekhert, Martin",
+      "affiliation": "Higher School of Psychology, Turan University, Almaty, Kazakhstan",
+      "orcid": "0009-0001-2402-2031"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "large language models",
+    "inter-rater reliability",
+    "clinical text",
+    "qualitative coding",
+    "meta-analysis",
+    "psychological assessment"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17605/OSF.IO/Z63BS",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ],
+  "language": "eng"
+}

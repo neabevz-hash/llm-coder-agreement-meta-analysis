@@ -1,0 +1,86 @@
+{
+  "records_identified": 29171,
+  "records_per_source": {
+    "pubmed": 1258,
+    "europepmc": 1454,
+    "openalex": 11027,
+    "s2": 6683,
+    "arxiv": 3074,
+    "psyarxiv": 186,
+    "crossref": 306,
+    "datacite": 4934,
+    "core": 249
+  },
+  "duplicates_removed": 16385,
+  "removed_by_automation": {
+    "non_study_records": 753,
+    "no_exact_search_term_match": 5181
+  },
+  "records_screened_title_abstract": 6852,
+  "records_excluded_title_abstract": 5596,
+  "reports_sought_for_retrieval": 1256,
+  "reports_not_retrieved": 490,
+  "reports_retrieved_by_source": {
+    "pdf": 586,
+    "europepmc_xml": 169,
+    "arxiv_title": 11
+  },
+  "reports_assessed_for_eligibility": 766,
+  "reports_excluded_full_text": {
+    "E5_no_generative_llm": 41,
+    "E3_not_psychological": 133,
+    "E1_humans_rate_llm": 8,
+    "E2_external_criterion": 33,
+    "no_human_coding": 79,
+    "other": 28,
+    "E4_theme_level_only": 21,
+    "E7_duplicate": 4,
+    "E6_design": 8
+  },
+  "reports_included": 411,
+  "included_by_task_type": {
+    "T4": 74,
+    "T1": 225,
+    "T3": 74,
+    "T2": 36,
+    "unclear": 2
+  },
+  "undecided": [],
+  "ai_proposals": {
+    "overall": {
+      "reports": 766,
+      "ai_unclear": 69,
+      "agreement_eligible_vs_not": 697,
+      "agreement_when_ai_decided": 697,
+      "ai_decided": 697,
+      "same_exclusion_reason": 308,
+      "r1_accepted_with_equals": 697,
+      "r1_eligible_ai_not": 0,
+      "r1_not_ai_eligible": 0
+    },
+    "by_model": {
+      "claude-opus-5-5": {
+        "reports": 209,
+        "ai_unclear": 24,
+        "agreement_eligible_vs_not": 185,
+        "agreement_when_ai_decided": 185,
+        "ai_decided": 185,
+        "same_exclusion_reason": 68,
+        "r1_accepted_with_equals": 185,
+        "r1_eligible_ai_not": 0,
+        "r1_not_ai_eligible": 0
+      },
+      "claude-sonnet-5-5": {
+        "reports": 557,
+        "ai_unclear": 45,
+        "agreement_eligible_vs_not": 512,
+        "agreement_when_ai_decided": 512,
+        "ai_decided": 512,
+        "same_exclusion_reason": 240,
+        "r1_accepted_with_equals": 512,
+        "r1_eligible_ai_not": 0,
+        "r1_not_ai_eligible": 0
+      }
+    }
+  }
+}

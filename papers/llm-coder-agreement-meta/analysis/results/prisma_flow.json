@@ -1,0 +1,36 @@
+{
+  "main": {
+    "records_identified": 29171,
+    "duplicates_removed": 16385,
+    "records_screened_title_abstract": 6852,
+    "records_excluded_title_abstract": 5596,
+    "reports_sought_for_retrieval": 1256,
+    "reports_not_retrieved": 490,
+    "reports_assessed_for_eligibility": 766,
+    "reports_included": 411
+  },
+  "removed_by_automation": {
+    "non_study_records": 753,
+    "no_exact_search_term_match": 5181
+  },
+  "citation_searching": {
+    "new": 9248,
+    "auto": 9023,
+    "screened": 225,
+    "excluded": 155,
+    "sought": 70,
+    "not_retrieved": 53,
+    "assessed": 17,
+    "excluded_ft": 10,
+    "included": 7
+  },
+  "excluded_at_extraction": {
+    "studies": ["ST314", "ST366"],
+    "reasons": ["turning points in sitcom dialogue: no psychological or clinical construct (E3; R1 86)", "GPT-2 only: generative LLMs from GPT-3 on (I3); found at R1's review"]
+  },
+  "studies_included": 377,
+  "reports_of_included_studies": 416,
+  "studies_with_kappa": 111,
+  "studies_with_icc_or_r": 99,
+  "studies_with_kappa_or_icc_r": 190
+}

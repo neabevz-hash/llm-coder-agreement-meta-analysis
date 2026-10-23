@@ -1,0 +1,411 @@
+{
+  "_blocks": {
+    "llm": [
+      "large language model",
+      "large language models",
+      "LLM",
+      "LLMs",
+      "LLM-based",
+      "ChatGPT",
+      "GPT-3",
+      "GPT-3.5",
+      "GPT-4",
+      "GPT-4o",
+      "GPT-5",
+      "GPT",
+      "GPTs",
+      "generative AI",
+      "generative artificial intelligence",
+      "generative pre-trained transformer",
+      "generative pre-trained transformers",
+      "generative pretrained transformer",
+      "generative pretrained transformers",
+      "foundation model",
+      "foundation models"
+    ],
+    "human": [
+      "inter-rater",
+      "interrater",
+      "inter-coder",
+      "intercoder",
+      "inter-annotator",
+      "interannotator",
+      "kappa",
+      "Krippendorff",
+      "Gwet",
+      "intraclass",
+      "agreement with human",
+      "agreement with humans",
+      "agreement with experts",
+      "agreement with clinicians",
+      "agreement between human",
+      "human agreement",
+      "human-LLM agreement",
+      "LLM-human agreement",
+      "human coder",
+      "human coders",
+      "human rater",
+      "human raters",
+      "human annotator",
+      "human annotators",
+      "human expert",
+      "human experts",
+      "human evaluators",
+      "human judgments",
+      "human judgements",
+      "human labels",
+      "human annotations",
+      "human ratings",
+      "expert annotations",
+      "expert ratings",
+      "expert raters",
+      "expert coders",
+      "expert-annotated",
+      "human-annotated",
+      "manually annotated",
+      "manually coded",
+      "manual coding",
+      "manual annotation",
+      "gold standard",
+      "clinician ratings",
+      "trained coders",
+      "LLM-as-a-judge",
+      "LLM-as-judge",
+      "LLM judge",
+      "LLM judges",
+      "LLM evaluator",
+      "LLM evaluators",
+      "automated coding",
+      "automated scoring",
+      "automatic scoring",
+      "deductive coding",
+      "codebook",
+      "codebooks"
+    ],
+    "psy": [
+      "psychology",
+      "psychological",
+      "psychologist",
+      "psychiatry",
+      "psychiatric",
+      "psychotherapy",
+      "psychotherapist",
+      "counseling",
+      "counselling",
+      "counselor",
+      "counsellor",
+      "mental health",
+      "mental illness",
+      "depression",
+      "depressive",
+      "anxiety",
+      "suicide",
+      "suicidal",
+      "self-harm",
+      "trauma",
+      "PTSD",
+      "emotion",
+      "emotions",
+      "emotional",
+      "affective",
+      "personality",
+      "empathy",
+      "empathic",
+      "well-being",
+      "wellbeing",
+      "motivational interviewing",
+      "therapist",
+      "therapists",
+      "therapeutic",
+      "crisis",
+      "distress",
+      "loneliness",
+      "eating disorder",
+      "substance use",
+      "addiction",
+      "psychosis",
+      "schizophrenia",
+      "bipolar",
+      "autism",
+      "ADHD",
+      "attachment",
+      "mentalization",
+      "mentalizing",
+      "reflective functioning",
+      "cognitive distortion",
+      "cognitive distortions",
+      "defense mechanism",
+      "defence mechanism",
+      "projective",
+      "Rorschach",
+      "sentence completion",
+      "narrative",
+      "narratives",
+      "qualitative",
+      "interview",
+      "interviews",
+      "open-ended responses",
+      "open-ended answers",
+      "open-ended survey",
+      "open-ended questionnaire",
+      "free-text responses",
+      "free-text answers",
+      "divergent thinking"
+    ],
+    "coding_constructs": [
+      "cognitive distortion",
+      "cognitive distortions",
+      "maladaptive schema",
+      "maladaptive schemas",
+      "mental manipulation",
+      "motivational interviewing",
+      "change talk",
+      "sustain talk",
+      "MITI",
+      "MISC",
+      "therapeutic alliance",
+      "counseling conversation",
+      "counseling conversations",
+      "counselling conversations",
+      "counseling session",
+      "counseling sessions",
+      "therapy session",
+      "therapy sessions",
+      "therapy transcripts",
+      "psychotherapy transcripts",
+      "psychotherapy sessions",
+      "clinical interview",
+      "clinical interviews",
+      "psychiatric interview",
+      "psychiatric interviews",
+      "diagnostic interview",
+      "diagnostic interviews",
+      "PTSD severity",
+      "PTSD assessment",
+      "depression severity",
+      "symptom severity",
+      "suicide risk",
+      "suicidal risk",
+      "C-SSRS",
+      "wellness dimensions",
+      "psychiatric functioning",
+      "defense mechanisms",
+      "psychological defenses",
+      "Rorschach",
+      "projective test",
+      "projective tests",
+      "projective technique",
+      "sentence completion",
+      "reflective functioning",
+      "adult attachment interview",
+      "autobiographical memory",
+      "divergent thinking",
+      "empathy detection",
+      "empathy classification",
+      "emotion regulation strategies",
+      "psychological constructs",
+      "therapist behaviors",
+      "counselor behaviors",
+      "counseling skills",
+      "treatment fidelity",
+      "psychotherapy fidelity"
+    ],
+    "from_year": 2020,
+    "crossref_queries": [
+      "large language model agreement human coders psychology",
+      "LLM inter-rater reliability mental health",
+      "ChatGPT kappa human raters psychological",
+      "GPT-4 coding qualitative interviews agreement human coders",
+      "large language model psychotherapy transcripts coding",
+      "LLM motivational interviewing coding",
+      "LLM-as-a-judge mental health clinicians",
+      "large language model suicide risk annotation agreement",
+      "large language model scoring psychological assessment human raters",
+      "large language model emotion annotation human annotators",
+      "LLM content analysis human coders",
+      "generative AI qualitative coding reliability"
+    ],
+    "psyarxiv_words": [
+      "large language model",
+      "LLM",
+      "ChatGPT",
+      "GPT-4",
+      "GPT-3",
+      "GPT-5",
+      "generative AI",
+      "generative artificial intelligence"
+    ]
+  },
+  "pubmed": {
+    "records": 1271,
+    "meta": {
+      "query": "((\"large language model\"[tiab:~2] OR \"large language models\"[tiab:~2] OR LLM[tiab] OR LLMs[tiab] OR \"LLM based\"[tiab:~2] OR ChatGPT[tiab] OR \"GPT 3\"[tiab:~2] OR \"GPT 3.5\"[tiab:~2] OR \"GPT 4\"[tiab:~2] OR \"GPT 4o\"[tiab:~2] OR \"GPT 5\"[tiab:~2] OR \"generative AI\"[tiab:~2] OR \"generative artificial intelligence\"[tiab:~2] OR \"generative pre trained transformer\"[tiab:~2] OR \"foundation model\"[tiab:~2] OR \"foundation models\"[tiab:~2]) AND (\"inter rater\"[tiab:~2] OR interrater[tiab] OR \"inter coder\"[tiab:~2] OR intercoder[tiab] OR \"inter annotator\"[tiab:~2] OR interannotator[tiab] OR kappa[tiab] OR Krippendorff[tiab] OR Gwet[tiab] OR intraclass[tiab] OR \"agreement with human\"[tiab:~2] OR \"agreement with humans\"[tiab:~2] OR \"agreement with experts\"[tiab:~2] OR \"agreement with clinicians\"[tiab:~2] OR \"agreement between human\"[tiab:~2] OR \"human agreement\"[tiab:~2] OR \"human LLM agreement\"[tiab:~2] OR \"LLM human agreement\"[tiab:~2] OR \"human coder\"[tiab:~2] OR \"human coders\"[tiab:~2] OR \"human rater\"[tiab:~2] OR \"human raters\"[tiab:~2] OR \"human annotator\"[tiab:~2] OR \"human annotators\"[tiab:~2] OR \"human expert\"[tiab:~2] OR \"human experts\"[tiab:~2] OR \"human evaluators\"[tiab:~2] OR \"human judgments\"[tiab:~2] OR \"human judgements\"[tiab:~2] OR \"human labels\"[tiab:~2] OR \"human annotations\"[tiab:~2] OR \"human ratings\"[tiab:~2] OR \"expert annotations\"[tiab:~2] OR \"expert ratings\"[tiab:~2] OR \"expert raters\"[tiab:~2] OR \"expert coders\"[tiab:~2] OR \"expert annotated\"[tiab:~2] OR \"human annotated\"[tiab:~2] OR \"manually annotated\"[tiab:~2] OR \"manually coded\"[tiab:~2] OR \"manual coding\"[tiab:~2] OR \"manual annotation\"[tiab:~2] OR \"gold standard\"[tiab:~2] OR \"clinician ratings\"[tiab:~2] OR \"trained coders\"[tiab:~2] OR \"LLM as a judge\"[tiab:~2] OR \"LLM as judge\"[tiab:~2] OR \"LLM judge\"[tiab:~2] OR \"LLM judges\"[tiab:~2] OR \"LLM evaluator\"[tiab:~2] OR \"LLM evaluators\"[tiab:~2] OR \"automated coding\"[tiab:~2] OR \"automated scoring\"[tiab:~2] OR \"automatic scoring\"[tiab:~2]) AND (psycholog*[tiab] OR psychiatr*[tiab] OR psychotherap*[tiab] OR counsel*[tiab] OR suicid*[tiab] OR depress*[tiab] OR emotion*[tiab] OR therapist*[tiab] OR narrative*[tiab] OR interview*[tiab] OR psychology[tiab] OR psychological[tiab] OR psychologist[tiab] OR psychiatry[tiab] OR psychiatric[tiab] OR psychotherapy[tiab] OR psychotherapist[tiab] OR counseling[tiab] OR counselling[tiab] OR counselor[tiab] OR counsellor[tiab] OR \"mental health\"[tiab:~2] OR \"mental illness\"[tiab:~2] OR depression[tiab] OR depressive[tiab] OR anxiety[tiab] OR suicide[tiab] OR suicidal[tiab] OR \"self harm\"[tiab:~2] OR trauma[tiab] OR PTSD[tiab] OR emotion[tiab] OR emotions[tiab] OR emotional[tiab] OR affective[tiab] OR personality[tiab] OR empathy[tiab] OR empathic[tiab] OR \"well being\"[tiab:~2] OR wellbeing[tiab] OR \"motivational interviewing\"[tiab:~2] OR therapist[tiab] OR therapists[tiab] OR therapeutic[tiab] OR crisis[tiab] OR distress[tiab] OR loneliness[tiab] OR \"eating disorder\"[tiab:~2] OR \"substance use\"[tiab:~2] OR addiction[tiab] OR psychosis[tiab] OR schizophrenia[tiab] OR bipolar[tiab] OR autism[tiab] OR ADHD[tiab] OR attachment[tiab] OR mentalization[tiab] OR mentalizing[tiab] OR \"reflective functioning\"[tiab:~2] OR \"cognitive distortion\"[tiab:~2] OR \"cognitive distortions\"[tiab:~2] OR \"defense mechanism\"[tiab:~2] OR \"defence mechanism\"[tiab:~2] OR projective[tiab] OR Rorschach[tiab] OR \"sentence completion\"[tiab:~2] OR narrative[tiab] OR narratives[tiab] OR qualitative[tiab] OR interview[tiab] OR interviews[tiab] OR \"open ended\"[tiab:~2] OR \"divergent thinking\"[tiab:~2])) OR ((\"large language model\"[tiab:~2] OR \"large language models\"[tiab:~2] OR LLM[tiab] OR LLMs[tiab] OR \"LLM based\"[tiab:~2] OR ChatGPT[tiab] OR \"GPT 3\"[tiab:~2] OR \"GPT 3.5\"[tiab:~2] OR \"GPT 4\"[tiab:~2] OR \"GPT 4o\"[tiab:~2] OR \"GPT 5\"[tiab:~2] OR \"generative AI\"[tiab:~2] OR \"generative artificial intelligence\"[tiab:~2] OR \"generative pre trained transformer\"[tiab:~2] OR \"foundation model\"[tiab:~2] OR \"foundation models\"[tiab:~2]) AND (\"cognitive distortion\"[tiab:~2] OR \"cognitive distortions\"[tiab:~2] OR \"maladaptive schema\"[tiab:~2] OR \"maladaptive schemas\"[tiab:~2] OR \"mental manipulation\"[tiab:~2] OR \"motivational interviewing\"[tiab:~2] OR \"change talk\"[tiab:~2] OR \"sustain talk\"[tiab:~2] OR MITI[tiab] OR MISC[tiab] OR \"therapeutic alliance\"[tiab:~2] OR \"counseling conversation\"[tiab:~2] OR \"counseling conversations\"[tiab:~2] OR \"counselling conversations\"[tiab:~2] OR \"counseling session\"[tiab:~2] OR \"counseling sessions\"[tiab:~2] OR \"therapy session\"[tiab:~2] OR \"therapy sessions\"[tiab:~2] OR \"therapy transcripts\"[tiab:~2] OR \"psychotherapy transcripts\"[tiab:~2] OR \"psychotherapy sessions\"[tiab:~2] OR \"clinical interview\"[tiab:~2] OR \"clinical interviews\"[tiab:~2] OR \"psychiatric interview\"[tiab:~2] OR \"psychiatric interviews\"[tiab:~2] OR \"diagnostic interview\"[tiab:~2] OR \"diagnostic interviews\"[tiab:~2] OR \"PTSD severity\"[tiab:~2] OR \"PTSD assessment\"[tiab:~2] OR \"depression severity\"[tiab:~2] OR \"symptom severity\"[tiab:~2] OR \"suicide risk\"[tiab:~2] OR \"suicidal risk\"[tiab:~2] OR \"C SSRS\"[tiab:~2] OR \"wellness dimensions\"[tiab:~2] OR \"psychiatric functioning\"[tiab:~2] OR \"defense mechanisms\"[tiab:~2] OR \"psychological defenses\"[tiab:~2] OR Rorschach[tiab] OR \"projective test\"[tiab:~2] OR \"projective tests\"[tiab:~2] OR \"projective technique\"[tiab:~2] OR \"sentence completion\"[tiab:~2] OR \"reflective functioning\"[tiab:~2] OR \"adult attachment interview\"[tiab:~2] OR \"autobiographical memory\"[tiab:~2] OR \"divergent thinking\"[tiab:~2] OR \"empathy detection\"[tiab:~2] OR \"empathy classification\"[tiab:~2] OR \"emotion regulation strategies\"[tiab:~2] OR \"psychological constructs\"[tiab:~2] OR \"therapist behaviors\"[tiab:~2] OR \"counselor behaviors\"[tiab:~2] OR \"counseling skills\"[tiab:~2] OR \"treatment fidelity\"[tiab:~2] OR \"psychotherapy fidelity\"[tiab:~2]))",
+      "count": "1271",
+      "translation": "(((\"large language model\"[Title/Abstract:~2] OR \"large language models\"[Title/Abstract:~2] OR \"LLM\"[Title/Abstract] OR \"LLMs\"[Title/Abstract] OR \"LLM based\"[Title/Abstract:~2] OR \"ChatGPT\"[Title/Abstract] OR \"GPT 3\"[Title/Abstract:~2] OR \"GPT 3.5\"[Title/Abstract:~2] OR \"GPT 4\"[Title/Abstract:~2] OR \"GPT 4o\"[Title/Abstract:~2] OR \"GPT 5\"[Title/Abstract:~2] OR \"generative AI\"[Title/Abstract:~2] OR \"generative artificial intelligence\"[Title/Abstract:~2] OR \"generative pre trained transformer\"[Title/Abstract:~2] OR \"foundation model\"[Title/Abstract:~2] OR \"foundation models\"[Title/Abstract:~2]) AND (\"inter rater\"[Title/Abstract:~2] OR \"interrater\"[Title/Abstract] OR \"inter coder\"[Title/Abstract:~2] OR \"intercoder\"[Title/Abstract] OR \"inter annotator\"[Title/Abstract:~2] OR \"interannotator\"[Title/Abstract] OR \"kappa\"[Title/Abstract] OR \"Krippendorff\"[Title/Abstract] OR \"Gwet\"[Title/Abstract] OR \"intraclass\"[Title/Abstract] OR \"agreement with human\"[Title/Abstract:~2] OR \"agreement with humans\"[Title/Abstract:~2] OR \"agreement with experts\"[Title/Abstract:~2] OR \"agreement with clinicians\"[Title/Abstract:~2] OR \"agreement between human\"[Title/Abstract:~2] OR \"human agreement\"[Title/Abstract:~2] OR \"human LLM agreement\"[Title/Abstract:~2] OR \"LLM human agreement\"[Title/Abstract:~2] OR \"human coder\"[Title/Abstract:~2] OR \"human coders\"[Title/Abstract:~2] OR \"human rater\"[Title/Abstract:~2] OR \"human raters\"[Title/Abstract:~2] OR \"human annotator\"[Title/Abstract:~2] OR \"human annotators\"[Title/Abstract:~2] OR \"human expert\"[Title/Abstract:~2] OR \"human experts\"[Title/Abstract:~2] OR \"human evaluators\"[Title/Abstract:~2] OR \"human judgments\"[Title/Abstract:~2] OR \"human judgements\"[Title/Abstract:~2] OR \"human labels\"[Title/Abstract:~2] OR \"human annotations\"[Title/Abstract:~2] OR \"human ratings\"[Title/Abstract:~2] OR \"expert annotations\"[Title/Abstract:~2] OR \"expert ratings\"[Title/Abstract:~2] OR \"expert raters\"[Title/Abstract:~2] OR \"expert coders\"[Title/Abstract:~2] OR \"expert annotated\"[Title/Abstract:~2] OR \"human annotated\"[Title/Abstract:~2] OR \"manually annotated\"[Title/Abstract:~2] OR \"manually coded\"[Title/Abstract:~2] OR \"manual coding\"[Title/Abstract:~2] OR \"manual annotation\"[Title/Abstract:~2] OR \"gold standard\"[Title/Abstract:~2] OR \"clinician ratings\"[Title/Abstract:~2] OR \"trained coders\"[Title/Abstract:~2] OR \"LLM as a judge\"[Title/Abstract:~2] OR \"LLM as judge\"[Title/Abstract:~2] OR \"LLM judge\"[Title/Abstract:~2] OR \"LLM judges\"[Title/Abstract:~2] OR \"LLM evaluator\"[Title/Abstract:~2] OR \"LLM evaluators\"[Title/Abstract:~2] OR \"automated coding\"[Title/Abstract:~2] OR \"automated scoring\"[Title/Abstract:~2] OR \"automatic scoring\"[Title/Abstract:~2]) AND (\"psycholog*\"[Title/Abstract] OR \"psychiatr*\"[Title/Abstract] OR \"psychotherap*\"[Title/Abstract] OR \"counsel*\"[Title/Abstract] OR \"suicid*\"[Title/Abstract] OR \"depress*\"[Title/Abstract] OR \"emotion*\"[Title/Abstract] OR \"therapist*\"[Title/Abstract] OR \"narrative*\"[Title/Abstract] OR \"interview*\"[Title/Abstract] OR \"psychology\"[Title/Abstract] OR \"psychological\"[Title/Abstract] OR \"psychologist\"[Title/Abstract] OR \"psychiatry\"[Title/Abstract] OR \"psychiatric\"[Title/Abstract] OR \"psychotherapy\"[Title/Abstract] OR \"psychotherapist\"[Title/Abstract] OR \"counseling\"[Title/Abstract] OR \"counselling\"[Title/Abstract] OR \"counselor\"[Title/Abstract] OR \"counsellor\"[Title/Abstract] OR \"mental health\"[Title/Abstract:~2] OR \"mental illness\"[Title/Abstract:~2] OR \"depression\"[Title/Abstract] OR \"depressive\"[Title/Abstract] OR \"anxiety\"[Title/Abstract] OR \"suicide\"[Title/Abstract] OR \"suicidal\"[Title/Abstract] OR \"self harm\"[Title/Abstract:~2] OR \"trauma\"[Title/Abstract] OR \"PTSD\"[Title/Abstract] OR \"emotion\"[Title/Abstract] OR \"emotions\"[Title/Abstract] OR \"emotional\"[Title/Abstract] OR \"affective\"[Title/Abstract] OR \"personality\"[Title/Abstract] OR \"empathy\"[Title/Abstract] OR \"empathic\"[Title/Abstract] OR \"well being\"[Title/Abstract:~2] OR \"wellbeing\"[Title/Abstract] OR \"motivational interviewing\"[Title/Abstract:~2] OR \"therapist\"[Title/Abstract] OR \"therapists\"[Title/Abstract] OR \"therapeutic\"[Title/Abstract] OR \"crisis\"[Title/Abstract] OR \"distress\"[Title/Abstract] OR \"loneliness\"[Title/Abstract] OR \"eating disorder\"[Title/Abstract:~2] OR \"substance use\"[Title/Abstract:~2] OR \"addiction\"[Title/Abstract] OR \"psychosis\"[Title/Abstract] OR \"schizophrenia\"[Title/Abstract] OR \"bipolar\"[Title/Abstract] OR \"autism\"[Title/Abstract] OR \"ADHD\"[Title/Abstract] OR \"attachment\"[Title/Abstract] OR \"mentalization\"[Title/Abstract] OR \"mentalizing\"[Title/Abstract] OR \"reflective functioning\"[Title/Abstract:~2] OR \"cognitive distortion\"[Title/Abstract:~2] OR \"cognitive distortions\"[Title/Abstract:~2] OR \"defense mechanism\"[Title/Abstract:~2] OR \"defence mechanism\"[Title/Abstract:~2] OR \"projective\"[Title/Abstract] OR \"Rorschach\"[Title/Abstract] OR \"sentence completion\"[Title/Abstract:~2] OR \"narrative\"[Title/Abstract] OR \"narratives\"[Title/Abstract] OR \"qualitative\"[Title/Abstract] OR \"interview\"[Title/Abstract] OR \"interviews\"[Title/Abstract] OR \"open ended\"[Title/Abstract:~2] OR \"divergent thinking\"[Title/Abstract:~2])) OR ((\"large language model\"[Title/Abstract:~2] OR \"large language models\"[Title/Abstract:~2] OR \"LLM\"[Title/Abstract] OR \"LLMs\"[Title/Abstract] OR \"LLM based\"[Title/Abstract:~2] OR \"ChatGPT\"[Title/Abstract] OR \"GPT 3\"[Title/Abstract:~2] OR \"GPT 3.5\"[Title/Abstract:~2] OR \"GPT 4\"[Title/Abstract:~2] OR \"GPT 4o\"[Title/Abstract:~2] OR \"GPT 5\"[Title/Abstract:~2] OR \"generative AI\"[Title/Abstract:~2] OR \"generative artificial intelligence\"[Title/Abstract:~2] OR \"generative pre trained transformer\"[Title/Abstract:~2] OR \"foundation model\"[Title/Abstract:~2] OR \"foundation models\"[Title/Abstract:~2]) AND (\"cognitive distortion\"[Title/Abstract:~2] OR \"cognitive distortions\"[Title/Abstract:~2] OR \"maladaptive schema\"[Title/Abstract:~2] OR \"maladaptive schemas\"[Title/Abstract:~2] OR \"mental manipulation\"[Title/Abstract:~2] OR \"motivational interviewing\"[Title/Abstract:~2] OR \"change talk\"[Title/Abstract:~2] OR \"sustain talk\"[Title/Abstract:~2] OR \"MITI\"[Title/Abstract] OR \"MISC\"[Title/Abstract] OR \"therapeutic alliance\"[Title/Abstract:~2] OR \"counseling conversation\"[Title/Abstract:~2] OR \"counseling conversations\"[Title/Abstract:~2] OR \"counselling conversations\"[Title/Abstract:~2] OR \"counseling session\"[Title/Abstract:~2] OR \"counseling sessions\"[Title/Abstract:~2] OR \"therapy session\"[Title/Abstract:~2] OR \"therapy sessions\"[Title/Abstract:~2] OR \"therapy transcripts\"[Title/Abstract:~2] OR \"psychotherapy transcripts\"[Title/Abstract:~2] OR \"psychotherapy sessions\"[Title/Abstract:~2] OR \"clinical interview\"[Title/Abstract:~2] OR \"clinical interviews\"[Title/Abstract:~2] OR \"psychiatric interview\"[Title/Abstract:~2] OR \"psychiatric interviews\"[Title/Abstract:~2] OR \"diagnostic interview\"[Title/Abstract:~2] OR \"diagnostic interviews\"[Title/Abstract:~2] OR \"PTSD severity\"[Title/Abstract:~2] OR \"PTSD assessment\"[Title/Abstract:~2] OR \"depression severity\"[Title/Abstract:~2] OR \"symptom severity\"[Title/Abstract:~2] OR \"suicide risk\"[Title/Abstract:~2] OR \"suicidal risk\"[Title/Abstract:~2] OR \"C SSRS\"[Title/Abstract:~2] OR \"wellness dimensions\"[Title/Abstract:~2] OR \"psychiatric functioning\"[Title/Abstract:~2] OR \"defense mechanisms\"[Title/Abstract:~2] OR \"psychological defenses\"[Title/Abstract:~2] OR \"Rorschach\"[Title/Abstract] OR \"projective test\"[Title/Abstract:~2] OR \"projective tests\"[Title/Abstract:~2] OR \"projective technique\"[Title/Abstract:~2] OR \"sentence completion\"[Title/Abstract:~2] OR \"reflective functioning\"[Title/Abstract:~2] OR \"adult attachment interview\"[Title/Abstract:~2] OR \"autobiographical memory\"[Title/Abstract:~2] OR \"divergent thinking\"[Title/Abstract:~2] OR \"empathy detection\"[Title/Abstract:~2] OR \"empathy classification\"[Title/Abstract:~2] OR \"emotion regulation strategies\"[Title/Abstract:~2] OR \"psychological constructs\"[Title/Abstract:~2] OR \"therapist behaviors\"[Title/Abstract:~2] OR \"counselor behaviors\"[Title/Abstract:~2] OR \"counseling skills\"[Title/Abstract:~2] OR \"treatment fidelity\"[Title/Abstract:~2] OR \"psychotherapy fidelity\"[Title/Abstract:~2]))) AND 2020/01/01:3000/12/31[Date - Publication]",
+      "warnings": null
+    },
+    "searched_at_utc": "2026-10-21T10:26:27+00:00",
+    "seconds": 21.4
+  },
+  "europepmc": {
+    "records": 1468,
+    "meta": {
+      "query": "(((TITLE_ABS:\"large language model\" OR TITLE_ABS:\"large language models\" OR TITLE_ABS:\"LLM\" OR TITLE_ABS:\"LLMs\" OR TITLE_ABS:\"LLM-based\" OR TITLE_ABS:\"ChatGPT\" OR TITLE_ABS:\"GPT-3\" OR TITLE_ABS:\"GPT-3.5\" OR TITLE_ABS:\"GPT-4\" OR TITLE_ABS:\"GPT-4o\" OR TITLE_ABS:\"GPT-5\" OR TITLE_ABS:\"generative AI\" OR TITLE_ABS:\"generative artificial intelligence\" OR TITLE_ABS:\"generative pre-trained transformer\" OR TITLE_ABS:\"foundation model\" OR TITLE_ABS:\"foundation models\") AND (TITLE_ABS:\"inter-rater\" OR TITLE_ABS:\"interrater\" OR TITLE_ABS:\"inter-coder\" OR TITLE_ABS:\"intercoder\" OR TITLE_ABS:\"inter-annotator\" OR TITLE_ABS:\"interannotator\" OR TITLE_ABS:\"kappa\" OR TITLE_ABS:\"Krippendorff\" OR TITLE_ABS:\"Gwet\" OR TITLE_ABS:\"intraclass\" OR TITLE_ABS:\"agreement with human\" OR TITLE_ABS:\"agreement with humans\" OR TITLE_ABS:\"agreement with experts\" OR TITLE_ABS:\"agreement with clinicians\" OR TITLE_ABS:\"agreement between human\" OR TITLE_ABS:\"human agreement\" OR TITLE_ABS:\"human-LLM agreement\" OR TITLE_ABS:\"LLM-human agreement\" OR TITLE_ABS:\"human coder\" OR TITLE_ABS:\"human coders\" OR TITLE_ABS:\"human rater\" OR TITLE_ABS:\"human raters\" OR TITLE_ABS:\"human annotator\" OR TITLE_ABS:\"human annotators\" OR TITLE_ABS:\"human expert\" OR TITLE_ABS:\"human experts\" OR TITLE_ABS:\"human evaluators\" OR TITLE_ABS:\"human judgments\" OR TITLE_ABS:\"human judgements\" OR TITLE_ABS:\"human labels\" OR TITLE_ABS:\"human annotations\" OR TITLE_ABS:\"human ratings\" OR TITLE_ABS:\"expert annotations\" OR TITLE_ABS:\"expert ratings\" OR TITLE_ABS:\"expert raters\" OR TITLE_ABS:\"expert coders\" OR TITLE_ABS:\"expert-annotated\" OR TITLE_ABS:\"human-annotated\" OR TITLE_ABS:\"manually annotated\" OR TITLE_ABS:\"manually coded\" OR TITLE_ABS:\"manual coding\" OR TITLE_ABS:\"manual annotation\" OR TITLE_ABS:\"gold standard\" OR TITLE_ABS:\"clinician ratings\" OR TITLE_ABS:\"trained coders\" OR TITLE_ABS:\"LLM-as-a-judge\" OR TITLE_ABS:\"LLM-as-judge\" OR TITLE_ABS:\"LLM judge\" OR TITLE_ABS:\"LLM judges\" OR TITLE_ABS:\"LLM evaluator\" OR TITLE_ABS:\"LLM evaluators\" OR TITLE_ABS:\"automated coding\" OR TITLE_ABS:\"automated scoring\" OR TITLE_ABS:\"automatic scoring\") AND (TITLE_ABS:\"psychology\" OR TITLE_ABS:\"psychological\" OR TITLE_ABS:\"psychologist\" OR TITLE_ABS:\"psychiatry\" OR TITLE_ABS:\"psychiatric\" OR TITLE_ABS:\"psychotherapy\" OR TITLE_ABS:\"psychotherapist\" OR TITLE_ABS:\"counseling\" OR TITLE_ABS:\"counselling\" OR TITLE_ABS:\"counselor\" OR TITLE_ABS:\"counsellor\" OR TITLE_ABS:\"mental health\" OR TITLE_ABS:\"mental illness\" OR TITLE_ABS:\"depression\" OR TITLE_ABS:\"depressive\" OR TITLE_ABS:\"anxiety\" OR TITLE_ABS:\"suicide\" OR TITLE_ABS:\"suicidal\" OR TITLE_ABS:\"self-harm\" OR TITLE_ABS:\"trauma\" OR TITLE_ABS:\"PTSD\" OR TITLE_ABS:\"emotion\" OR TITLE_ABS:\"emotions\" OR TITLE_ABS:\"emotional\" OR TITLE_ABS:\"affective\" OR TITLE_ABS:\"personality\" OR TITLE_ABS:\"empathy\" OR TITLE_ABS:\"empathic\" OR TITLE_ABS:\"well-being\" OR TITLE_ABS:\"wellbeing\" OR TITLE_ABS:\"motivational interviewing\" OR TITLE_ABS:\"therapist\" OR TITLE_ABS:\"therapists\" OR TITLE_ABS:\"therapeutic\" OR TITLE_ABS:\"crisis\" OR TITLE_ABS:\"distress\" OR TITLE_ABS:\"loneliness\" OR TITLE_ABS:\"eating disorder\" OR TITLE_ABS:\"substance use\" OR TITLE_ABS:\"addiction\" OR TITLE_ABS:\"psychosis\" OR TITLE_ABS:\"schizophrenia\" OR TITLE_ABS:\"bipolar\" OR TITLE_ABS:\"autism\" OR TITLE_ABS:\"ADHD\" OR TITLE_ABS:\"attachment\" OR TITLE_ABS:\"mentalization\" OR TITLE_ABS:\"mentalizing\" OR TITLE_ABS:\"reflective functioning\" OR TITLE_ABS:\"cognitive distortion\" OR TITLE_ABS:\"cognitive distortions\" OR TITLE_ABS:\"defense mechanism\" OR TITLE_ABS:\"defence mechanism\" OR TITLE_ABS:\"projective\" OR TITLE_ABS:\"Rorschach\" OR TITLE_ABS:\"sentence completion\" OR TITLE_ABS:\"narrative\" OR TITLE_ABS:\"narratives\" OR TITLE_ABS:\"qualitative\" OR TITLE_ABS:\"interview\" OR TITLE_ABS:\"interviews\" OR TITLE_ABS:\"open-ended\" OR TITLE_ABS:\"divergent thinking\")) OR ((TITLE_ABS:\"large language model\" OR TITLE_ABS:\"large language models\" OR TITLE_ABS:\"LLM\" OR TITLE_ABS:\"LLMs\" OR TITLE_ABS:\"LLM-based\" OR TITLE_ABS:\"ChatGPT\" OR TITLE_ABS:\"GPT-3\" OR TITLE_ABS:\"GPT-3.5\" OR TITLE_ABS:\"GPT-4\" OR TITLE_ABS:\"GPT-4o\" OR TITLE_ABS:\"GPT-5\" OR TITLE_ABS:\"generative AI\" OR TITLE_ABS:\"generative artificial intelligence\" OR TITLE_ABS:\"generative pre-trained transformer\" OR TITLE_ABS:\"foundation model\" OR TITLE_ABS:\"foundation models\") AND (TITLE_ABS:\"cognitive distortion\" OR TITLE_ABS:\"cognitive distortions\" OR TITLE_ABS:\"maladaptive schema\" OR TITLE_ABS:\"maladaptive schemas\" OR TITLE_ABS:\"mental manipulation\" OR TITLE_ABS:\"motivational interviewing\" OR TITLE_ABS:\"change talk\" OR TITLE_ABS:\"sustain talk\" OR TITLE_ABS:\"MITI\" OR TITLE_ABS:\"MISC\" OR TITLE_ABS:\"therapeutic alliance\" OR TITLE_ABS:\"counseling conversation\" OR TITLE_ABS:\"counseling conversations\" OR TITLE_ABS:\"counselling conversations\" OR TITLE_ABS:\"counseling session\" OR TITLE_ABS:\"counseling sessions\" OR TITLE_ABS:\"therapy session\" OR TITLE_ABS:\"therapy sessions\" OR TITLE_ABS:\"therapy transcripts\" OR TITLE_ABS:\"psychotherapy transcripts\" OR TITLE_ABS:\"psychotherapy sessions\" OR TITLE_ABS:\"clinical interview\" OR TITLE_ABS:\"clinical interviews\" OR TITLE_ABS:\"psychiatric interview\" OR TITLE_ABS:\"psychiatric interviews\" OR TITLE_ABS:\"diagnostic interview\" OR TITLE_ABS:\"diagnostic interviews\" OR TITLE_ABS:\"PTSD severity\" OR TITLE_ABS:\"PTSD assessment\" OR TITLE_ABS:\"depression severity\" OR TITLE_ABS:\"symptom severity\" OR TITLE_ABS:\"suicide risk\" OR TITLE_ABS:\"suicidal risk\" OR TITLE_ABS:\"C-SSRS\" OR TITLE_ABS:\"wellness dimensions\" OR TITLE_ABS:\"psychiatric functioning\" OR TITLE_ABS:\"defense mechanisms\" OR TITLE_ABS:\"psychological defenses\" OR TITLE_ABS:\"Rorschach\" OR TITLE_ABS:\"projective test\" OR TITLE_ABS:\"projective tests\" OR TITLE_ABS:\"projective technique\" OR TITLE_ABS:\"sentence completion\" OR TITLE_ABS:\"reflective functioning\" OR TITLE_ABS:\"adult attachment interview\" OR TITLE_ABS:\"autobiographical memory\" OR TITLE_ABS:\"divergent thinking\" OR TITLE_ABS:\"empathy detection\" OR TITLE_ABS:\"empathy classification\" OR TITLE_ABS:\"emotion regulation strategies\" OR TITLE_ABS:\"psychological constructs\" OR TITLE_ABS:\"therapist behaviors\" OR TITLE_ABS:\"counselor behaviors\" OR TITLE_ABS:\"counseling skills\" OR TITLE_ABS:\"treatment fidelity\" OR TITLE_ABS:\"psychotherapy fidelity\"))) AND (FIRST_PDATE:[2020-01-01 TO 2030-12-31])",
+      "hitCount": 1468
+    },
+    "searched_at_utc": "2026-10-21T10:26:56+00:00",
+    "seconds": 29.5
+  },
+  "openalex": {
+    "records": 11158,
+    "meta": {
+      "filters": [
+        "title_and_abstract.search:\"large language model\"|\"large language models\"|LLM|LLMs|\"LLM-based\"|ChatGPT|\"GPT-3\"|\"GPT-3.5\"|\"GPT-4\"|\"GPT-4o\"|\"GPT-5\"|\"generative AI\"|\"generative artificial intelligence\"|\"generative pre-trained transformer\"|\"foundation model\"|\"foundation models\",title_and_abstract.search:\"inter-rater\"|interrater|\"inter-coder\"|intercoder|\"inter-annotator\"|interannotator|kappa|Krippendorff|Gwet|intraclass|\"agreement with human\"|\"agreement with humans\"|\"agreement with experts\"|\"agreement with clinicians\"|\"agreement between human\"|\"human agreement\"|\"human-LLM agreement\"|\"LLM-human agreement\"|\"human coder\"|\"human coders\"|\"human rater\"|\"human raters\"|\"human annotator\"|\"human annotators\"|\"human expert\"|\"human experts\"|\"human evaluators\"|\"human judgments\"|\"human judgements\"|\"human labels\"|\"human annotations\"|\"human ratings\"|\"expert annotations\"|\"expert ratings\"|\"expert raters\"|\"expert coders\"|\"expert-annotated\"|\"human-annotated\"|\"manually annotated\"|\"manually coded\"|\"manual coding\"|\"manual annotation\"|\"gold standard\"|\"clinician ratings\"|\"trained coders\"|\"LLM-as-a-judge\"|\"LLM-as-judge\"|\"LLM judge\"|\"LLM judges\"|\"LLM evaluator\"|\"LLM evaluators\"|\"automated coding\"|\"automated scoring\"|\"automatic scoring\",title_and_abstract.search:psychology|psychological|psychologist|psychiatry|psychiatric|psychotherapy|psychotherapist|counseling|counselling|counselor|counsellor|\"mental health\"|\"mental illness\"|depression|depressive|anxiety|suicide|suicidal|\"self-harm\"|trauma|PTSD|emotion|emotions|emotional|affective,from_publication_date:2020-01-01",
+        "title_and_abstract.search:\"large language model\"|\"large language models\"|LLM|LLMs|\"LLM-based\"|ChatGPT|\"GPT-3\"|\"GPT-3.5\"|\"GPT-4\"|\"GPT-4o\"|\"GPT-5\"|\"generative AI\"|\"generative artificial intelligence\"|\"generative pre-trained transformer\"|\"foundation model\"|\"foundation models\",title_and_abstract.search:\"inter-rater\"|interrater|\"inter-coder\"|intercoder|\"inter-annotator\"|interannotator|kappa|Krippendorff|Gwet|intraclass|\"agreement with human\"|\"agreement with humans\"|\"agreement with experts\"|\"agreement with clinicians\"|\"agreement between human\"|\"human agreement\"|\"human-LLM agreement\"|\"LLM-human agreement\"|\"human coder\"|\"human coders\"|\"human rater\"|\"human raters\"|\"human annotator\"|\"human annotators\"|\"human expert\"|\"human experts\"|\"human evaluators\"|\"human judgments\"|\"human judgements\"|\"human labels\"|\"human annotations\"|\"human ratings\"|\"expert annotations\"|\"expert ratings\"|\"expert raters\"|\"expert coders\"|\"expert-annotated\"|\"human-annotated\"|\"manually annotated\"|\"manually coded\"|\"manual coding\"|\"manual annotation\"|\"gold standard\"|\"clinician ratings\"|\"trained coders\"|\"LLM-as-a-judge\"|\"LLM-as-judge\"|\"LLM judge\"|\"LLM judges\"|\"LLM evaluator\"|\"LLM evaluators\"|\"automated coding\"|\"automated scoring\"|\"automatic scoring\",title_and_abstract.search:personality|empathy|empathic|\"well-being\"|wellbeing|\"motivational interviewing\"|therapist|therapists|therapeutic|crisis|distress|loneliness|\"eating disorder\"|\"substance use\"|addiction|psychosis|schizophrenia|bipolar|autism|ADHD|attachment|mentalization|mentalizing|\"reflective functioning\"|\"cognitive distortion\",from_publication_date:2020-01-01",
+        "title_and_abstract.search:\"large language model\"|\"large language models\"|LLM|LLMs|\"LLM-based\"|ChatGPT|\"GPT-3\"|\"GPT-3.5\"|\"GPT-4\"|\"GPT-4o\"|\"GPT-5\"|\"generative AI\"|\"generative artificial intelligence\"|\"generative pre-trained transformer\"|\"foundation model\"|\"foundation models\",title_and_abstract.search:\"inter-rater\"|interrater|\"inter-coder\"|intercoder|\"inter-annotator\"|interannotator|kappa|Krippendorff|Gwet|intraclass|\"agreement with human\"|\"agreement with humans\"|\"agreement with experts\"|\"agreement with clinicians\"|\"agreement between human\"|\"human agreement\"|\"human-LLM agreement\"|\"LLM-human agreement\"|\"human coder\"|\"human coders\"|\"human rater\"|\"human raters\"|\"human annotator\"|\"human annotators\"|\"human expert\"|\"human experts\"|\"human evaluators\"|\"human judgments\"|\"human judgements\"|\"human labels\"|\"human annotations\"|\"human ratings\"|\"expert annotations\"|\"expert ratings\"|\"expert raters\"|\"expert coders\"|\"expert-annotated\"|\"human-annotated\"|\"manually annotated\"|\"manually coded\"|\"manual coding\"|\"manual annotation\"|\"gold standard\"|\"clinician ratings\"|\"trained coders\"|\"LLM-as-a-judge\"|\"LLM-as-judge\"|\"LLM judge\"|\"LLM judges\"|\"LLM evaluator\"|\"LLM evaluators\"|\"automated coding\"|\"automated scoring\"|\"automatic scoring\",title_and_abstract.search:\"cognitive distortions\"|\"defense mechanism\"|\"defence mechanism\"|projective|Rorschach|\"sentence completion\"|narrative|narratives|qualitative|interview|interviews|\"open-ended\"|\"divergent thinking\",from_publication_date:2020-01-01",
+        "title_and_abstract.search:\"large language model\"|\"large language models\"|LLM|LLMs|\"LLM-based\"|ChatGPT|\"GPT-3\"|\"GPT-3.5\"|\"GPT-4\"|\"GPT-4o\"|\"GPT-5\"|\"generative AI\"|\"generative artificial intelligence\"|\"generative pre-trained transformer\"|\"foundation model\"|\"foundation models\",title_and_abstract.search:\"cognitive distortion\"|\"cognitive distortions\"|\"maladaptive schema\"|\"maladaptive schemas\"|\"mental manipulation\"|\"motivational interviewing\"|\"change talk\"|\"sustain talk\"|MITI|MISC|\"therapeutic alliance\"|\"counseling conversation\"|\"counseling conversations\"|\"counselling conversations\"|\"counseling session\"|\"counseling sessions\"|\"therapy session\"|\"therapy sessions\"|\"therapy transcripts\"|\"psychotherapy transcripts\"|\"psychotherapy sessions\"|\"clinical interview\"|\"clinical interviews\"|\"psychiatric interview\"|\"psychiatric interviews\"|\"diagnostic interview\"|\"diagnostic interviews\"|\"PTSD severity\"|\"PTSD assessment\"|\"depression severity\",from_publication_date:2020-01-01",
+        "title_and_abstract.search:\"large language model\"|\"large language models\"|LLM|LLMs|\"LLM-based\"|ChatGPT|\"GPT-3\"|\"GPT-3.5\"|\"GPT-4\"|\"GPT-4o\"|\"GPT-5\"|\"generative AI\"|\"generative artificial intelligence\"|\"generative pre-trained transformer\"|\"foundation model\"|\"foundation models\",title_and_abstract.search:\"symptom severity\"|\"suicide risk\"|\"suicidal risk\"|\"C-SSRS\"|\"wellness dimensions\"|\"psychiatric functioning\"|\"defense mechanisms\"|\"psychological defenses\"|Rorschach|\"projective test\"|\"projective tests\"|\"projective technique\"|\"sentence completion\"|\"reflective functioning\"|\"adult attachment interview\"|\"autobiographical memory\"|\"divergent thinking\"|\"empathy detection\"|\"empathy classification\"|\"emotion regulation strategies\"|\"psychological constructs\"|\"therapist behaviors\"|\"counselor behaviors\"|\"counseling skills\"|\"treatment fidelity\"|\"psychotherapy fidelity\",from_publication_date:2020-01-01"
+      ]
+    },
+    "searched_at_utc": "2026-10-21T10:33:54+00:00",
+    "seconds": 418.2
+  },
+  "s2": {
+    "records": 6922,
+    "meta": {
+      "queries": [
+        "(\"large language model\" | \"large language models\" | \"LLM\" | \"LLMs\" | \"LLM-based\" | \"ChatGPT\" | \"GPT-3\" | \"GPT-3.5\" | \"GPT-4\" | \"GPT-4o\" | \"GPT-5\" | \"generative AI\" | \"generative artificial intelligence\" | \"generative pre-trained transformer\" | \"foundation model\" | \"foundation models\") + (\"inter-rater\" | \"interrater\" | \"inter-coder\" | \"intercoder\" | \"inter-annotator\" | \"interannotator\" | \"kappa\" | \"Krippendorff\" | \"Gwet\" | \"intraclass\" | \"agreement with human\" | \"agreement with humans\" | \"agreement with experts\" | \"agreement with clinicians\" | \"agreement between human\" | \"human agreement\" | \"human-LLM agreement\" | \"LLM-human agreement\" | \"human coder\" | \"human coders\" | \"human rater\" | \"human raters\" | \"human annotator\" | \"human annotators\" | \"human expert\" | \"human experts\" | \"human evaluators\" | \"human judgments\" | \"human judgements\" | \"human labels\" | \"human annotations\" | \"human ratings\" | \"expert annotations\" | \"expert ratings\" | \"expert raters\" | \"expert coders\" | \"expert-annotated\" | \"human-annotated\" | \"manually annotated\" | \"manually coded\" | \"manual coding\" | \"manual annotation\" | \"gold standard\" | \"clinician ratings\" | \"trained coders\" | \"LLM-as-a-judge\" | \"LLM-as-judge\" | \"LLM judge\" | \"LLM judges\" | \"LLM evaluator\" | \"LLM evaluators\" | \"automated coding\" | \"automated scoring\" | \"automatic scoring\") + (\"psychology\" | \"psychological\" | \"psychologist\" | \"psychiatry\" | \"psychiatric\" | \"psychotherapy\" | \"psychotherapist\" | \"counseling\" | \"counselling\" | \"counselor\" | \"counsellor\" | \"mental health\" | \"mental illness\" | \"depression\" | \"depressive\" | \"anxiety\" | \"suicide\" | \"suicidal\" | \"self-harm\" | \"trauma\" | \"PTSD\" | \"emotion\" | \"emotions\" | \"emotional\" | \"affective\")",
+        "(\"large language model\" | \"large language models\" | \"LLM\" | \"LLMs\" | \"LLM-based\" | \"ChatGPT\" | \"GPT-3\" | \"GPT-3.5\" | \"GPT-4\" | \"GPT-4o\" | \"GPT-5\" | \"generative AI\" | \"generative artificial intelligence\" | \"generative pre-trained transformer\" | \"foundation model\" | \"foundation models\") + (\"inter-rater\" | \"interrater\" | \"inter-coder\" | \"intercoder\" | \"inter-annotator\" | \"interannotator\" | \"kappa\" | \"Krippendorff\" | \"Gwet\" | \"intraclass\" | \"agreement with human\" | \"agreement with humans\" | \"agreement with experts\" | \"agreement with clinicians\" | \"agreement between human\" | \"human agreement\" | \"human-LLM agreement\" | \"LLM-human agreement\" | \"human coder\" | \"human coders\" | \"human rater\" | \"human raters\" | \"human annotator\" | \"human annotators\" | \"human expert\" | \"human experts\" | \"human evaluators\" | \"human judgments\" | \"human judgements\" | \"human labels\" | \"human annotations\" | \"human ratings\" | \"expert annotations\" | \"expert ratings\" | \"expert raters\" | \"expert coders\" | \"expert-annotated\" | \"human-annotated\" | \"manually annotated\" | \"manually coded\" | \"manual coding\" | \"manual annotation\" | \"gold standard\" | \"clinician ratings\" | \"trained coders\" | \"LLM-as-a-judge\" | \"LLM-as-judge\" | \"LLM judge\" | \"LLM judges\" | \"LLM evaluator\" | \"LLM evaluators\" | \"automated coding\" | \"automated scoring\" | \"automatic scoring\") + (\"personality\" | \"empathy\" | \"empathic\" | \"well-being\" | \"wellbeing\" | \"motivational interviewing\" | \"therapist\" | \"therapists\" | \"therapeutic\" | \"crisis\" | \"distress\" | \"loneliness\" | \"eating disorder\" | \"substance use\" | \"addiction\" | \"psychosis\" | \"schizophrenia\" | \"bipolar\" | \"autism\" | \"ADHD\" | \"attachment\" | \"mentalization\" | \"mentalizing\" | \"reflective functioning\" | \"cognitive distortion\")",
+        "(\"large language model\" | \"large language models\" | \"LLM\" | \"LLMs\" | \"LLM-based\" | \"ChatGPT\" | \"GPT-3\" | \"GPT-3.5\" | \"GPT-4\" | \"GPT-4o\" | \"GPT-5\" | \"generative AI\" | \"generative artificial intelligence\" | \"generative pre-trained transformer\" | \"foundation model\" | \"foundation models\") + (\"inter-rater\" | \"interrater\" | \"inter-coder\" | \"intercoder\" | \"inter-annotator\" | \"interannotator\" | \"kappa\" | \"Krippendorff\" | \"Gwet\" | \"intraclass\" | \"agreement with human\" | \"agreement with humans\" | \"agreement with experts\" | \"agreement with clinicians\" | \"agreement between human\" | \"human agreement\" | \"human-LLM agreement\" | \"LLM-human agreement\" | \"human coder\" | \"human coders\" | \"human rater\" | \"human raters\" | \"human annotator\" | \"human annotators\" | \"human expert\" | \"human experts\" | \"human evaluators\" | \"human judgments\" | \"human judgements\" | \"human labels\" | \"human annotations\" | \"human ratings\" | \"expert annotations\" | \"expert ratings\" | \"expert raters\" | \"expert coders\" | \"expert-annotated\" | \"human-annotated\" | \"manually annotated\" | \"manually coded\" | \"manual coding\" | \"manual annotation\" | \"gold standard\" | \"clinician ratings\" | \"trained coders\" | \"LLM-as-a-judge\" | \"LLM-as-judge\" | \"LLM judge\" | \"LLM judges\" | \"LLM evaluator\" | \"LLM evaluators\" | \"automated coding\" | \"automated scoring\" | \"automatic scoring\") + (\"cognitive distortions\" | \"defense mechanism\" | \"defence mechanism\" | \"projective\" | \"Rorschach\" | \"sentence completion\" | \"narrative\" | \"narratives\" | \"qualitative\" | \"interview\" | \"interviews\" | \"open-ended\" | \"divergent thinking\")",
+        "(\"large language model\" | \"large language models\" | \"LLM\" | \"LLMs\" | \"LLM-based\" | \"ChatGPT\" | \"GPT-3\" | \"GPT-3.5\" | \"GPT-4\" | \"GPT-4o\" | \"GPT-5\" | \"generative AI\" | \"generative artificial intelligence\" | \"generative pre-trained transformer\" | \"foundation model\" | \"foundation models\") + (\"cognitive distortion\" | \"cognitive distortions\" | \"maladaptive schema\" | \"maladaptive schemas\" | \"mental manipulation\" | \"motivational interviewing\" | \"change talk\" | \"sustain talk\" | \"MITI\" | \"MISC\" | \"therapeutic alliance\" | \"counseling conversation\" | \"counseling conversations\" | \"counselling conversations\" | \"counseling session\" | \"counseling sessions\" | \"therapy session\" | \"therapy sessions\" | \"therapy transcripts\" | \"psychotherapy transcripts\" | \"psychotherapy sessions\" | \"clinical interview\" | \"clinical interviews\" | \"psychiatric interview\" | \"psychiatric interviews\" | \"diagnostic interview\" | \"diagnostic interviews\" | \"PTSD severity\" | \"PTSD assessment\" | \"depression severity\")",
+        "(\"large language model\" | \"large language models\" | \"LLM\" | \"LLMs\" | \"LLM-based\" | \"ChatGPT\" | \"GPT-3\" | \"GPT-3.5\" | \"GPT-4\" | \"GPT-4o\" | \"GPT-5\" | \"generative AI\" | \"generative artificial intelligence\" | \"generative pre-trained transformer\" | \"foundation model\" | \"foundation models\") + (\"symptom severity\" | \"suicide risk\" | \"suicidal risk\" | \"C-SSRS\" | \"wellness dimensions\" | \"psychiatric functioning\" | \"defense mechanisms\" | \"psychological defenses\" | \"Rorschach\" | \"projective test\" | \"projective tests\" | \"projective technique\" | \"sentence completion\" | \"reflective functioning\" | \"adult attachment interview\" | \"autobiographical memory\" | \"divergent thinking\" | \"empathy detection\" | \"empathy classification\" | \"emotion regulation strategies\" | \"psychological constructs\" | \"therapist behaviors\" | \"counselor behaviors\" | \"counseling skills\" | \"treatment fidelity\" | \"psychotherapy fidelity\")"
+      ]
+    },
+    "searched_at_utc": "2026-10-21T10:35:01+00:00",
+    "seconds": 67.3
+  },
+  "arxiv": {
+    "records": 3261,
+    "meta": {
+      "queries": [
+        "(abs:\"large language model\" OR abs:\"large language models\" OR abs:LLM OR abs:LLMs OR abs:\"LLM-based\" OR abs:ChatGPT OR abs:\"GPT-3\" OR abs:\"GPT-3.5\" OR abs:\"GPT-4\" OR abs:\"GPT-4o\" OR abs:\"GPT-5\" OR abs:\"generative AI\" OR abs:\"generative artificial intelligence\" OR abs:\"generative pre-trained transformer\" OR abs:\"foundation model\" OR abs:\"foundation models\") AND (abs:\"inter-rater\" OR abs:interrater OR abs:\"inter-coder\" OR abs:intercoder OR abs:\"inter-annotator\" OR abs:interannotator OR abs:kappa OR abs:Krippendorff OR abs:Gwet OR abs:intraclass OR abs:\"agreement with human\" OR abs:\"agreement with humans\" OR abs:\"agreement with experts\" OR abs:\"agreement with clinicians\" OR abs:\"agreement between human\" OR abs:\"human agreement\" OR abs:\"human-LLM agreement\" OR abs:\"LLM-human agreement\" OR abs:\"human coder\" OR abs:\"human coders\" OR abs:\"human rater\" OR abs:\"human raters\" OR abs:\"human annotator\" OR abs:\"human annotators\" OR abs:\"human expert\" OR abs:\"human experts\" OR abs:\"human evaluators\" OR abs:\"human judgments\" OR abs:\"human judgements\" OR abs:\"human labels\" OR abs:\"human annotations\" OR abs:\"human ratings\" OR abs:\"expert annotations\" OR abs:\"expert ratings\" OR abs:\"expert raters\" OR abs:\"expert coders\" OR abs:\"expert-annotated\" OR abs:\"human-annotated\" OR abs:\"manually annotated\" OR abs:\"manually coded\" OR abs:\"manual coding\" OR abs:\"manual annotation\" OR abs:\"gold standard\" OR abs:\"clinician ratings\" OR abs:\"trained coders\" OR abs:\"LLM-as-a-judge\" OR abs:\"LLM-as-judge\" OR abs:\"LLM judge\" OR abs:\"LLM judges\" OR abs:\"LLM evaluator\" OR abs:\"LLM evaluators\" OR abs:\"automated coding\" OR abs:\"automated scoring\" OR abs:\"automatic scoring\") AND (abs:psychology OR abs:psychological OR abs:psychologist OR abs:psychiatry OR abs:psychiatric OR abs:psychotherapy OR abs:psychotherapist OR abs:counseling OR abs:counselling OR abs:counselor OR abs:counsellor OR abs:\"mental health\" OR abs:\"mental illness\" OR abs:depression OR abs:depressive OR abs:anxiety OR abs:suicide OR abs:suicidal OR abs:\"self-harm\" OR abs:trauma OR abs:PTSD OR abs:emotion OR abs:emotions OR abs:emotional OR abs:affective)",
+        "(abs:\"large language model\" OR abs:\"large language models\" OR abs:LLM OR abs:LLMs OR abs:\"LLM-based\" OR abs:ChatGPT OR abs:\"GPT-3\" OR abs:\"GPT-3.5\" OR abs:\"GPT-4\" OR abs:\"GPT-4o\" OR abs:\"GPT-5\" OR abs:\"generative AI\" OR abs:\"generative artificial intelligence\" OR abs:\"generative pre-trained transformer\" OR abs:\"foundation model\" OR abs:\"foundation models\") AND (abs:\"inter-rater\" OR abs:interrater OR abs:\"inter-coder\" OR abs:intercoder OR abs:\"inter-annotator\" OR abs:interannotator OR abs:kappa OR abs:Krippendorff OR abs:Gwet OR abs:intraclass OR abs:\"agreement with human\" OR abs:\"agreement with humans\" OR abs:\"agreement with experts\" OR abs:\"agreement with clinicians\" OR abs:\"agreement between human\" OR abs:\"human agreement\" OR abs:\"human-LLM agreement\" OR abs:\"LLM-human agreement\" OR abs:\"human coder\" OR abs:\"human coders\" OR abs:\"human rater\" OR abs:\"human raters\" OR abs:\"human annotator\" OR abs:\"human annotators\" OR abs:\"human expert\" OR abs:\"human experts\" OR abs:\"human evaluators\" OR abs:\"human judgments\" OR abs:\"human judgements\" OR abs:\"human labels\" OR abs:\"human annotations\" OR abs:\"human ratings\" OR abs:\"expert annotations\" OR abs:\"expert ratings\" OR abs:\"expert raters\" OR abs:\"expert coders\" OR abs:\"expert-annotated\" OR abs:\"human-annotated\" OR abs:\"manually annotated\" OR abs:\"manually coded\" OR abs:\"manual coding\" OR abs:\"manual annotation\" OR abs:\"gold standard\" OR abs:\"clinician ratings\" OR abs:\"trained coders\" OR abs:\"LLM-as-a-judge\" OR abs:\"LLM-as-judge\" OR abs:\"LLM judge\" OR abs:\"LLM judges\" OR abs:\"LLM evaluator\" OR abs:\"LLM evaluators\" OR abs:\"automated coding\" OR abs:\"automated scoring\" OR abs:\"automatic scoring\") AND (abs:personality OR abs:empathy OR abs:empathic OR abs:\"well-being\" OR abs:wellbeing OR abs:\"motivational interviewing\" OR abs:therapist OR abs:therapists OR abs:therapeutic OR abs:crisis OR abs:distress OR abs:loneliness OR abs:\"eating disorder\" OR abs:\"substance use\" OR abs:addiction OR abs:psychosis OR abs:schizophrenia OR abs:bipolar OR abs:autism OR abs:ADHD OR abs:attachment OR abs:mentalization OR abs:mentalizing OR abs:\"reflective functioning\" OR abs:\"cognitive distortion\")",
+        "(abs:\"large language model\" OR abs:\"large language models\" OR abs:LLM OR abs:LLMs OR abs:\"LLM-based\" OR abs:ChatGPT OR abs:\"GPT-3\" OR abs:\"GPT-3.5\" OR abs:\"GPT-4\" OR abs:\"GPT-4o\" OR abs:\"GPT-5\" OR abs:\"generative AI\" OR abs:\"generative artificial intelligence\" OR abs:\"generative pre-trained transformer\" OR abs:\"foundation model\" OR abs:\"foundation models\") AND (abs:\"inter-rater\" OR abs:interrater OR abs:\"inter-coder\" OR abs:intercoder OR abs:\"inter-annotator\" OR abs:interannotator OR abs:kappa OR abs:Krippendorff OR abs:Gwet OR abs:intraclass OR abs:\"agreement with human\" OR abs:\"agreement with humans\" OR abs:\"agreement with experts\" OR abs:\"agreement with clinicians\" OR abs:\"agreement between human\" OR abs:\"human agreement\" OR abs:\"human-LLM agreement\" OR abs:\"LLM-human agreement\" OR abs:\"human coder\" OR abs:\"human coders\" OR abs:\"human rater\" OR abs:\"human raters\" OR abs:\"human annotator\" OR abs:\"human annotators\" OR abs:\"human expert\" OR abs:\"human experts\" OR abs:\"human evaluators\" OR abs:\"human judgments\" OR abs:\"human judgements\" OR abs:\"human labels\" OR abs:\"human annotations\" OR abs:\"human ratings\" OR abs:\"expert annotations\" OR abs:\"expert ratings\" OR abs:\"expert raters\" OR abs:\"expert coders\" OR abs:\"expert-annotated\" OR abs:\"human-annotated\" OR abs:\"manually annotated\" OR abs:\"manually coded\" OR abs:\"manual coding\" OR abs:\"manual annotation\" OR abs:\"gold standard\" OR abs:\"clinician ratings\" OR abs:\"trained coders\" OR abs:\"LLM-as-a-judge\" OR abs:\"LLM-as-judge\" OR abs:\"LLM judge\" OR abs:\"LLM judges\" OR abs:\"LLM evaluator\" OR abs:\"LLM evaluators\" OR abs:\"automated coding\" OR abs:\"automated scoring\" OR abs:\"automatic scoring\") AND (abs:\"cognitive distortions\" OR abs:\"defense mechanism\" OR abs:\"defence mechanism\" OR abs:projective OR abs:Rorschach OR abs:\"sentence completion\" OR abs:narrative OR abs:narratives OR abs:qualitative OR abs:interview OR abs:interviews OR abs:\"open-ended\" OR abs:\"divergent thinking\")",
+        "(abs:\"large language model\" OR abs:\"large language models\" OR abs:LLM OR abs:LLMs OR abs:\"LLM-based\" OR abs:ChatGPT OR abs:\"GPT-3\" OR abs:\"GPT-3.5\" OR abs:\"GPT-4\" OR abs:\"GPT-4o\" OR abs:\"GPT-5\" OR abs:\"generative AI\" OR abs:\"generative artificial intelligence\" OR abs:\"generative pre-trained transformer\" OR abs:\"foundation model\" OR abs:\"foundation models\") AND (abs:\"cognitive distortion\" OR abs:\"cognitive distortions\" OR abs:\"maladaptive schema\" OR abs:\"maladaptive schemas\" OR abs:\"mental manipulation\" OR abs:\"motivational interviewing\" OR abs:\"change talk\" OR abs:\"sustain talk\" OR abs:MITI OR abs:MISC OR abs:\"therapeutic alliance\" OR abs:\"counseling conversation\" OR abs:\"counseling conversations\" OR abs:\"counselling conversations\" OR abs:\"counseling session\" OR abs:\"counseling sessions\" OR abs:\"therapy session\" OR abs:\"therapy sessions\" OR abs:\"therapy transcripts\" OR abs:\"psychotherapy transcripts\" OR abs:\"psychotherapy sessions\" OR abs:\"clinical interview\" OR abs:\"clinical interviews\" OR abs:\"psychiatric interview\" OR abs:\"psychiatric interviews\" OR abs:\"diagnostic interview\" OR abs:\"diagnostic interviews\" OR abs:\"PTSD severity\" OR abs:\"PTSD assessment\" OR abs:\"depression severity\")",
+        "(abs:\"large language model\" OR abs:\"large language models\" OR abs:LLM OR abs:LLMs OR abs:\"LLM-based\" OR abs:ChatGPT OR abs:\"GPT-3\" OR abs:\"GPT-3.5\" OR abs:\"GPT-4\" OR abs:\"GPT-4o\" OR abs:\"GPT-5\" OR abs:\"generative AI\" OR abs:\"generative artificial intelligence\" OR abs:\"generative pre-trained transformer\" OR abs:\"foundation model\" OR abs:\"foundation models\") AND (abs:\"symptom severity\" OR abs:\"suicide risk\" OR abs:\"suicidal risk\" OR abs:\"C-SSRS\" OR abs:\"wellness dimensions\" OR abs:\"psychiatric functioning\" OR abs:\"defense mechanisms\" OR abs:\"psychological defenses\" OR abs:Rorschach OR abs:\"projective test\" OR abs:\"projective tests\" OR abs:\"projective technique\" OR abs:\"sentence completion\" OR abs:\"reflective functioning\" OR abs:\"adult attachment interview\" OR abs:\"autobiographical memory\" OR abs:\"divergent thinking\" OR abs:\"empathy detection\" OR abs:\"empathy classification\" OR abs:\"emotion regulation strategies\" OR abs:\"psychological constructs\" OR abs:\"therapist behaviors\" OR abs:\"counselor behaviors\" OR abs:\"counseling skills\" OR abs:\"treatment fidelity\" OR abs:\"psychotherapy fidelity\")"
+      ],
+      "totalResults": [
+        875,
+        814,
+        1511,
+        169,
+        503
+      ]
+    },
+    "searched_at_utc": "2026-10-21T10:42:53+00:00",
+    "seconds": 471.6
+  },
+  "psyarxiv": {
+    "records": 185,
+    "meta": {
+      "words": [
+        "large language model",
+        "LLM",
+        "ChatGPT",
+        "GPT-4",
+        "GPT-3",
+        "GPT-5",
+        "generative AI",
+        "generative artificial intelligence"
+      ],
+      "scanned_unique": 2092,
+      "local_filter": "blocks 1-3 in title or abstract"
+    },
+    "searched_at_utc": "2026-10-21T10:47:57+00:00",
+    "seconds": 303.7
+  },
+  "crossref": {
+    "records": 305,
+    "meta": {
+      "queries": {
+        "large language model agreement human coders psychology": {
+          "kept": 46,
+          "scanned": 2000
+        },
+        "LLM inter-rater reliability mental health": {
+          "kept": 9,
+          "scanned": 1000
+        },
+        "ChatGPT kappa human raters psychological": {
+          "kept": 26,
+          "scanned": 2000
+        },
+        "GPT-4 coding qualitative interviews agreement human coders": {
+          "kept": 45,
+          "scanned": 2000
+        },
+        "large language model psychotherapy transcripts coding": {
+          "kept": 48,
+          "scanned": 2000
+        },
+        "LLM motivational interviewing coding": {
+          "kept": 40,
+          "scanned": 2000
+        },
+        "LLM-as-a-judge mental health clinicians": {
+          "kept": 19,
+          "scanned": 2000
+        },
+        "large language model suicide risk annotation agreement": {
+          "kept": 64,
+          "scanned": 2000
+        },
+        "large language model scoring psychological assessment human raters": {
+          "kept": 68,
+          "scanned": 2000
+        },
+        "large language model emotion annotation human annotators": {
+          "kept": 36,
+          "scanned": 2000
+        },
+        "LLM content analysis human coders": {
+          "kept": 37,
+          "scanned": 2000
+        },
+        "generative AI qualitative coding reliability": {
+          "kept": 22,
+          "scanned": 2000
+        }
+      },
+      "local_filter": "blocks 1-3 in title or abstract"
+    },
+    "searched_at_utc": "2026-10-21T10:49:01+00:00",
+    "seconds": 64.5
+  },
+  "datacite": {
+    "records": 4863,
+    "meta": {
+      "queries": [
+        "(titles.title:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\") OR descriptions.description:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\")) AND (titles.title:(\"inter-rater\" OR \"interrater\" OR \"inter-coder\" OR \"intercoder\" OR \"inter-annotator\" OR \"interannotator\" OR \"kappa\" OR \"Krippendorff\" OR \"Gwet\" OR \"intraclass\" OR \"agreement with human\" OR \"agreement with humans\" OR \"agreement with experts\" OR \"agreement with clinicians\" OR \"agreement between human\" OR \"human agreement\" OR \"human-LLM agreement\" OR \"LLM-human agreement\" OR \"human coder\" OR \"human coders\" OR \"human rater\" OR \"human raters\" OR \"human annotator\" OR \"human annotators\" OR \"human expert\" OR \"human experts\" OR \"human evaluators\" OR \"human judgments\" OR \"human judgements\" OR \"human labels\" OR \"human annotations\" OR \"human ratings\" OR \"expert annotations\" OR \"expert ratings\" OR \"expert raters\" OR \"expert coders\" OR \"expert-annotated\" OR \"human-annotated\" OR \"manually annotated\" OR \"manually coded\" OR \"manual coding\" OR \"manual annotation\" OR \"gold standard\" OR \"clinician ratings\" OR \"trained coders\" OR \"LLM-as-a-judge\" OR \"LLM-as-judge\" OR \"LLM judge\" OR \"LLM judges\" OR \"LLM evaluator\" OR \"LLM evaluators\" OR \"automated coding\" OR \"automated scoring\" OR \"automatic scoring\") OR descriptions.description:(\"inter-rater\" OR \"interrater\" OR \"inter-coder\" OR \"intercoder\" OR \"inter-annotator\" OR \"interannotator\" OR \"kappa\" OR \"Krippendorff\" OR \"Gwet\" OR \"intraclass\" OR \"agreement with human\" OR \"agreement with humans\" OR \"agreement with experts\" OR \"agreement with clinicians\" OR \"agreement between human\" OR \"human agreement\" OR \"human-LLM agreement\" OR \"LLM-human agreement\" OR \"human coder\" OR \"human coders\" OR \"human rater\" OR \"human raters\" OR \"human annotator\" OR \"human annotators\" OR \"human expert\" OR \"human experts\" OR \"human evaluators\" OR \"human judgments\" OR \"human judgements\" OR \"human labels\" OR \"human annotations\" OR \"human ratings\" OR \"expert annotations\" OR \"expert ratings\" OR \"expert raters\" OR \"expert coders\" OR \"expert-annotated\" OR \"human-annotated\" OR \"manually annotated\" OR \"manually coded\" OR \"manual coding\" OR \"manual annotation\" OR \"gold standard\" OR \"clinician ratings\" OR \"trained coders\" OR \"LLM-as-a-judge\" OR \"LLM-as-judge\" OR \"LLM judge\" OR \"LLM judges\" OR \"LLM evaluator\" OR \"LLM evaluators\" OR \"automated coding\" OR \"automated scoring\" OR \"automatic scoring\")) AND (titles.title:(\"psychology\" OR \"psychological\" OR \"psychologist\" OR \"psychiatry\" OR \"psychiatric\" OR \"psychotherapy\" OR \"psychotherapist\" OR \"counseling\" OR \"counselling\" OR \"counselor\" OR \"counsellor\" OR \"mental health\" OR \"mental illness\" OR \"depression\" OR \"depressive\" OR \"anxiety\" OR \"suicide\" OR \"suicidal\" OR \"self-harm\" OR \"trauma\" OR \"PTSD\" OR \"emotion\" OR \"emotions\" OR \"emotional\" OR \"affective\") OR descriptions.description:(\"psychology\" OR \"psychological\" OR \"psychologist\" OR \"psychiatry\" OR \"psychiatric\" OR \"psychotherapy\" OR \"psychotherapist\" OR \"counseling\" OR \"counselling\" OR \"counselor\" OR \"counsellor\" OR \"mental health\" OR \"mental illness\" OR \"depression\" OR \"depressive\" OR \"anxiety\" OR \"suicide\" OR \"suicidal\" OR \"self-harm\" OR \"trauma\" OR \"PTSD\" OR \"emotion\" OR \"emotions\" OR \"emotional\" OR \"affective\")) AND publicationYear:[2020 TO 2030]",
+        "(titles.title:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\") OR descriptions.description:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\")) AND (titles.title:(\"inter-rater\" OR \"interrater\" OR \"inter-coder\" OR \"intercoder\" OR \"inter-annotator\" OR \"interannotator\" OR \"kappa\" OR \"Krippendorff\" OR \"Gwet\" OR \"intraclass\" OR \"agreement with human\" OR \"agreement with humans\" OR \"agreement with experts\" OR \"agreement with clinicians\" OR \"agreement between human\" OR \"human agreement\" OR \"human-LLM agreement\" OR \"LLM-human agreement\" OR \"human coder\" OR \"human coders\" OR \"human rater\" OR \"human raters\" OR \"human annotator\" OR \"human annotators\" OR \"human expert\" OR \"human experts\" OR \"human evaluators\" OR \"human judgments\" OR \"human judgements\" OR \"human labels\" OR \"human annotations\" OR \"human ratings\" OR \"expert annotations\" OR \"expert ratings\" OR \"expert raters\" OR \"expert coders\" OR \"expert-annotated\" OR \"human-annotated\" OR \"manually annotated\" OR \"manually coded\" OR \"manual coding\" OR \"manual annotation\" OR \"gold standard\" OR \"clinician ratings\" OR \"trained coders\" OR \"LLM-as-a-judge\" OR \"LLM-as-judge\" OR \"LLM judge\" OR \"LLM judges\" OR \"LLM evaluator\" OR \"LLM evaluators\" OR \"automated coding\" OR \"automated scoring\" OR \"automatic scoring\") OR descriptions.description:(\"inter-rater\" OR \"interrater\" OR \"inter-coder\" OR \"intercoder\" OR \"inter-annotator\" OR \"interannotator\" OR \"kappa\" OR \"Krippendorff\" OR \"Gwet\" OR \"intraclass\" OR \"agreement with human\" OR \"agreement with humans\" OR \"agreement with experts\" OR \"agreement with clinicians\" OR \"agreement between human\" OR \"human agreement\" OR \"human-LLM agreement\" OR \"LLM-human agreement\" OR \"human coder\" OR \"human coders\" OR \"human rater\" OR \"human raters\" OR \"human annotator\" OR \"human annotators\" OR \"human expert\" OR \"human experts\" OR \"human evaluators\" OR \"human judgments\" OR \"human judgements\" OR \"human labels\" OR \"human annotations\" OR \"human ratings\" OR \"expert annotations\" OR \"expert ratings\" OR \"expert raters\" OR \"expert coders\" OR \"expert-annotated\" OR \"human-annotated\" OR \"manually annotated\" OR \"manually coded\" OR \"manual coding\" OR \"manual annotation\" OR \"gold standard\" OR \"clinician ratings\" OR \"trained coders\" OR \"LLM-as-a-judge\" OR \"LLM-as-judge\" OR \"LLM judge\" OR \"LLM judges\" OR \"LLM evaluator\" OR \"LLM evaluators\" OR \"automated coding\" OR \"automated scoring\" OR \"automatic scoring\")) AND (titles.title:(\"personality\" OR \"empathy\" OR \"empathic\" OR \"well-being\" OR \"wellbeing\" OR \"motivational interviewing\" OR \"therapist\" OR \"therapists\" OR \"therapeutic\" OR \"crisis\" OR \"distress\" OR \"loneliness\" OR \"eating disorder\" OR \"substance use\" OR \"addiction\" OR \"psychosis\" OR \"schizophrenia\" OR \"bipolar\" OR \"autism\" OR \"ADHD\" OR \"attachment\" OR \"mentalization\" OR \"mentalizing\" OR \"reflective functioning\" OR \"cognitive distortion\") OR descriptions.description:(\"personality\" OR \"empathy\" OR \"empathic\" OR \"well-being\" OR \"wellbeing\" OR \"motivational interviewing\" OR \"therapist\" OR \"therapists\" OR \"therapeutic\" OR \"crisis\" OR \"distress\" OR \"loneliness\" OR \"eating disorder\" OR \"substance use\" OR \"addiction\" OR \"psychosis\" OR \"schizophrenia\" OR \"bipolar\" OR \"autism\" OR \"ADHD\" OR \"attachment\" OR \"mentalization\" OR \"mentalizing\" OR \"reflective functioning\" OR \"cognitive distortion\")) AND publicationYear:[2020 TO 2030]",
+        "(titles.title:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\") OR descriptions.description:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\")) AND (titles.title:(\"inter-rater\" OR \"interrater\" OR \"inter-coder\" OR \"intercoder\" OR \"inter-annotator\" OR \"interannotator\" OR \"kappa\" OR \"Krippendorff\" OR \"Gwet\" OR \"intraclass\" OR \"agreement with human\" OR \"agreement with humans\" OR \"agreement with experts\" OR \"agreement with clinicians\" OR \"agreement between human\" OR \"human agreement\" OR \"human-LLM agreement\" OR \"LLM-human agreement\" OR \"human coder\" OR \"human coders\" OR \"human rater\" OR \"human raters\" OR \"human annotator\" OR \"human annotators\" OR \"human expert\" OR \"human experts\" OR \"human evaluators\" OR \"human judgments\" OR \"human judgements\" OR \"human labels\" OR \"human annotations\" OR \"human ratings\" OR \"expert annotations\" OR \"expert ratings\" OR \"expert raters\" OR \"expert coders\" OR \"expert-annotated\" OR \"human-annotated\" OR \"manually annotated\" OR \"manually coded\" OR \"manual coding\" OR \"manual annotation\" OR \"gold standard\" OR \"clinician ratings\" OR \"trained coders\" OR \"LLM-as-a-judge\" OR \"LLM-as-judge\" OR \"LLM judge\" OR \"LLM judges\" OR \"LLM evaluator\" OR \"LLM evaluators\" OR \"automated coding\" OR \"automated scoring\" OR \"automatic scoring\") OR descriptions.description:(\"inter-rater\" OR \"interrater\" OR \"inter-coder\" OR \"intercoder\" OR \"inter-annotator\" OR \"interannotator\" OR \"kappa\" OR \"Krippendorff\" OR \"Gwet\" OR \"intraclass\" OR \"agreement with human\" OR \"agreement with humans\" OR \"agreement with experts\" OR \"agreement with clinicians\" OR \"agreement between human\" OR \"human agreement\" OR \"human-LLM agreement\" OR \"LLM-human agreement\" OR \"human coder\" OR \"human coders\" OR \"human rater\" OR \"human raters\" OR \"human annotator\" OR \"human annotators\" OR \"human expert\" OR \"human experts\" OR \"human evaluators\" OR \"human judgments\" OR \"human judgements\" OR \"human labels\" OR \"human annotations\" OR \"human ratings\" OR \"expert annotations\" OR \"expert ratings\" OR \"expert raters\" OR \"expert coders\" OR \"expert-annotated\" OR \"human-annotated\" OR \"manually annotated\" OR \"manually coded\" OR \"manual coding\" OR \"manual annotation\" OR \"gold standard\" OR \"clinician ratings\" OR \"trained coders\" OR \"LLM-as-a-judge\" OR \"LLM-as-judge\" OR \"LLM judge\" OR \"LLM judges\" OR \"LLM evaluator\" OR \"LLM evaluators\" OR \"automated coding\" OR \"automated scoring\" OR \"automatic scoring\")) AND (titles.title:(\"cognitive distortions\" OR \"defense mechanism\" OR \"defence mechanism\" OR \"projective\" OR \"Rorschach\" OR \"sentence completion\" OR \"narrative\" OR \"narratives\" OR \"qualitative\" OR \"interview\" OR \"interviews\" OR \"open-ended\" OR \"divergent thinking\") OR descriptions.description:(\"cognitive distortions\" OR \"defense mechanism\" OR \"defence mechanism\" OR \"projective\" OR \"Rorschach\" OR \"sentence completion\" OR \"narrative\" OR \"narratives\" OR \"qualitative\" OR \"interview\" OR \"interviews\" OR \"open-ended\" OR \"divergent thinking\")) AND publicationYear:[2020 TO 2030]",
+        "(titles.title:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\") OR descriptions.description:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\")) AND (titles.title:(\"cognitive distortion\" OR \"cognitive distortions\" OR \"maladaptive schema\" OR \"maladaptive schemas\" OR \"mental manipulation\" OR \"motivational interviewing\" OR \"change talk\" OR \"sustain talk\" OR \"MITI\" OR \"MISC\" OR \"therapeutic alliance\" OR \"counseling conversation\" OR \"counseling conversations\" OR \"counselling conversations\" OR \"counseling session\" OR \"counseling sessions\" OR \"therapy session\" OR \"therapy sessions\" OR \"therapy transcripts\" OR \"psychotherapy transcripts\" OR \"psychotherapy sessions\" OR \"clinical interview\" OR \"clinical interviews\" OR \"psychiatric interview\" OR \"psychiatric interviews\" OR \"diagnostic interview\" OR \"diagnostic interviews\" OR \"PTSD severity\" OR \"PTSD assessment\" OR \"depression severity\") OR descriptions.description:(\"cognitive distortion\" OR \"cognitive distortions\" OR \"maladaptive schema\" OR \"maladaptive schemas\" OR \"mental manipulation\" OR \"motivational interviewing\" OR \"change talk\" OR \"sustain talk\" OR \"MITI\" OR \"MISC\" OR \"therapeutic alliance\" OR \"counseling conversation\" OR \"counseling conversations\" OR \"counselling conversations\" OR \"counseling session\" OR \"counseling sessions\" OR \"therapy session\" OR \"therapy sessions\" OR \"therapy transcripts\" OR \"psychotherapy transcripts\" OR \"psychotherapy sessions\" OR \"clinical interview\" OR \"clinical interviews\" OR \"psychiatric interview\" OR \"psychiatric interviews\" OR \"diagnostic interview\" OR \"diagnostic interviews\" OR \"PTSD severity\" OR \"PTSD assessment\" OR \"depression severity\")) AND publicationYear:[2020 TO 2030]",
+        "(titles.title:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\") OR descriptions.description:(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\" OR \"LLM-based\" OR \"ChatGPT\" OR \"GPT-3\" OR \"GPT-3.5\" OR \"GPT-4\" OR \"GPT-4o\" OR \"GPT-5\" OR \"generative AI\" OR \"generative artificial intelligence\" OR \"generative pre-trained transformer\" OR \"foundation model\" OR \"foundation models\")) AND (titles.title:(\"symptom severity\" OR \"suicide risk\" OR \"suicidal risk\" OR \"C-SSRS\" OR \"wellness dimensions\" OR \"psychiatric functioning\" OR \"defense mechanisms\" OR \"psychological defenses\" OR \"Rorschach\" OR \"projective test\" OR \"projective tests\" OR \"projective technique\" OR \"sentence completion\" OR \"reflective functioning\" OR \"adult attachment interview\" OR \"autobiographical memory\" OR \"divergent thinking\" OR \"empathy detection\" OR \"empathy classification\" OR \"emotion regulation strategies\" OR \"psychological constructs\" OR \"therapist behaviors\" OR \"counselor behaviors\" OR \"counseling skills\" OR \"treatment fidelity\" OR \"psychotherapy fidelity\") OR descriptions.description:(\"symptom severity\" OR \"suicide risk\" OR \"suicidal risk\" OR \"C-SSRS\" OR \"wellness dimensions\" OR \"psychiatric functioning\" OR \"defense mechanisms\" OR \"psychological defenses\" OR \"Rorschach\" OR \"projective test\" OR \"projective tests\" OR \"projective technique\" OR \"sentence completion\" OR \"reflective functioning\" OR \"adult attachment interview\" OR \"autobiographical memory\" OR \"divergent thinking\" OR \"empathy detection\" OR \"empathy classification\" OR \"emotion regulation strategies\" OR \"psychological constructs\" OR \"therapist behaviors\" OR \"counselor behaviors\" OR \"counseling skills\" OR \"treatment fidelity\" OR \"psychotherapy fidelity\")) AND publicationYear:[2020 TO 2030]"
+      ]
+    },
+    "searched_at_utc": "2026-10-21T10:50:42+00:00",
+    "seconds": 101.0
+  },
+  "core": {
+    "records": 249,
+    "meta": {
+      "query": "(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"ChatGPT\" OR \"GPT-4\") AND (\"inter-rater\" OR \"interrater\" OR \"kappa\" OR \"human coders\" OR \"human raters\" OR \"human annotators\" OR \"LLM-as-a-judge\" OR \"agreement with human\") AND yearPublished>=2020",
+      "totalHits": 3001,
+      "scanned": 1100,
+      "dropped_not_all_blocks": 851,
+      "stopped_at_offset_http_400": 1100
+    },
+    "searched_at_utc": "2026-10-21T11:04:52+00:00",
+    "seconds": 364.0
+  }
+}

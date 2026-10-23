@@ -1,0 +1,4273 @@
+[
+ {
+  "job_id": "ST001",
+  "study_id": "ST001",
+  "main": "R0011",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST002",
+  "study_id": "ST002",
+  "main": "R0044",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST003",
+  "study_id": "ST003",
+  "main": "R0055",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST004",
+  "study_id": "ST004",
+  "main": "R0062",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST005",
+  "study_id": "ST005",
+  "main": "R0126",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST006",
+  "study_id": "ST006",
+  "main": "R0232",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST007",
+  "study_id": "ST007",
+  "main": "R0268",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST008",
+  "study_id": "ST008",
+  "main": "R0282",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST009",
+  "study_id": "ST009",
+  "main": "R0317",
+  "attached": [],
+  "listed_only": [
+   "R10863"
+  ],
+  "link_reason": "Valentine et al., clinician bias in psychiatric notes: LREC-COLING 2024 paper (R10863) and the extended LRE 2026 article (R0317), same 39 sentences",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST010",
+  "study_id": "ST010",
+  "main": "R0358",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST011",
+  "study_id": "ST011",
+  "main": "R0438",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST012",
+  "study_id": "ST012",
+  "main": "R0443",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST013",
+  "study_id": "ST013",
+  "main": "R0469",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Chapter 4 only (therapist interactions with LLM-simulated couple agents; LLM stage labels against human coding). Chapter 2 is the study of R0470; Chapter 3 compares an LLM evaluator with another LLM.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST014",
+  "study_id": "ST014",
+  "main": "R0470",
+  "attached": [],
+  "listed_only": [
+   "R0469"
+  ],
+  "link_reason": "Chen et al., therapist-client dynamics: the arXiv paper (R0470) is Chapter 2 of Chen's thesis (R0469), same validation values",
+  "scope": "Chapter 2 of Chen's thesis (R0469) is this paper; extract from R0470.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST015",
+  "study_id": "ST015",
+  "main": "R0481",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST016",
+  "study_id": "ST016",
+  "main": "R0553",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST017",
+  "study_id": "ST017",
+  "main": "R0556",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST018",
+  "study_id": "ST018",
+  "main": "R0582",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST019",
+  "study_id": "ST019",
+  "main": "R0599",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST020",
+  "study_id": "ST020",
+  "main": "R0627",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST021",
+  "study_id": "ST021",
+  "main": "R0640",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST022",
+  "study_id": "ST022",
+  "main": "R0642",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST023",
+  "study_id": "ST023",
+  "main": "R0665",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST024",
+  "study_id": "ST024",
+  "main": "R0716",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST025",
+  "study_id": "ST025",
+  "main": "R0725",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST026",
+  "study_id": "ST026",
+  "main": "R0741",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST027",
+  "study_id": "ST027",
+  "main": "R0761",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST028",
+  "study_id": "ST028",
+  "main": "R0791",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST029",
+  "study_id": "ST029",
+  "main": "R0798",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST030",
+  "study_id": "ST030",
+  "main": "R0807",
+  "attached": [
+   "R4135"
+  ],
+  "listed_only": [],
+  "link_reason": "Badawi, Rahimi, Dolatabadi et al. (York University, Vector Institute), the same expert ratings of mental-health responses: R4135 reuses R0807's closed-source judge results and adds trained judges",
+  "scope": "Closed-source judges (Claude-3.7-Sonnet, GPT-4o, o4-mini, Gemini) from R0807 only; from the attached R4135 take only its own judges (TheraJudge and the Qwen2.5-7B variants).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST031",
+  "study_id": "ST031",
+  "main": "R0810",
+  "attached": [
+   "R2481"
+  ],
+  "listed_only": [],
+  "link_reason": "PsyDefConv/PsyDefDetect organisers (Na et al.): the dataset paper (R0810) and the shared-task overview (R2481) on the same test set",
+  "scope": "From R0810 take the LLM baselines. From the attached overview R2481 take the organisers' baselines that are not in R0810 and the results of participating teams that have no system paper of their own in this review; the system papers R0481, R3584, R4485, R4743, R5350, R5444 and R5748 are separate studies.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST032",
+  "study_id": "ST032",
+  "main": "R0812",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST033",
+  "study_id": "ST033",
+  "main": "R0893",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST034",
+  "study_id": "ST034",
+  "main": "R0951",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST035",
+  "study_id": "ST035",
+  "main": "R1023",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST036",
+  "study_id": "ST036",
+  "main": "R1058",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST037",
+  "study_id": "ST037",
+  "main": "R1082",
+  "attached": [],
+  "listed_only": [
+   "R8880"
+  ],
+  "link_reason": "Lamboy et al., resilience in life-story interviews: Research Square preprint (R8880) and journal article (R1082)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST038",
+  "study_id": "ST038",
+  "main": "R1097",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST039",
+  "study_id": "ST039",
+  "main": "R1163",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST040",
+  "study_id": "ST040",
+  "main": "R1218",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST041",
+  "study_id": "ST041",
+  "main": "R1245",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST042",
+  "study_id": "ST042",
+  "main": "R1256",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST043",
+  "study_id": "ST043",
+  "main": "R1291",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST044",
+  "study_id": "ST044",
+  "main": "R1327",
+  "attached": [
+   "R1329"
+  ],
+  "listed_only": [],
+  "link_reason": "Soria, UC Berkeley Social Networks Study (UCNets), the same two-coder human consensus: R1327 compares 8 LLMs on 3,208 responses, the companion study R1329 18 LLMs on 525 of them",
+  "scope": "Extract both reports: R1327 (3,208 responses) and the attached R1329 (525 responses, more models).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST045",
+  "study_id": "ST045",
+  "main": "R1414",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST046",
+  "study_id": "ST046",
+  "main": "R1434",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST047",
+  "study_id": "ST047",
+  "main": "R1476",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST048",
+  "study_id": "ST048",
+  "main": "R1637",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST049",
+  "study_id": "ST049",
+  "main": "R1675",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST050",
+  "study_id": "ST050",
+  "main": "R1684",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST051",
+  "study_id": "ST051",
+  "main": "R1726",
+  "attached": [],
+  "listed_only": [
+   "R7937"
+  ],
+  "link_reason": "Donnelly et al., safety plan scoring: medRxiv preprint (R7937) and JMIR Mental Health article (R1726)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST052",
+  "study_id": "ST052",
+  "main": "R1812",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST053",
+  "study_id": "ST053",
+  "main": "R1894",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST054",
+  "study_id": "ST054",
+  "main": "R1961",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST055",
+  "study_id": "ST055",
+  "main": "R1970",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST056",
+  "study_id": "ST056",
+  "main": "R1987",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST057",
+  "study_id": "ST057",
+  "main": "R1988",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST058",
+  "study_id": "ST058",
+  "main": "R2035",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST059",
+  "study_id": "ST059",
+  "main": "R2044",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST060",
+  "study_id": "ST060",
+  "main": "R2108",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST061",
+  "study_id": "ST061",
+  "main": "R2110",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST062",
+  "study_id": "ST062",
+  "main": "R2117",
+  "attached": [
+   "R2175"
+  ],
+  "listed_only": [
+   "R8764"
+  ],
+  "link_reason": "LlaMADRS (Kebe, Girard et al.), CAMI interviews: earlier 2025 version (R8764, 236 interviews), TACL 2026 version (R2117, 541 sessions, 25 models) and the companion paper for clinical researchers on the same data and method (R2175)",
+  "scope": "Take the estimates from R2117 (541 sessions). From the attached R2175 only values that are not in R2117 (other statistics, models or subsets); note in the draft where the two disagree.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST063",
+  "study_id": "ST063",
+  "main": "R2158",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST064",
+  "study_id": "ST064",
+  "main": "R2210",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST065",
+  "study_id": "ST065",
+  "main": "R2219",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST066",
+  "study_id": "ST066",
+  "main": "R2276",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST067",
+  "study_id": "ST067",
+  "main": "R2316",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST068",
+  "study_id": "ST068",
+  "main": "R2374",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST069",
+  "study_id": "ST069",
+  "main": "R2378",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST070",
+  "study_id": "ST070",
+  "main": "R2441",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST071",
+  "study_id": "ST071",
+  "main": "R2443",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST072",
+  "study_id": "ST072",
+  "main": "R2480",
+  "attached": [],
+  "listed_only": [
+   "R11249"
+  ],
+  "link_reason": "Na et al., multi-session treatment outcome: 2024 conference version (R11249, 30 sessions) and the extended LRE 2026 version (R2480, 110 sessions)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST073",
+  "study_id": "ST073",
+  "main": "R2653",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST074",
+  "study_id": "ST074",
+  "main": "R2682",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R2683 (ST075): J.S. Kim et al., cognitive-distortion detection: different methods and LLM baselines, partly the same test data (KoACD, Therapist QA)"
+  ]
+ },
+ {
+  "job_id": "ST075",
+  "study_id": "ST075",
+  "main": "R2683",
+  "attached": [],
+  "listed_only": [
+   "R0772"
+  ],
+  "link_reason": "Kim et al., multi-view attention MIL for cognitive distortions: ACL 2026 proceedings (R2683) and the Underline record of the same paper (R0772)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R2682 (ST074): J.S. Kim et al., cognitive-distortion detection: different methods and LLM baselines, partly the same test data (KoACD, Therapist QA)"
+  ]
+ },
+ {
+  "job_id": "ST076",
+  "study_id": "ST076",
+  "main": "R2860",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST077",
+  "study_id": "ST077",
+  "main": "R2873",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST078",
+  "study_id": "ST078",
+  "main": "R2875",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST079",
+  "study_id": "ST079",
+  "main": "R2954",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST080",
+  "study_id": "ST080",
+  "main": "R2975",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST081",
+  "study_id": "ST081",
+  "main": "R2980",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST082",
+  "study_id": "ST082",
+  "main": "R3087",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST083",
+  "study_id": "ST083",
+  "main": "R3098",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST084",
+  "study_id": "ST084",
+  "main": "R3110",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST085",
+  "study_id": "ST085",
+  "main": "R3163",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST086",
+  "study_id": "ST086",
+  "main": "R3164",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST087",
+  "study_id": "ST087",
+  "main": "R3165",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST088",
+  "study_id": "ST088",
+  "main": "R3196",
+  "attached": [
+   "R7028"
+  ],
+  "listed_only": [],
+  "link_reason": "Lodrant, STIPO-R-A interviews with adolescents: the pilot conference paper (R7028, GPT-4o, 25 participants) used a subset of the thesis data (R3196)",
+  "scope": "Extract both: the thesis R3196 and the pilot R7028 (GPT-4o on 25 participants of the same data).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST089",
+  "study_id": "ST089",
+  "main": "R3235",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST090",
+  "study_id": "ST090",
+  "main": "R3270",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST091",
+  "study_id": "ST091",
+  "main": "R3288",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST092",
+  "study_id": "ST092",
+  "main": "R3289",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST093",
+  "study_id": "ST093",
+  "main": "R3293",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST094",
+  "study_id": "ST094",
+  "main": "R3342",
+  "attached": [],
+  "listed_only": [
+   "R8824"
+  ],
+  "link_reason": "Kormilitzin et al., self-harm in EHRs: medRxiv preprint (R8824) and JMIR Mental Health article (R3342), same 1,352 notes",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST095",
+  "study_id": "ST095",
+  "main": "R3389",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST096",
+  "study_id": "ST096",
+  "main": "R3401",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST097",
+  "study_id": "ST097",
+  "main": "R3427",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST098",
+  "study_id": "ST098",
+  "main": "R3446",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST099",
+  "study_id": "ST099",
+  "main": "R3447",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST100",
+  "study_id": "ST100",
+  "main": "R3472",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST101",
+  "study_id": "ST101",
+  "main": "R3499",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST102",
+  "study_id": "ST102",
+  "main": "R3526",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R6639 (ST201): University of Delaware mathematics-metaphor project: R6639 (Ma's dissertation, 814 descriptions) and R3526 (Zhang, Hwang, Ma, Cai; 2,265 responses) may share student responses"
+  ]
+ },
+ {
+  "job_id": "ST103",
+  "study_id": "ST103",
+  "main": "R3535",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST104",
+  "study_id": "ST104",
+  "main": "R3560",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST105",
+  "study_id": "ST105",
+  "main": "R3574",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST106",
+  "study_id": "ST106",
+  "main": "R3584",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST107",
+  "study_id": "ST107",
+  "main": "R3598",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST108",
+  "study_id": "ST108",
+  "main": "R3612",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST109",
+  "study_id": "ST109",
+  "main": "R3641",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST110",
+  "study_id": "ST110",
+  "main": "R3666",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST111",
+  "study_id": "ST111",
+  "main": "R3684",
+  "attached": [],
+  "listed_only": [
+   "R10542"
+  ],
+  "link_reason": "Lyu et al., AIHQ scoring: arXiv preprint (R10542) and Psychological Assessment article (R3684)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST112",
+  "study_id": "ST112",
+  "main": "R3704",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST113",
+  "study_id": "ST113",
+  "main": "R3706",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST114",
+  "study_id": "ST114",
+  "main": "R3740",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST115",
+  "study_id": "ST115",
+  "main": "R3758",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST116",
+  "study_id": "ST116",
+  "main": "R3771",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST117",
+  "study_id": "ST117",
+  "main": "R3812",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST118",
+  "study_id": "ST118",
+  "main": "R3847",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST119",
+  "study_id": "ST119",
+  "main": "R3849",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST120",
+  "study_id": "ST120",
+  "main": "R3861",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "R1 is the author of this study (protocol §3c): own_study = yes.",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST121",
+  "study_id": "ST121",
+  "main": "R3942",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST122",
+  "study_id": "ST122",
+  "main": "R3981",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST123",
+  "study_id": "ST123",
+  "main": "R3985",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST124",
+  "study_id": "ST124",
+  "main": "R3988",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST125",
+  "study_id": "ST125",
+  "main": "R4002",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST126",
+  "study_id": "ST126",
+  "main": "R4040",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST127",
+  "study_id": "ST127",
+  "main": "R4079",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST128",
+  "study_id": "ST128",
+  "main": "R4080",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST129",
+  "study_id": "ST129",
+  "main": "R4121",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R9403 (ST269): Niu et al., GPT-4 zero-shot emotion labels: R4121 uses the full test splits of GoEmotions, SemEval-2018 and ISEAR, R9403 (with R11584) 500-sample subsets of them"
+  ]
+ },
+ {
+  "job_id": "ST130",
+  "study_id": "ST130",
+  "main": "R4138",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST131",
+  "study_id": "ST131",
+  "main": "R4141",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST132",
+  "study_id": "ST132",
+  "main": "R4190",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST133",
+  "study_id": "ST133",
+  "main": "R4201",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST134",
+  "study_id": "ST134",
+  "main": "R4235",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST135",
+  "study_id": "ST135",
+  "main": "R4277",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST136",
+  "study_id": "ST136",
+  "main": "R4328",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST137",
+  "study_id": "ST137",
+  "main": "R4363",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST138",
+  "study_id": "ST138",
+  "main": "R4384",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST139",
+  "study_id": "ST139",
+  "main": "R4446",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST140",
+  "study_id": "ST140",
+  "main": "R4485",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST141",
+  "study_id": "ST141",
+  "main": "R4521",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST142",
+  "study_id": "ST142",
+  "main": "R4523",
+  "attached": [],
+  "listed_only": [
+   "R0222"
+  ],
+  "link_reason": "Al-Shamaileh et al., Arabic emotion classification of 1,002 sentences: Research Square preprint (R0222) and the extended Scientific Reports article (R4523)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST143",
+  "study_id": "ST143",
+  "main": "R4533",
+  "attached": [],
+  "listed_only": [
+   "R9748"
+  ],
+  "link_reason": "Osian et al., Prevention of Future Deaths reports: arXiv preprint (R9748) and BMJ Mental Health article (R4533)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST144",
+  "study_id": "ST144",
+  "main": "R4589",
+  "attached": [],
+  "listed_only": [
+   "R11445"
+  ],
+  "link_reason": "Park et al., harmful suicide content (452 Korean posts): arXiv preprint (R11445) and JMIR Medical Informatics article (R4589)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST145",
+  "study_id": "ST145",
+  "main": "R4590",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST146",
+  "study_id": "ST146",
+  "main": "R4595",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST147",
+  "study_id": "ST147",
+  "main": "R4656",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST148",
+  "study_id": "ST148",
+  "main": "R4717",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST149",
+  "study_id": "ST149",
+  "main": "R4743",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST150",
+  "study_id": "ST150",
+  "main": "R4763",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST151",
+  "study_id": "ST151",
+  "main": "R4794",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST152",
+  "study_id": "ST152",
+  "main": "R4799",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST153",
+  "study_id": "ST153",
+  "main": "R4828",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST154",
+  "study_id": "ST154",
+  "main": "R4883",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST155",
+  "study_id": "ST155",
+  "main": "R4911",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST156",
+  "study_id": "ST156",
+  "main": "R4967",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST157",
+  "study_id": "ST157",
+  "main": "R4970",
+  "attached": [
+   "R1986"
+  ],
+  "listed_only": [],
+  "link_reason": "Francese, Iannotta et al., TALD scoring of interviews with 33 patients with schizophrenia: conference abstract (R1986) and Multimedia Tools and Applications article (R4970)",
+  "scope": "Take the values from R4970; from the attached abstract R1986 only values not in R4970.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST158",
+  "study_id": "ST158",
+  "main": "R5036",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST159",
+  "study_id": "ST159",
+  "main": "R5076",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST160",
+  "study_id": "ST160",
+  "main": "R5215",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST161",
+  "study_id": "ST161",
+  "main": "R5350",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST162",
+  "study_id": "ST162",
+  "main": "R5397",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST163",
+  "study_id": "ST163",
+  "main": "R5407",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST164",
+  "study_id": "ST164",
+  "main": "R5412",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST165",
+  "study_id": "ST165",
+  "main": "R5444",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST166",
+  "study_id": "ST166",
+  "main": "R5450",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST167",
+  "study_id": "ST167",
+  "main": "R5453",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R7861 (ST232): Dauphin, Siefert et al., SCORS-G ratings of narratives: R7861 uses 58 narratives from the SCORS-G manual and training materials, R5453 1,966 narratives from three samples, one rated by the scale's developers"
+  ]
+ },
+ {
+  "job_id": "ST168",
+  "study_id": "ST168",
+  "main": "R5460",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST169",
+  "study_id": "ST169",
+  "main": "R5466",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST170",
+  "study_id": "ST170",
+  "main": "R5469",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST171",
+  "study_id": "ST171",
+  "main": "R5506",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST172",
+  "study_id": "ST172",
+  "main": "R5656",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST173",
+  "study_id": "ST173",
+  "main": "R5683",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST174",
+  "study_id": "ST174",
+  "main": "R5698",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST175",
+  "study_id": "ST175",
+  "main": "R5732",
+  "attached": [],
+  "listed_only": [
+   "R8326"
+  ],
+  "link_reason": "Takahashi et al., medical interview transcripts: preprint (R8326) and JMIR Medical Education article (R5732), same 7 transcripts",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST176",
+  "study_id": "ST176",
+  "main": "R5747",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST177",
+  "study_id": "ST177",
+  "main": "R5748",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST178",
+  "study_id": "ST178",
+  "main": "R5798",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST179",
+  "study_id": "ST179",
+  "main": "R5802",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST180",
+  "study_id": "ST180",
+  "main": "R5826",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST181",
+  "study_id": "ST181",
+  "main": "R5893",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST182",
+  "study_id": "ST182",
+  "main": "R5922",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST183",
+  "study_id": "ST183",
+  "main": "R5974",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST184",
+  "study_id": "ST184",
+  "main": "R6038",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST185",
+  "study_id": "ST185",
+  "main": "R6045",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST186",
+  "study_id": "ST186",
+  "main": "R6058",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST187",
+  "study_id": "ST187",
+  "main": "R6068",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST188",
+  "study_id": "ST188",
+  "main": "R6090",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST189",
+  "study_id": "ST189",
+  "main": "R6136",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST190",
+  "study_id": "ST190",
+  "main": "R6185",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST191",
+  "study_id": "ST191",
+  "main": "R6187",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST192",
+  "study_id": "ST192",
+  "main": "R6280",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST193",
+  "study_id": "ST193",
+  "main": "R6302",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST194",
+  "study_id": "ST194",
+  "main": "R6334",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST195",
+  "study_id": "ST195",
+  "main": "R6421",
+  "attached": [],
+  "listed_only": [
+   "R6427"
+  ],
+  "link_reason": "Yang et al., SLE Reddit posts: medRxiv preprint (R6427) and Lupus Science & Medicine article (R6421)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST196",
+  "study_id": "ST196",
+  "main": "R6444",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST197",
+  "study_id": "ST197",
+  "main": "R6447",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST198",
+  "study_id": "ST198",
+  "main": "R6526",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST199",
+  "study_id": "ST199",
+  "main": "R6621",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST200",
+  "study_id": "ST200",
+  "main": "R6623",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST201",
+  "study_id": "ST201",
+  "main": "R6639",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "R1 included this dissertation. The AI full-text note says Study 1 (Chapter 1, mathematics problem-posing codes) is not psychological and Study 2 (Chapter 2, students' affect toward mathematics) is the eligible evaluation.",
+  "possible_overlap": [
+   "possible overlap with R3526 (ST102): University of Delaware mathematics-metaphor project: R6639 (Ma's dissertation, 814 descriptions) and R3526 (Zhang, Hwang, Ma, Cai; 2,265 responses) may share student responses"
+  ]
+ },
+ {
+  "job_id": "ST202",
+  "study_id": "ST202",
+  "main": "R6652",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST203",
+  "study_id": "ST203",
+  "main": "R6668",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST204",
+  "study_id": "ST204",
+  "main": "R6722",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST205",
+  "study_id": "ST205",
+  "main": "R6773",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST206",
+  "study_id": "ST206",
+  "main": "R6801",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST207",
+  "study_id": "ST207",
+  "main": "R6835",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST208",
+  "study_id": "ST208",
+  "main": "R6846",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST209",
+  "study_id": "ST209",
+  "main": "R6882",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST210",
+  "study_id": "ST210",
+  "main": "R6887",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST211",
+  "study_id": "ST211",
+  "main": "R6916",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST212",
+  "study_id": "ST212",
+  "main": "R6941",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST213",
+  "study_id": "ST213",
+  "main": "R6985",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST214",
+  "study_id": "ST214",
+  "main": "R7086",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST215",
+  "study_id": "ST215",
+  "main": "R7109",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST216",
+  "study_id": "ST216",
+  "main": "R7216",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST217",
+  "study_id": "ST217",
+  "main": "R7223",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST218",
+  "study_id": "ST218",
+  "main": "R7260",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST219",
+  "study_id": "ST219",
+  "main": "R7293",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST220",
+  "study_id": "ST220",
+  "main": "R7322",
+  "attached": [],
+  "listed_only": [
+   "R9283"
+  ],
+  "link_reason": "Moreno-Ortiz, Severance emotions: Research Square preprint (R9283) and Corpus Pragmatics article (R7322)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST221",
+  "study_id": "ST221",
+  "main": "R7331",
+  "attached": [],
+  "listed_only": [
+   "R12278"
+  ],
+  "link_reason": "DepreSym (Pérez et al.): arXiv preprint 2023 (R12278) and Language Resources and Evaluation article 2025 (R7331), same 21,580 sentences",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST222",
+  "study_id": "ST222",
+  "main": "R7336",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST223",
+  "study_id": "ST223",
+  "main": "R7347",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST224",
+  "study_id": "ST224",
+  "main": "R7362",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST225",
+  "study_id": "ST225",
+  "main": "R7398",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST226",
+  "study_id": "ST226",
+  "main": "R7423",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST227",
+  "study_id": "ST227",
+  "main": "R7438",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST228",
+  "study_id": "ST228",
+  "main": "R7490",
+  "attached": [
+   "R11107"
+  ],
+  "listed_only": [],
+  "link_reason": "Balt et al., the same 38 psychological autopsy interviews: conference abstract with zero-shot Llama 3 (R11107) and the Frontiers in Public Health article with few-shot coding (R7490)",
+  "scope": "Two configurations on the same 38 interviews: few-shot coding in R7490 and zero-shot Llama 3 in the attached abstract R11107. Extract both.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST229",
+  "study_id": "ST229",
+  "main": "R7526",
+  "attached": [],
+  "listed_only": [
+   "R9004"
+  ],
+  "link_reason": "Bellaiche et al.: two copies of the Scientific Reports article (same title, authors and 7,854 emotion-regulation ideas)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST230",
+  "study_id": "ST230",
+  "main": "R7538",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST231",
+  "study_id": "ST231",
+  "main": "R7854",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST232",
+  "study_id": "ST232",
+  "main": "R7861",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R5453 (ST167): Dauphin, Siefert et al., SCORS-G ratings of narratives: R7861 uses 58 narratives from the SCORS-G manual and training materials, R5453 1,966 narratives from three samples, one rated by the scale's developers"
+  ]
+ },
+ {
+  "job_id": "ST233",
+  "study_id": "ST233",
+  "main": "R7916",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST234",
+  "study_id": "ST234",
+  "main": "R7967",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST235",
+  "study_id": "ST235",
+  "main": "R7974",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST236",
+  "study_id": "ST236",
+  "main": "R7985",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST237",
+  "study_id": "ST237",
+  "main": "R7986",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R7988 (ST238): Elyoseph et al., news articles on suicide coded against the WHO guidelines: R7988 (120 articles, 40 of them Hebrew) builds on the 40-article Hebrew study R7986; whether the Hebrew articles are the same is not stated"
+  ]
+ },
+ {
+  "job_id": "ST238",
+  "study_id": "ST238",
+  "main": "R7988",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R7986 (ST237): Elyoseph et al., news articles on suicide coded against the WHO guidelines: R7988 (120 articles, 40 of them Hebrew) builds on the 40-article Hebrew study R7986; whether the Hebrew articles are the same is not stated"
+  ]
+ },
+ {
+  "job_id": "ST239",
+  "study_id": "ST239",
+  "main": "R8186",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST240",
+  "study_id": "ST240",
+  "main": "R8211",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST241",
+  "study_id": "ST241",
+  "main": "R8232",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST242",
+  "study_id": "ST242",
+  "main": "R8237",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST243",
+  "study_id": "ST243",
+  "main": "R8262",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST244",
+  "study_id": "ST244",
+  "main": "R8332",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST245",
+  "study_id": "ST245",
+  "main": "R8347",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R9566 (ST275): Qi et al., SocialCD-3K posts: R8347 re-annotated them with standardised labels (another human reference)"
+  ]
+ },
+ {
+  "job_id": "ST246",
+  "study_id": "ST246",
+  "main": "R8371",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST247",
+  "study_id": "ST247",
+  "main": "R8563",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST248",
+  "study_id": "ST248",
+  "main": "R8595",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST249",
+  "study_id": "ST249",
+  "main": "R8669",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST250",
+  "study_id": "ST250",
+  "main": "R8687",
+  "attached": [],
+  "listed_only": [
+   "R9079"
+  ],
+  "link_reason": "Mao et al., confidence-aware fine-grained debate: the arXiv paper (R8687) is Chapter 6 of Mao's thesis (R9079)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST251",
+  "study_id": "ST251",
+  "main": "R8769",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST252",
+  "study_id": "ST252",
+  "main": "R8801",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST253",
+  "study_id": "ST253",
+  "main": "R8815",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST254",
+  "study_id": "ST254",
+  "main": "R8871",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST255",
+  "study_id": "ST255",
+  "main": "R8898",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST256",
+  "study_id": "ST256",
+  "main": "R8922",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST257",
+  "study_id": "ST257",
+  "main": "R8925",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST258",
+  "study_id": "ST258",
+  "main": "R8949",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST259",
+  "study_id": "ST259",
+  "main": "R9003",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST260",
+  "study_id": "ST260",
+  "main": "R9024",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST261",
+  "study_id": "ST261",
+  "main": "R9033",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST262",
+  "study_id": "ST262",
+  "main": "R9072",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST263",
+  "study_id": "ST263",
+  "main": "R9174",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST264",
+  "study_id": "ST264",
+  "main": "R9188",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST265",
+  "study_id": "ST265",
+  "main": "R9336",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST266",
+  "study_id": "ST266",
+  "main": "R9346",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST267",
+  "study_id": "ST267",
+  "main": "R9351",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST268",
+  "study_id": "ST268",
+  "main": "R9382",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST269",
+  "study_id": "ST269",
+  "main": "R9403",
+  "attached": [
+   "R11584"
+  ],
+  "listed_only": [],
+  "link_reason": "Niu et al., GPT-4 emotion annotation on 500-sample subsets of ISEAR, SemEval and GoEmotions: Interspeech 2024 paper (R11584) and the extended IEEE Transactions on Affective Computing article (R9403)",
+  "scope": "R9403 extends R11584 on the same subsets. Take each value once; where both report the same configuration and statistic, use R9403 and note a difference.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R4121 (ST129): Niu et al., GPT-4 zero-shot emotion labels: R4121 uses the full test splits of GoEmotions, SemEval-2018 and ISEAR, R9403 (with R11584) 500-sample subsets of them"
+  ]
+ },
+ {
+  "job_id": "ST270",
+  "study_id": "ST270",
+  "main": "R9475",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST271",
+  "study_id": "ST271",
+  "main": "R9476",
+  "attached": [],
+  "listed_only": [
+   "R10978"
+  ],
+  "link_reason": "Patra et al., social support and isolation in psychiatric notes: arXiv preprint (R10978) and JAMIA article (R9476)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST272",
+  "study_id": "ST272",
+  "main": "R9533",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST273",
+  "study_id": "ST273",
+  "main": "R9549",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST274",
+  "study_id": "ST274",
+  "main": "R9558",
+  "attached": [],
+  "listed_only": [
+   "R12528"
+  ],
+  "link_reason": "Prinzing et al., spirituality from text: PsyArXiv preprint (R12528) and Journal of Personality article (R9558)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST275",
+  "study_id": "ST275",
+  "main": "R9566",
+  "attached": [],
+  "listed_only": [
+   "R12379"
+  ],
+  "link_reason": "Qi, Fu et al., SOS-HL-1K and SocialCD-3K: Research Square/arXiv preprint (R12379) and Bioengineering article (R9566)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R8347 (ST245): Qi et al., SocialCD-3K posts: R8347 re-annotated them with standardised labels (another human reference)"
+  ]
+ },
+ {
+  "job_id": "ST276",
+  "study_id": "ST276",
+  "main": "R9592",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST277",
+  "study_id": "ST277",
+  "main": "R9635",
+  "attached": [],
+  "listed_only": [
+   "R11812",
+   "R5157"
+  ],
+  "link_reason": "Relins et al., 500 Boston Police narratives: CrimRxiv/arXiv preprint (R11812), Journal of Quantitative Criminology article (R9635) and the authors' plain-language summary (R5157)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST278",
+  "study_id": "ST278",
+  "main": "R9643",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST279",
+  "study_id": "ST279",
+  "main": "R9737",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST280",
+  "study_id": "ST280",
+  "main": "R9803",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST281",
+  "study_id": "ST281",
+  "main": "R9853",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST282",
+  "study_id": "ST282",
+  "main": "R9876",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST283",
+  "study_id": "ST283",
+  "main": "R9918",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST284",
+  "study_id": "ST284",
+  "main": "R9978",
+  "attached": [
+   "R9055"
+  ],
+  "listed_only": [
+   "R9979",
+   "R10661"
+  ],
+  "link_reason": "MIBot/AutoMISC (University of Toronto), the same 821 utterances of 10 MIBot transcripts: Ali et al. (R9978, NLPAI4Health 2025; R9979, Ali's thesis) compare models with consensus labels; Mahmood et al. (R9055, arXiv/ACL Findings 2025; R10661, Mahmood's thesis, identical values) compare AutoMISC (GPT-4o) with each of four annotators",
+  "scope": "Two evaluations on the same 821 utterances: (a) R9978, models against consensus labels; (b) the attached R9055, AutoMISC (GPT-4o) against each of four annotators, with their human-human agreement. Extract both; each value once.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST285",
+  "study_id": "ST285",
+  "main": "R10000",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST286",
+  "study_id": "ST286",
+  "main": "R10006",
+  "attached": [],
+  "listed_only": [
+   "R10007"
+  ],
+  "link_reason": "Steinbrenner et al., negative psychotherapy experiences: Research Square preprint (R10007) and npj Mental Health Research article (R10006)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST287",
+  "study_id": "ST287",
+  "main": "R10017",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST288",
+  "study_id": "ST288",
+  "main": "R10055",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST289",
+  "study_id": "ST289",
+  "main": "R10127",
+  "attached": [],
+  "listed_only": [
+   "R10130"
+  ],
+  "link_reason": "Thomas et al., NGASR suicide risk in krisenchat transcripts: Research Square preprint (R10130) and Scientific Reports article (R10127)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST290",
+  "study_id": "ST290",
+  "main": "R10135",
+  "attached": [],
+  "listed_only": [
+   "R10136"
+  ],
+  "link_reason": "Thotapalli et al., youth emergency triage: medRxiv preprint (R10136) and PCN Reports article (R10135)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST291",
+  "study_id": "ST291",
+  "main": "R10205",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST292",
+  "study_id": "ST292",
+  "main": "R10234",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST293",
+  "study_id": "ST293",
+  "main": "R10275",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST294",
+  "study_id": "ST294",
+  "main": "R10290",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST295",
+  "study_id": "ST295",
+  "main": "R10349",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST296",
+  "study_id": "ST296",
+  "main": "R10361",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST297",
+  "study_id": "ST297",
+  "main": "R10432",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST298",
+  "study_id": "ST298",
+  "main": "R10439",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST299",
+  "study_id": "ST299",
+  "main": "R10508",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST300",
+  "study_id": "ST300",
+  "main": "R10510",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST301",
+  "study_id": "ST301",
+  "main": "R10533",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST302",
+  "study_id": "ST302",
+  "main": "R10622",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST303",
+  "study_id": "ST303",
+  "main": "R10630",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST304",
+  "study_id": "ST304",
+  "main": "R10634",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST305",
+  "study_id": "ST305",
+  "main": "R10741",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST306",
+  "study_id": "ST306",
+  "main": "R10834",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST307",
+  "study_id": "ST307",
+  "main": "R10860",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST308",
+  "study_id": "ST308",
+  "main": "R10906",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST309",
+  "study_id": "ST309",
+  "main": "R10966",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST310",
+  "study_id": "ST310",
+  "main": "R10972",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST311",
+  "study_id": "ST311",
+  "main": "R10973",
+  "attached": [],
+  "listed_only": [
+   "R12582"
+  ],
+  "link_reason": "Singh et al., emotion triggers: arXiv/NAACL 2024 paper (R12582) and the author's thesis, its extended version (R10973)",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST312",
+  "study_id": "ST312",
+  "main": "R10981",
+  "attached": [],
+  "listed_only": [
+   "R12271"
+  ],
+  "link_reason": "Brown et al., MI reflections: the GPT-4 evaluation of 610 reflections in the arXiv paper (R10981) and in Brown's thesis (R12271), identical values",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST313",
+  "study_id": "ST313",
+  "main": "R11159",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST314",
+  "study_id": "ST314",
+  "main": "R11178",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST315",
+  "study_id": "ST315",
+  "main": "R11185",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST316",
+  "study_id": "ST316",
+  "main": "R11194",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST317",
+  "study_id": "ST317",
+  "main": "R11199",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST318",
+  "study_id": "ST318",
+  "main": "R11201",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST319",
+  "study_id": "ST319",
+  "main": "R11212",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST320",
+  "study_id": "ST320",
+  "main": "R11239",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST321",
+  "study_id": "ST321",
+  "main": "R11257",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST322",
+  "study_id": "ST322",
+  "main": "R11266",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST323",
+  "study_id": "ST323",
+  "main": "R11289",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST324",
+  "study_id": "ST324",
+  "main": "R11297",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST325",
+  "study_id": "ST325",
+  "main": "R11314",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST326",
+  "study_id": "ST326",
+  "main": "R11410",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST327",
+  "study_id": "ST327",
+  "main": "R11432",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST328",
+  "study_id": "ST328",
+  "main": "R11455",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST329",
+  "study_id": "ST329",
+  "main": "R11490",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST330",
+  "study_id": "ST330",
+  "main": "R11527",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST331",
+  "study_id": "ST331",
+  "main": "R11532",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST332",
+  "study_id": "ST332",
+  "main": "R11551",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST333",
+  "study_id": "ST333",
+  "main": "R11558",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST334",
+  "study_id": "ST334",
+  "main": "R11585",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST335",
+  "study_id": "ST335",
+  "main": "R11607",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST336",
+  "study_id": "ST336",
+  "main": "R11698",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST337",
+  "study_id": "ST337",
+  "main": "R11719",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST338",
+  "study_id": "ST338",
+  "main": "R11748",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST339",
+  "study_id": "ST339",
+  "main": "R11778",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST340",
+  "study_id": "ST340",
+  "main": "R11821",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST341",
+  "study_id": "ST341",
+  "main": "R11827",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST342",
+  "study_id": "ST342",
+  "main": "R11834",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST343",
+  "study_id": "ST343",
+  "main": "R11846",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST344",
+  "study_id": "ST344",
+  "main": "R11867",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST345",
+  "study_id": "ST345",
+  "main": "R11889",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST346",
+  "study_id": "ST346",
+  "main": "R11890",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST347",
+  "study_id": "ST347",
+  "main": "R11904",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST348",
+  "study_id": "ST348",
+  "main": "R11915",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST349",
+  "study_id": "ST349",
+  "main": "R11916",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST350",
+  "study_id": "ST350",
+  "main": "R11933",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST351",
+  "study_id": "ST351",
+  "main": "R11942",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST352",
+  "study_id": "ST352",
+  "main": "R11972",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST353",
+  "study_id": "ST353",
+  "main": "R11975",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST354",
+  "study_id": "ST354",
+  "main": "R12011",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST355",
+  "study_id": "ST355",
+  "main": "R12027",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST356",
+  "study_id": "ST356",
+  "main": "R12029",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST357",
+  "study_id": "ST357",
+  "main": "R12034",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST358",
+  "study_id": "ST358",
+  "main": "R12045",
+  "attached": [],
+  "listed_only": [
+   "R12046"
+  ],
+  "link_reason": "Wiest et al., suicidality in admission notes: medRxiv preprint (R12046) and British Journal of Psychiatry article (R12045), same 100 notes",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST359",
+  "study_id": "ST359",
+  "main": "R12074",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST360",
+  "study_id": "ST360",
+  "main": "R12104",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST361",
+  "study_id": "ST361",
+  "main": "R12110",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST362",
+  "study_id": "ST362",
+  "main": "R12151",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST363",
+  "study_id": "ST363",
+  "main": "R12155",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST364",
+  "study_id": "ST364",
+  "main": "R12224",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST365",
+  "study_id": "ST365",
+  "main": "R12397",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST366",
+  "study_id": "ST366",
+  "main": "R12467",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST367",
+  "study_id": "ST367",
+  "main": "R12587",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST368",
+  "study_id": "ST368",
+  "main": "R12613",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST369",
+  "study_id": "ST369",
+  "main": "R12675",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST370",
+  "study_id": "ST370",
+  "main": "R12676",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST371",
+  "study_id": "ST371",
+  "main": "R12679",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST372",
+  "study_id": "ST372",
+  "main": "R12690",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST373",
+  "study_id": "ST373",
+  "main": "R20001",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST374",
+  "study_id": "ST374",
+  "main": "R20009",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST375",
+  "study_id": "ST375",
+  "main": "R20013",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST376",
+  "study_id": "ST376",
+  "main": "R20031",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST377",
+  "study_id": "ST377",
+  "main": "R20063",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST378",
+  "study_id": "ST378",
+  "main": "R20173",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "ST379",
+  "study_id": "ST379",
+  "main": "R20203",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "scope": "Extract every eligible evaluation in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ }
+]

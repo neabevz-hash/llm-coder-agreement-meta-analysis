@@ -1,0 +1,9 @@
+{
+  "file": "chase_2026-10-23_sonnet.jsonl",
+  "sha256": "ba8db5a5830f35294515f94a33a8bdd4608926dd5d01f6407aa01fe97c83b635",
+  "records": 225,
+  "written_at_utc": "2026-10-23T11:54:45+00:00",
+  "model": "claude-sonnet-5-5",
+  "system_prompt_sha": "2a4c798c9c8114eb",
+  "excluded_screened_by_R1": 0
+}

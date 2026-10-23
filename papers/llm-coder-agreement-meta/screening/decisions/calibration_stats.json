@@ -1,0 +1,196 @@
+{
+  "run": "2026-10-21",
+  "ai_labels_sha256": {
+    "opus": "95d1cacddc84040a7526239c8416948212b350471949b390113bdedea3367ed5",
+    "sonnet": "7c332a3d87518372a7370d0455c0a782ba104611d63c5bad4151cc026f692672"
+  },
+  "n_calibration": 400,
+  "n_compared": 400,
+  "calibration_records_without_ai_label": [],
+  "passes": {
+    "opus": {
+      "three_labels": {
+        "agreement": 0.9025,
+        "kappa": 0.7309324226430715,
+        "kappa_ci": [
+          0.6507840569490615,
+          0.8063196038923511
+        ],
+        "confusion": {
+          "R1_include": {
+            "AI_include": 24,
+            "AI_unsure": 7,
+            "AI_exclude": 0
+          },
+          "R1_unsure": {
+            "AI_include": 4,
+            "AI_unsure": 38,
+            "AI_exclude": 7
+          },
+          "R1_exclude": {
+            "AI_include": 0,
+            "AI_unsure": 21,
+            "AI_exclude": 299
+          }
+        }
+      },
+      "full_text_vs_exclude": {
+        "agreement": 0.93,
+        "kappa": 0.7947214076246335,
+        "kappa_ci": [
+          0.7116389719929352,
+          0.8635950287966049
+        ],
+        "ac1": 0.8938770869260364,
+        "ac1_ci": [
+          0.8498290817838725,
+          0.9321455834363798
+        ],
+        "pabak": 0.8600000000000001,
+        "sensitivity": 0.9125,
+        "sensitivity_ci": [
+          0.8279916615801151,
+          0.9640936410104413
+        ],
+        "specificity": 0.934375,
+        "specificity_ci": [
+          0.9014323512241789,
+          0.9589215036327938
+        ],
+        "counts": {
+          "tp": 73,
+          "fn": 7,
+          "tn": 299,
+          "fp": 21
+        }
+      }
+    },
+    "sonnet": {
+      "three_labels": {
+        "agreement": 0.9,
+        "kappa": 0.7076343968132149,
+        "kappa_ci": [
+          0.6239372138652713,
+          0.7891264051153852
+        ],
+        "confusion": {
+          "R1_include": {
+            "AI_include": 24,
+            "AI_unsure": 7,
+            "AI_exclude": 0
+          },
+          "R1_unsure": {
+            "AI_include": 3,
+            "AI_unsure": 32,
+            "AI_exclude": 14
+          },
+          "R1_exclude": {
+            "AI_include": 1,
+            "AI_unsure": 15,
+            "AI_exclude": 304
+          }
+        }
+      },
+      "full_text_vs_exclude": {
+        "agreement": 0.925,
+        "kappa": 0.7678018575851394,
+        "kappa_ci": [
+          0.6848484848484847,
+          0.8410776449220524
+        ],
+        "ac1": 0.8892191798526615,
+        "ac1_ci": [
+          0.8449385190683073,
+          0.9277665414620051
+        ],
+        "pabak": 0.8500000000000001,
+        "sensitivity": 0.825,
+        "sensitivity_ci": [
+          0.7238459604789864,
+          0.9008894901605713
+        ],
+        "specificity": 0.95,
+        "specificity_ci": [
+          0.9200714614949002,
+          0.9711540985715024
+        ],
+        "counts": {
+          "tp": 66,
+          "fn": 14,
+          "tn": 304,
+          "fp": 16
+        }
+      }
+    }
+  },
+  "ai_rule_full_text_unless_both_exclude": {
+    "agreement": 0.925,
+    "kappa": 0.7838616714697407,
+    "kappa_ci": [
+      0.7024015502802962,
+      0.8550392919813841
+    ],
+    "ac1": 0.8853232927505209,
+    "ac1_ci": [
+      0.840950418232513,
+      0.9261461199017743
+    ],
+    "pabak": 0.8500000000000001,
+    "sensitivity": 0.925,
+    "sensitivity_ci": [
+      0.8438720682639278,
+      0.9719794538231588
+    ],
+    "specificity": 0.925,
+    "specificity_ci": [
+      0.8904597465574133,
+      0.9513573643225313
+    ],
+    "counts": {
+      "tp": 74,
+      "fn": 6,
+      "tn": 296,
+      "fp": 24
+    }
+  },
+  "passes_agreement_full_text_vs_exclude": {
+    "agreement": 0.95,
+    "kappa": 0.854503128182744
+  },
+  "safeguard_triggered": true,
+  "rule_false_negatives": [
+    "R7091",
+    "R7580",
+    "R2665",
+    "R0954",
+    "R7589",
+    "R1978"
+  ],
+  "single_pass_false_negatives": {
+    "opus": [
+      "R7091",
+      "R7580",
+      "R2665",
+      "R1186",
+      "R0954",
+      "R7589",
+      "R1978"
+    ],
+    "sonnet": [
+      "R4152",
+      "R2860",
+      "R7091",
+      "R7580",
+      "R4158",
+      "R4951",
+      "R2665",
+      "R0954",
+      "R2816",
+      "R8952",
+      "R7589",
+      "R1978",
+      "R0963",
+      "R0443"
+    ]
+  }
+}

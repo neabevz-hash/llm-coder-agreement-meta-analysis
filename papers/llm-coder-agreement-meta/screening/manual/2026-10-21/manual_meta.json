@@ -1,0 +1,13 @@
+{
+  "run": "2026-10-21",
+  "seed": 20261024,
+  "size": 1000,
+  "records_in_list": 6852,
+  "calibration_sample": 400,
+  "labelled_opus": 3187,
+  "labelled_sonnet": 3184,
+  "labelled_by_either": 3281,
+  "pool": 3337,
+  "drawn_at_utc": "2026-10-22T08:58:28+00:00",
+  "rule": "deviations.md, D3"
+}

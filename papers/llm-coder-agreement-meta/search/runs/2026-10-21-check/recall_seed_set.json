@@ -1,0 +1,239 @@
+{
+  "run": "2026-10-21-check",
+  "seed_studies": 23,
+  "in_screening_list": 12,
+  "eligible_drafts": 22,
+  "eligible_found": 11,
+  "studies": [
+    {
+      "seed_id": "S01",
+      "title": "Empowering Psychotherapy with Large Language Models: Cognitive Distortion Detection throug",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R9525",
+      "sources": "openalex;s2;arxiv",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S02",
+      "title": "Supporting Qualitative Analysis with Large Language Models: Combining Codebook with GPT-3 ",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R9528",
+      "sources": "openalex;s2;arxiv",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S03",
+      "title": "ChatGPT for Automated Qualitative Research: Content Analysis",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R8296",
+      "sources": "pubmed;europepmc;openalex;s2",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S04",
+      "title": "Shadows of wisdom: Classifying meta-cognitive and morally grounded narrative content via l",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R8986",
+      "sources": "pubmed;europepmc;openalex;s2",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S05",
+      "title": "Can an Algorithm Tell How Spiritual You Are? Using Generative Pretrained Transformers for ",
+      "task": "T2",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R7327",
+      "sources": "pubmed;openalex;s2",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S06",
+      "title": "WellDunn: On the Robustness and Explainability of Language Models and Large Language Model",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S07",
+      "title": "Deductively coding psychosocial autopsy interview data using a few-shot learning large lan",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R5828",
+      "sources": "pubmed;europepmc;openalex;s2",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S08",
+      "title": "DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses",
+      "task": "T4",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R6934",
+      "sources": "openalex;s2;arxiv",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S09",
+      "title": "Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health Dialogues via LLM-a",
+      "task": "T4",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R8079",
+      "sources": "openalex;s2;arxiv",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S10",
+      "title": "CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Langua",
+      "task": "T4",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R7943",
+      "sources": "openalex;s2;arxiv",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S11",
+      "title": "AI Chatbot Suicide Risk Detection and Response: Human Validation Study of the Open-Source ",
+      "task": "T4",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R0761",
+      "sources": "pubmed;europepmc;openalex;s2;arxiv",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S12",
+      "title": "The Capability of Large Language Models to Measure Psychiatric Functioning",
+      "task": "T3",
+      "ai_draft": "eligible",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S13",
+      "title": "Identifying Early Maladaptive Schemas from Mental Health Question Texts",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S14",
+      "title": "Aligning Large Language Models for Enhancing Psychiatric Interviews Through Symptom Deline",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S15",
+      "title": "Detecting Conversational Mental Manipulation with Intent-Aware Prompting",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S16",
+      "title": "Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for T",
+      "task": "T3",
+      "ai_draft": "eligible",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S17",
+      "title": "ERD: A Framework for Improving LLM Reasoning for Cognitive Distortion Classification",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S18",
+      "title": "How Can Client Motivational Language Inform Psychotherapy Agents?",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S19",
+      "title": "Automatic Evaluation for Mental Health Counseling using LLMs",
+      "task": "T4",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R8248",
+      "sources": "s2",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S20",
+      "title": "Exploring the potential of large language models to understand interpersonal emotion regul",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R6941",
+      "sources": "pubmed;europepmc;s2",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S21",
+      "title": "Eliciting Motivational Interviewing Skill Codes in Psychotherapy with LLMs: A Bilingual Da",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": true,
+      "rec_id": "R9090",
+      "sources": "s2",
+      "to_screen": true
+    },
+    {
+      "seed_id": "S22",
+      "title": "Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cogniti",
+      "task": "T1",
+      "ai_draft": "eligible",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "seed_id": "S23",
+      "title": "Towards Understanding Counseling Conversations: Domain Knowledge and Large Language Models",
+      "task": "T3",
+      "ai_draft": "unsure",
+      "found": true,
+      "rec_id": "R9141",
+      "sources": "openalex;s2;arxiv",
+      "to_screen": true
+    }
+  ]
+}

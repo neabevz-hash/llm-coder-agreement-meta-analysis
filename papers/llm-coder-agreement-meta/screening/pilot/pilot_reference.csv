@@ -1,0 +1,104 @@
+﻿rec_id,part,reference,task
+P-S01,seed,eligible,T1
+P-S02,seed,eligible,T1
+P-S03,seed,eligible,T1
+P-S04,seed,eligible,T1
+P-S05,seed,eligible,T2
+P-S06,seed,eligible,T1
+P-S07,seed,eligible,T1
+P-S08,seed,eligible,T4
+P-S09,seed,eligible,T4
+P-S10,seed,eligible,T4
+P-S11,seed,eligible,T4
+P-S12,seed,eligible,T3
+P-S13,seed,eligible,T1
+P-S14,seed,eligible,T1
+P-S15,seed,eligible,T1
+P-S16,seed,eligible,T3
+P-S17,seed,eligible,T1
+P-S18,seed,eligible,T1
+P-S19,seed,eligible,T4
+P-S20,seed,eligible,T1
+P-S21,seed,eligible,T1
+P-S22,seed,eligible,T1
+P-S23,seed,unclear,T3
+P-V01,volume_sample,no,
+P-V02,volume_sample,no,
+P-V03,volume_sample,unclear,"emotion reasoning benchmark, dataset labels"
+P-V04,volume_sample,no,
+P-V05,volume_sample,yes,"judge: psychotherapy skills (MLLM, video)"
+P-V06,volume_sample,yes,psych constructs in short texts vs trained coders
+P-V07,volume_sample,no,
+P-V08,volume_sample,yes,psychotherapy fidelity (lay-delivered)
+P-V09,volume_sample,no,
+P-V10,volume_sample,no,
+P-V11,volume_sample,no,
+P-V12,volume_sample,no,
+P-V13,volume_sample,yes,social media: depressive symptoms (BDI-II)
+P-V14,volume_sample,no,
+P-V15,volume_sample,no,
+P-V16,volume_sample,yes,psych assessment: Rorschach MOR
+P-V17,volume_sample,unclear,emotion recognition in conversations vs dataset labels
+P-V18,volume_sample,no,
+P-V19,volume_sample,no,
+P-V20,volume_sample,no,
+P-V21,volume_sample,no,
+P-V22,volume_sample,no,
+P-V23,volume_sample,yes,empathy needs in patient queries
+P-V24,volume_sample,no,
+P-V25,volume_sample,no,
+P-V26,volume_sample,no,
+P-V27,volume_sample,no,
+P-V28,volume_sample,no,
+P-V29,volume_sample,no,
+P-V30,volume_sample,no,
+P-V31,volume_sample,no,
+P-V32,volume_sample,no,
+P-V33,volume_sample,no,
+P-V34,volume_sample,no,
+P-V35,volume_sample,unclear,occupation RIASEC/Big Five ratings vs O*NET
+P-V36,volume_sample,yes,forum posts: psychotherapy dissatisfaction
+P-V37,volume_sample,no,
+P-V38,volume_sample,yes,depression videos (multimodal)
+P-V39,volume_sample,yes,"open-ended responses: ACEs, mentoring"
+P-V40,volume_sample,yes,judge: suicide-risk conversations (VERA-MH)
+P-V41,volume_sample,no,
+P-V42,volume_sample,no,
+P-V43,volume_sample,no,
+P-V44,volume_sample,no,
+P-V45,volume_sample,no,
+P-V46,volume_sample,no,
+P-V47,volume_sample,yes,psych assessment: AIHQ open-ended
+P-V48,volume_sample,unclear,"entitativity in public discourse, LLM classifier"
+P-V49,volume_sample,no,
+P-V50,volume_sample,unclear,classroom observation scoring (CLASS)
+P-V51,volume_sample,no,
+P-V52,volume_sample,yes,EHR text for mental health prediction
+P-V53,volume_sample,no,
+P-V54,volume_sample,no,
+P-V55,volume_sample,no,
+P-V56,volume_sample,yes,dream affect narratives
+P-V57,volume_sample,unclear,"drug use/overdose social media, hybrid annotation"
+P-V58,volume_sample,yes,social media: C-SSRS suicide risk
+P-V59,volume_sample,no,
+P-V60,volume_sample,yes,question complexity (creativity/cognition)
+P-V61,volume_sample,no,
+P-V62,volume_sample,no,
+P-V63,volume_sample,no,
+P-V64,volume_sample,no,
+P-V65,volume_sample,no,
+P-V66,volume_sample,no,
+P-V67,volume_sample,no,
+P-V68,volume_sample,no,
+P-V69,volume_sample,no,
+P-V70,volume_sample,no,
+P-V71,volume_sample,yes,affective dynamics in narratives
+P-V72,volume_sample,no,
+P-V73,volume_sample,no,
+P-V74,volume_sample,no,
+P-V75,volume_sample,no,
+P-V76,volume_sample,no,
+P-V77,volume_sample,yes,clinical interviews: distress rating (psycho-oncology)
+P-V78,volume_sample,no,
+P-V79,volume_sample,no,
+P-V80,volume_sample,no,

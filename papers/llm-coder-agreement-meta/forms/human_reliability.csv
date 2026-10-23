@@ -1,0 +1,505 @@
+hr_id,study_id,task_id,same_units,comparison,statistic,value_raw,value,parse,n_units,location,quote,value_in_text,quote_in_text,ci_low,ci_high,value_note,pool
+H001,ST002,A,yes,mean-pairwise,weighted_kappa_quadratic,mean expert kw 0.41,,complex,50,"p.5, Reliability varies across frameworks","mean expert κw for Empathetic Dialogues, EPITOME, Perceived Empathy and Lend an Ear pilot are 0.41, 0.46, 0.60 and 0.55",False,True,,,not a number,no
+H002,ST002,B,yes,mean-pairwise,weighted_kappa_quadratic,mean expert kw 0.46,,complex,50,"p.5, Reliability varies across frameworks","mean expert κw for Empathetic Dialogues, EPITOME, Perceived Empathy and Lend an Ear pilot are 0.41, 0.46, 0.60 and 0.55",False,True,,,not a number,no
+H003,ST002,C,yes,mean-pairwise,weighted_kappa_quadratic,mean expert kw 0.60,,complex,50,"p.5, Reliability varies across frameworks","mean expert κw for Empathetic Dialogues, EPITOME, Perceived Empathy and Lend an Ear pilot are 0.41, 0.46, 0.60 and 0.55",False,True,,,not a number,no
+H004,ST002,D,yes,mean-pairwise,weighted_kappa_quadratic,mean expert kw 0.55,,complex,50,"p.5, Reliability varies across frameworks","mean expert κw for Empathetic Dialogues, EPITOME, Perceived Empathy and Lend an Ear pilot are 0.41, 0.46, 0.60 and 0.55",False,True,,,not a number,no
+H005,ST003,A,partial,coder-vs-coder,cohen_kappa,0.617,0.617,number,400 (pilot),Methods p.10,The pilot produced Cohen's κ = 0.617 and Gwet's AC1 = 0.919.,True,False,,,,yes
+H006,ST003,A,partial,coder-vs-coder,gwet_ac1,0.919,0.919,number,400 (pilot),Methods p.10,The pilot produced Cohen's κ = 0.617 and Gwet's AC1 = 0.919.,True,False,,,,yes
+H007,ST005,A,yes,coder-vs-coder,weighted_kappa_quadratic,0.09,0.09,number,100,"Sec 4.4, p6","quadratic weighted κ=0.09, Spearman ρ=0.20",True,False,,,,yes
+H008,ST005,A,yes,coder-vs-coder,spearman,0.20,0.2,number,100,"Sec 4.4, p6","Spearman ρ=0.20, p < .001",True,False,,,,yes
+H009,ST005,A,yes,coder-vs-coder,percent_agreement,78.2% within-one-point,0.782,complex,100,"Sec 4.4, p6",78.2% within-one-point agreement across five dimensions,True,True,,,,yes
+H010,ST009,A,no,multi-rater,fleiss_kappa,0.321,0.321,number,39,Section 4.1,fair level of agreement was also found within physician raters (k = 0.321,True,True,,,,yes
+H011,ST009,B,no,multi-rater,fleiss_kappa,0.345,0.345,number,39,Section 4.1,"non-physician raters (k = 0.345, p < 0.001)",True,False,,,,yes
+H012,ST010,D,yes,mean-pairwise,cohen_kappa,0.43,0.43,number,200,"Re-Annotation Setup, p.5",κ = 0.43 for MELD with the help of multimodal information,True,False,,,,yes
+H013,ST010,F,yes,mean-pairwise,cohen_kappa,0.14,0.14,number,200,p.5,0.14 for EmoryNLP,True,True,,,,yes
+H014,ST010,E,yes,mean-pairwise,cohen_kappa,0.29,0.29,number,200,p.5,0.29 for DailyDialog,True,False,,,,yes
+H015,ST010,G,yes,mean-pairwise,cohen_kappa,0.27,0.27,number,200,p.5,0.27 for IEMOCAP,True,True,,,,yes
+H016,ST011,A,yes,mean-pairwise,krippendorff_alpha,IG α .293–.530 by community,,complex,~800 ratings per community,"Appendix A9, Table A4",agreement is generally moderate for severity (approximately α ≈.29–.54),False,True,,,not a number,no
+H017,ST011,A,yes,coder-vs-consensus,f1_macro,IG-rater median .567,,complex,"1,198",Table 2,IG-rater median,False,True,,,not a number,no
+H018,ST011,A,yes,coder-vs-coder,cohen_kappa,.44,0.44,number,"1,198",Table 1,IG and OG raters showed moderate agreement on severity (κ = .44),True,True,,,,yes
+H019,ST011,B,yes,mean-pairwise,f1,0.8,0.8,number,923,"Appendix A12, Table A6",IG-rater median (median IG human-human F1) was 0.8,True,False,,,,yes
+H020,ST011,B,yes,mean-pairwise,krippendorff_alpha,IG α .343–.490 by community,,complex,~800 ratings per community,"Appendix A9, Table A4",moderate for support-seeking (approximately α ≈.34–.50),False,True,,,not a number,no
+H021,ST012,A,yes,coder-vs-coder,krippendorff_alpha,64.2,0.642,number,5 interviews,Table 3,Survey Coverage 76.0 64.2,True,False,,,printed on a 0-100 scale,yes
+H022,ST012,A,yes,coder-vs-coder,percent_agreement,76.0,0.76,number,5 interviews,Table 3,Survey Coverage 76.0 64.2,True,False,,,printed on a 0-100 scale,yes
+H023,ST012,B,yes,coder-vs-coder,krippendorff_alpha,74.1,0.741,number,several hundred,Table 3,Out-of-Survey (a) 94.7 74.1,True,False,,,printed on a 0-100 scale,yes
+H024,ST012,C,yes,coder-vs-coder,krippendorff_alpha,64.7,0.647,number,several hundred,Table 3,Out-of-Survey (b) 93.4 64.7,True,False,,,printed on a 0-100 scale,yes
+H025,ST012,D,yes,coder-vs-coder,percent_agreement,100.0,1,number,several hundred,Table 3,Antisocial Resp. 100.0 N/A,True,True,,,printed on a 0-100 scale,yes
+H026,ST012,E,yes,coder-vs-coder,krippendorff_alpha,52.0,0.52,number,several hundred,Table 3,Misunderstanding 95.5 52.0,True,False,,,printed on a 0-100 scale,yes
+H027,ST012,F,yes,coder-vs-coder,krippendorff_alpha,52.2,0.522,number,several hundred,Table 3,Failure to Repair 95.5 52.2,True,False,,,printed on a 0-100 scale,yes
+H028,ST012,G,yes,coder-vs-coder,krippendorff_alpha,71.7,0.717,number,several hundred,Table 3,No Opportunity 96.1 71.7,True,False,,,printed on a 0-100 scale,yes
+H029,ST013,A,yes,coder-vs-coder,cohen_kappa,0.81,0.81,number,60 segments (30 exp + 30 baseline),"Sec 4.5, p.61","Inter-rater reliability, computed with Cohen's κ, was high (κ=0.81).",True,True,,,,yes
+H030,ST014,A,yes,multi-rater,icc,"0.634 [0.59, 0.72]",0.634,complex,50,"Table 5, p.9","Emotional Reaction 0.634 [0.59, 0.72]",True,True,0.59,0.72,,yes
+H031,ST014,B,yes,multi-rater,icc,"0.763 [0.70, 0.82]",0.763,complex,50,"Table 5, p.9","Interpretation 0.763 [0.70, 0.82]",True,True,0.7,0.82,,yes
+H032,ST014,C,yes,multi-rater,icc,"0.826 [0.78, 0.87]",0.826,complex,50,"Table 5, p.9","Exploration 0.826 [0.78, 0.87]",True,True,0.78,0.87,,yes
+H033,ST014,D,yes,multi-rater,icc,"0.654 [0.60, 0.74]",0.654,complex,50,"Table 5, p.9","Reflection 0.654 [0.60, 0.74]",True,True,0.6,0.74,,yes
+H034,ST014,E,yes,multi-rater,icc,"0.720 [0.61, 0.81]",0.72,complex,200,"Table 5, p.9","Rapport 0.720 [0.61, 0.81]",True,True,0.61,0.81,,yes
+H035,ST014,F,yes,multi-rater,icc,"0.749 [0.67, 0.81]",0.749,complex,150,"Table 5, p.9","Self-Disclosure 0.749 [0.67, 0.81]",True,True,0.67,0.81,,yes
+H036,ST014,G,yes,multi-rater,icc,0.657-0.838 across 9 emotions,,complex,450,"Table 5, p.9","Anger 0.799 [0.73, 0.85] ... Depression 0.710 [0.62, 0.77]",False,True,,,"range, not a point value",no
+H037,ST016,A,yes,coder-vs-coder,cohen_kappa,0.74 to 0.77 (range across four mechanisms),,complex,3836,Sec. IV.B.d,"Cohen's κ, ranged from 0.74 to 0.77 across the four communication mechanisms",False,True,,,"range, not a point value",no
+H038,ST016,B,yes,coder-vs-coder,cohen_kappa,0.74 to 0.77 (range across four mechanisms),,complex,3836,Sec. IV.B.d,"Cohen's κ, ranged from 0.74 to 0.77 across the four communication mechanisms",False,True,,,"range, not a point value",no
+H039,ST016,C,yes,coder-vs-coder,cohen_kappa,0.74 to 0.77 (range across four mechanisms),,complex,3836,Sec. IV.B.d,"Cohen's κ, ranged from 0.74 to 0.77 across the four communication mechanisms",False,True,,,"range, not a point value",no
+H040,ST016,D,yes,coder-vs-coder,cohen_kappa,0.74 to 0.77 (range across four mechanisms),,complex,3836,Sec. IV.B.d,"Cohen's κ, ranged from 0.74 to 0.77 across the four communication mechanisms",False,True,,,"range, not a point value",no
+H041,ST017,A,yes,coder-vs-coder,cohen_kappa,0.60,0.6,number,1419,"Section 4.1, p. 15","The intercoder agreement between the two student assistants is somewhat lower, with a Kappa of 0.60",True,True,,,,yes
+H042,ST017,A,yes,coder-vs-consensus,cohen_kappa,0.65 and 0.66,,complex,1419,"Section 4.1, p. 15",the two student assistants achieve Kappa values of 0.65 and 0.66 against the benchmark,True,True,,,several values in one cell,no
+H043,ST018,A,yes,coder-vs-coder,cohen_kappa,0.72,0.72,number,200,"Page 13, Table 2","EXP / NOV 0.72 (z = 10.3, p < .001)",True,False,,,,yes
+H044,ST018,A,yes,coder-vs-coder,gwet_ac1,0.86,0.86,number,200,"Page 13, Table 2",Gwet's AC1 EXP / NOV 0.86 (SE = 0.05),True,False,,,,yes
+H045,ST018,B,yes,coder-vs-coder,cohen_kappa,0.62,0.62,number,90,"Page 15, Table 3","EXP / NOV 0.62 (z = 9.17, p < .001)",True,False,,,,yes
+H046,ST018,B,yes,coder-vs-coder,gwet_ac1,0.83,0.83,number,90,"Page 15, Table 3",Gwet's AC1 EXP / NOV 0.83 (SE = 0.04),True,False,,,,yes
+H047,ST020,A,yes,multi-rater,krippendorff_alpha,0.389,0.389,number,12 interviews,"Sec 3.1, p.2",The Krippendorff's α across annotators for this task was 0.389,True,False,,,,yes
+H048,ST020,A,yes,coder-vs-consensus,f1,58.19 ± 22.63,0.5819,complex,12 interviews,"Table 2, p.5",Experts 58.19 ± 22.63 (leave-one-annotator-out human ceiling),True,False,,,printed on a 0-100 scale,yes
+H049,ST021,A,yes,multi-rater,fleiss_kappa,0.55,0.55,number,206,"Results, Dataset Curation",achieving a moderate agreement in the interannotator reliability (FK=0.55),True,True,,,,yes
+H050,ST021,A,yes,mean-pairwise,cohen_kappa,0.553,0.553,number,206,"Results, Table 1 text",average human-to-human agreement was moderate (mean κ=0.553),True,True,,,,yes
+H051,ST021,B,yes,coder-vs-coder,mae,0.463 (within-1 95.26%),0.463,complex,NR,"Results, Table 2 text",human-to-human agreement is higher than that of gpt-4o-mini (MAE=0.463 and within-1=95.26%),False,True,,,,yes
+H052,ST022,A,yes,coder-vs-coder,pearson,"-0.016 to 0.213 (E1-E2 .188, E2-E3 .213, E1-E3 -.016)",,complex,49 chats,"Table 4, p.6",E2–E3 .213; E1–E2 .188; E1–E3 −.016,False,False,,,"range, not a point value",no
+H053,ST022,B,yes,coder-vs-coder,other,"Jaccard .256, .342, .290",,complex,unique terms,"Table 3, p.6",Expert 1–Expert 2 .256 (10/39); E1-E3 .342; E2-E3 .290,False,False,,,not a number,no
+H054,ST023,A,yes,multi-rater,cohen_kappa,0.89,0.89,number,"2,160",Results: corpus characteristics,inter-annotator agreement achieved a Cohen's κ value of 0.89,True,True,,,,yes
+H055,ST024,A,yes,coder-vs-coder,pearson,0.95,0.95,number,NR,"p.8, Table 6 and text",agreement between human annotators was very high (r = 0.95),True,False,,,,yes
+H056,ST024,A,yes,coder-vs-coder,accuracy,0.97 pre / 1.00 post (AHa rate),,complex,NR,"p.8, Table 6",AHa rate accuracy of 0.97 before and 1.00 after DPO,False,True,,,several values in one cell,no
+H057,ST024,A,yes,coder-vs-coder,mae,0.35 pre / 0.32 post,,complex,NR,"p.8, Table 6",corresponding MAE scores of 0.35 and 0.32,False,True,,,several values in one cell,no
+H058,ST025,A,yes,multi-rater,fleiss_kappa,0.73,0.73,number,NR,"Page 4, Data Statistics","Fleiss' Kappa, with scores of κ = 0.73 for distortion type",True,True,,,,yes
+H059,ST026,A,partial,coder-vs-coder,cohen_kappa,0.521,0.521,number,1296,"Table 2, p.6",EA 0.521 (981 / 315),True,True,,,,yes
+H060,ST026,B,partial,coder-vs-coder,cohen_kappa,0.404,0.404,number,1296,"Table 2, p.6",IA 0.404 (898 / 398),True,True,,,,yes
+H061,ST028,A,yes,multi-rater,krippendorff_alpha,0.19,0.19,number,397,"Page 6, Sec 4.1",Krippendorff's alpha was 0.19 for Nigerian tweets,True,True,,,,yes
+H062,ST028,B,yes,multi-rater,krippendorff_alpha,0.41,0.41,number,120,"Page 6, Sec 4.1",compared to 0.41 for UK tweets,True,True,,,,yes
+H063,ST029,A,yes,coder-vs-coder,cohen_kappa,0.85,0.85,number,25,"Sec 5.1, p.6","LLM agent turns show higher agreement (88%, κ = 0.85)",True,True,,,,yes
+H064,ST029,A,yes,coder-vs-coder,percent_agreement,88%,0.88,percent,25,"Sec 5.1, p.6","LLM agent turns show higher agreement (88%, κ = 0.85)",True,True,,,,yes
+H065,ST030,A,no,multi-rater,percent_agreement,96% exact agreement; 100% majority agreement,,complex,267 responses x 7 dimensions,"R4135 Sec 4.4, p.6",The analysis yielded 96% exact agreement and 100% majority agreement,False,True,,,several values in one cell,no
+H066,ST031,A,yes,coder-vs-coder,cohen_kappa,0.639,0.639,number,"2,336",R0810 Sec 2.4,Independent double-blind annotation yielded a Cohen's κ of 0.639,True,True,,,,yes
+H067,ST033,A,partial,coder-vs-coder,f1,0.90,0.9,number,20,Methods: Manual Annotation of Clinical Notes,high inter-annotator agreement on a random sample of 20 notes (F-measure=0.90),True,True,,,,yes
+H068,ST034,A,yes,multi-rater,krippendorff_alpha,0.77 (95% CI 0.71-0.82),0.77,complex,450,"Results, Clinician-Clinician IRR; Table 2",Overall (across-dimension) IRR for the 6 clinician raters was 0.77 (95% CI 0.71-0.82,False,True,,,,yes
+H069,ST035,A,yes,coder-vs-coder,cohen_kappa,0.82,0.82,number,"171,468",Methods: Human labeling of suicide-related text,All MAPS and PREDICT entries were double-coded ... reliability was excellent (Cohen’s kappa = 0.82),True,True,,,,yes
+H070,ST036,A,no,coder-vs-coder,percent_agreement,> 90%,,complex,20 responses,Methods: Data Collection,20 of the responses were coded by both observers (JB and MM). After obtaining an agreement of > 90%,True,True,,,"bound, not a point value",no
+H071,ST037,A,yes,multi-rater,other,free-marginal kappa 0.80,,complex,35,p.18 Inter-Observer Reliability,percent overall agreement of 84.00% with a free-marginal kappa of 0.80,False,True,,,not a number,no
+H072,ST037,A,yes,multi-rater,fleiss_kappa,0.78,0.78,number,35,p.18 Inter-Observer Reliability,The fixed-marginal kappa was 0.78,True,True,,,,yes
+H073,ST037,A,yes,multi-rater,percent_agreement,84.00%,0.84,percent,35,p.18,percent overall agreement of 84.00%,True,True,,,,yes
+H074,ST038,A,yes,coder-vs-consensus,spearman,0.63 (dimension-averaged),0.63,complex,220,"Page 8, Section 3.1",typical agreement among human raters (ρhuman = 0.63),False,True,,,,yes
+H075,ST039,B,yes,coder-vs-coder,cohen_kappa,0.526,0.526,number,42,"Results, IBEM Implementation Adherence","moderate agreement between the 2 human coders (κ=0.526, 95% CI 0.256-0.797)",True,True,,,,yes
+H076,ST039,B,yes,coder-vs-coder,percent_agreement,78.6%,0.786,percent,42,"Results, IBEM Implementation Adherence",78.6% between the 2 human coders,True,True,,,,yes
+H077,ST039,A,yes,coder-vs-coder,cohen_kappa,0.25-0.91 by category,,complex,72,Table 1,Giving information 0.91 (0.79 to 1.00),False,False,,,"range, not a point value",no
+H078,ST040,A,yes,coder-vs-consensus,icc,0.9921,0.9921,number,10,Section 3.2; Table 2,The ICC for total HAMD-21 scores was 0.9921 (95% confidence interval [CI]: 0.9698 to 0.9980).,True,True,,,,yes
+H079,ST041,A,partial,mean-pairwise,percent_agreement,44.4% to 73.3%,,complex,4 HumaneBench metrics,Sec 4.9 p.19,exact pairwise agreement ranged from 44.4% to 73.3%,True,True,,,"range, not a point value",no
+H080,ST041,A,partial,multi-rater,krippendorff_alpha,0.121 to 0.538,,complex,4 HumaneBench metrics,Sec 4.9 p.19,nominal Krippendorff's α ranged from 0.121 to 0.538,True,False,,,"range, not a point value",no
+H081,ST042,A,partial,coder-vs-coder,cohen_kappa,0.78,0.78,number,all training documents,"Methods, Annotation Process",Overall interrater agreement was substantial (Cohen κ=0.78).,True,True,,,,yes
+H082,ST042,A,partial,coder-vs-coder,cohen_kappa,0.87,0.87,number,all training documents,"Methods, Annotation Process",hospitalization events (κ=0.87),True,True,,,,yes
+H083,ST043,A,yes,coder-vs-coder,spearman,ρ = .83,,complex,72,"Page 8, Section 6","Inter-coder agreement was high (Spearman ρ = .83, ICC[3,1] = .82)",True,True,,,not a number,no
+H084,ST043,A,yes,coder-vs-coder,icc,"ICC[3,1] = .82",,complex,72,"Page 8, Section 6","Inter-coder agreement was high (Spearman ρ = .83, ICC[3,1] = .82)",True,True,,,not a number,no
+H085,ST044,A,yes,coder-vs-coder,krippendorff_alpha,0.77,0.77,number,"3,178",R1327 p.13,Human coders achieved 𝛼= 0.77,True,True,,,,yes
+H086,ST044,A,yes,coder-vs-coder,percent_agreement,0.76,0.76,number,"3,178",R1327 p.16,the two human coders achieve a subset agreement of 0.76,True,True,,,,yes
+H087,ST044,C,yes,coder-vs-coder,krippendorff_alpha,0.74,0.74,number,497,R1327 p.15,human-human agreement was among the lowest (𝛼= 0.74),True,False,,,,yes
+H088,ST044,D,yes,coder-vs-coder,krippendorff_alpha,0.72,0.72,number,"1,079",R1327 p.14,𝛼= 0.72 on Family Support,True,True,,,,yes
+H089,ST044,E,yes,coder-vs-coder,krippendorff_alpha,0.86,0.86,number,"1,227",R1327 p.14,𝛼= 0.86 on Friend Support,True,True,,,,yes
+H090,ST044,F,yes,coder-vs-coder,krippendorff_alpha,.74,0.74,number,519,R1329 p.7,Krippendorff’s 𝛼 = .74 pooled,True,True,,,,yes
+H091,ST044,F,yes,coder-vs-coder,percent_agreement,94.0%,0.94,percent,519,R1329 p.7,agree on 94.0% of cells,True,True,,,,yes
+H092,ST045,A,yes,coder-vs-coder,weighted_kappa_quadratic,κ=0.59 (95%CI 0.49–0.69); adjusted κ=0.76,,complex,125,"Page 7-8, Results: Convergence with chart review","than the raters showed with each other (κ=0.59, 95%CI: 0.49–0.69; adjusted κ=0.76",False,False,,,not a number,no
+H093,ST048,A,partial,coder-vs-coder,cohen_kappa,81%,0.81,percent,overlapping samples (NR),Data Annotation,We used Cohen’s Kappa across overlapping annotated samples to compute inter-annotator agreement. The resulting score of 81%,True,False,,,,yes
+H094,ST050,A,yes,coder-vs-coder,cohen_kappa,mean 0.827; pos 0.798; neg 0.855,,complex,1017,"Sec 3.5, p.5","average inter-annotator agreement of κ¯ = 0.827, with κpos = 0.798 (raw agreement 83.9%) and κneg = 0.855",False,False,,,not a number,no
+H095,ST052,A,yes,coder-vs-coder,percent_agreement,0.74 to 0.95,,complex,100,"Sec 3.4, p.4",ranged from 0.74 to 0.95 (raw),True,True,,,"range, not a point value",no
+H096,ST052,A,yes,coder-vs-coder,cohen_kappa,0.37 to 0.60,,complex,100,"Sec 3.4, p.4",0.37 to 0.60 (Cohen's Kappa),True,True,,,"range, not a point value",no
+H097,ST052,A,yes,coder-vs-coder,gwet_ac1,0.64 to 0.94,,complex,100,"Sec 3.4, p.4",0.64 to 0.94 (Gwet's AC1),True,False,,,"range, not a point value",no
+H098,ST053,A,yes,mean-pairwise,cohen_kappa,0.71,0.71,number,"2,500","Section 4.2, p. 4; Abstract",the corpus-level macro-average Cohen's κ is 0.71,True,True,,,,yes
+H099,ST054,A,partial,coder-vs-coder,krippendorff_alpha,"avg 0.52 (median 0.55, range 0.23-0.72)",,complex,20% of 116 dialogues,"Sec 3.3, Table 2, p.4,8","Krippendorff's α averages 0.52 (median 0.55, range 0.23–0.72)",False,True,,,not a number,no
+H100,ST054,A,partial,coder-vs-coder,spearman,avg 0.58,,complex,20% of 116 dialogues,"Sec 3.3, Table 2, p.8",average associations of Spearman ρ = 0.58 and Pearson r = 0.60,False,True,,,not a number,no
+H101,ST054,A,partial,coder-vs-coder,pearson,avg 0.60,,complex,20% of 116 dialogues,"Sec 3.3, Table 2, p.8",average associations of Spearman ρ = 0.58 and Pearson r = 0.60,False,True,,,not a number,no
+H102,ST055,A,yes,multi-rater,fleiss_kappa,0.731,0.731,number,500,Section 5.3,Agreement is substantial for valence (κ = 0.731),True,False,,,,yes
+H103,ST055,B,yes,multi-rater,fleiss_kappa,0.682,0.682,number,500,Section 5.3,moderate-to-substantial for intensity (κ = 0.682),True,True,,,,yes
+H104,ST056,A,yes,coder-vs-coder,cohen_kappa,0.58,0.58,number,NR,Table VII,E1 vs E2 0.58 Moderate,True,True,,,,yes
+H105,ST061,A,yes,multi-rater,icc,"ICC(A,10)=0.978; ICC(A,1)=.817",,complex,20,"Results, Quantitative Validation","The single-measures ICC was also strong (ICC(A, 1)=.817, 95% CI 0.708-0.908)",False,True,,,not a number,no
+H106,ST061,A,yes,multi-rater,krippendorff_alpha,0.799,0.799,number,20,"Results, Quantitative Validation",Krippendorff α for ordinal data was α=0.799,True,True,,,,yes
+H107,ST061,A,yes,mean-pairwise,pearson,mean 0.83 (range 0.61-0.97),,complex,20,"Results, Quantitative Validation","Pairwise correlations among the 10 raters ranged from 0.61 to 0.97 (mean 0.83, SD 0.10)",False,True,,,not a number,no
+H108,ST062,B,no,coder-vs-coder,cohen_kappa,">=0.80 (item-level, required threshold)",,complex,NR (separate calibration data),"R2117 Sec 3, p.3",all raters were required to achieve item-level Cohen's κ ≥0.80 on separate calibration data,False,False,,,"bound, not a point value",no
+H109,ST066,A,partial,multi-rater,krippendorff_alpha,0.776,0.776,number,50,"Table 1, p.4",Krippendorff’s α ... 0.776,True,True,,,,yes
+H110,ST066,A,partial,mean-pairwise,other,Mean Jaccard 0.776,,complex,50,"Table 1, p.4","A1|A2 0.749, A1|A3 0.787, A2|A3 0.791, Mean 0.776",False,False,,,not a number,no
+H111,ST066,B,no,multi-rater,krippendorff_alpha,0.721,0.721,number,50,"App O.1, Table A15",strong overall agreement (α = 0.7205),True,True,,,,yes
+H112,ST068,A,yes,multi-rater,fleiss_kappa,"human κ, 0.71–0.94 (two-level, range across 5 measures)",,complex,50,Page 3 (Abstract),"human κ, 0.71–0.94; human-plus-LLM κ, 0.70–0.93",False,True,,,not a number,no
+H113,ST069,A,yes,multi-rater,icc,"ICC(A,1) = .557 (Original); .532 (Gender-swapped)",,complex,"97 and 101 raters, 6 profiles","Page 5, Scale Reliability and Inter-Rater Agreement","Individual-rater agreement was moderate in the Original and Gender-swapped conditions, ICC(A,1) = .557 and .532, respectively",False,False,,,not a number,no
+H114,ST069,A,yes,multi-rater,icc,"ICC(A,k) = .992 (Original); .991 (Gender-swapped)",,complex,"97 and 101 raters, 6 profiles","Page 5, Scale Reliability and Inter-Rater Agreement","aggregated profile ratings were highly reliable, ICC(A,k) = .992 and .991, respectively",False,True,,,not a number,no
+H115,ST070,A,yes,coder-vs-coder,cohen_kappa,0.931 (95% CI 0.891–0.966),0.931,complex,1240,"Methods, data processing",Pre-adjudication agreement was high 99.0% (95% CI 98.4–99.4); κ = 0.931,True,True,,,,yes
+H116,ST070,A,yes,coder-vs-consensus,cohen_kappa,"0.34 (human mean; A1 0.25, A2 0.42)",,complex,1240,Table 1,Human mean | 92.7 (91.6–93.9) | 0.34 (0.26–0.41),False,True,,,several values in one cell,no
+H117,ST072,A,yes,coder-vs-coder,cohen_kappa,0.73,0.73,number,30 sessions,Sec 3.3; App C.1,we manually annotated 30 client sessions with a Cohen's kappa of 0.73,True,False,,,,yes
+H118,ST072,B,yes,coder-vs-coder,cohen_kappa,0.81,0.81,number,60 sessions,Sec 3.3; App C.2,"we annotated 60 sessions, reaching a Cohen's kappa of 0.81",True,True,,,,yes
+H119,ST073,A,yes,coder-vs-coder,cohen_kappa,0.976,0.976,number,500,"Section 3.1, p 8",98.8% observed agreement and Cohen's κ = 0.976,True,True,,,,yes
+H120,ST073,B,partial,coder-vs-coder,cohen_kappa,0.880,0.88,number,100,"Section 3.1, p 8",(94.0%; κ = 0.880),True,True,,,,yes
+H121,ST078,A,partial,coder-vs-coder,cohen_kappa,> 0.8 across all dimensions,,complex,80 (training subset),"Page 3, Section 3.2","Following two training rounds on a subset (N = 80), inter-rater reliability achieved a Cohen's kappa (κ) > 0.8 across all dimensions.",True,True,,,"bound, not a point value",no
+H122,ST079,C,partial,multi-rater,fleiss_kappa,0.78,0.78,number,200 response pairs,Sec 5.7 p.8; App D.11,Inter-annotator agreement: Fleiss’ κ = 0.78,True,True,,,,yes
+H123,ST079,G,partial,multi-rater,cohen_kappa,DM κ = 0.82,,complex,88 characters,Sec 4.1 p.4,"Big Five κ = 0.76, DM κ = 0.82, overall κ = 0.78",True,True,,,not a number,no
+H124,ST079,I,partial,multi-rater,cohen_kappa,Big Five κ = 0.76,,complex,88 characters,Sec 4.1 p.4,"Big Five κ = 0.76, DM κ = 0.82, overall κ = 0.78",True,True,,,not a number,no
+H125,ST080,A,partial,mean-pairwise,weighted_kappa_quadratic,0.44,0.44,number,66,"Table 2, p.5",mean pairwise quadratically weighted κ of the turn-level severities is 0.44,True,True,,,,yes
+H126,ST080,A,partial,multi-rater,kendall,0.63,0.63,number,66,"Table 2, p.5",Kendall's W 0.63 (All),True,False,,,,yes
+H127,ST080,A,partial,mean-pairwise,percent_agreement,49.0%,0.49,percent,66,"Table 2, p.5",Exact agreement 49.0% (All),True,False,,,,yes
+H128,ST080,B,partial,mean-pairwise,cohen_kappa,0.21,0.21,number,66,"Table 9, p.31",Mean ... Cohen's κ 0.21,True,False,,,,yes
+H129,ST080,B,partial,multi-rater,fleiss_kappa,0.20,0.2,number,66,"Table 9, p.31",Mean ... Fleiss' κ 0.20,True,False,,,,yes
+H130,ST081,A,yes,multi-rater,fleiss_kappa,0.21,0.21,number,300,"Table 4, p.13","Overall 0.21 [0.16, 0.25] Fair",True,True,,,,yes
+H131,ST081,A,yes,multi-rater,fleiss_kappa,0.25 (sarcasm/irony),0.25,complex,60,"Table 4, p.13","Sarcasm/Irony 0.25 [0.15, 0.34] Fair",False,True,,,,yes
+H132,ST081,A,yes,multi-rater,fleiss_kappa,0.22 (passive aggression),0.22,complex,60,"Table 4, p.13","Passive Aggression 0.22 [0.13, 0.30] Fair",False,True,,,,yes
+H133,ST081,A,yes,multi-rater,fleiss_kappa,0.20 (strategic politeness),0.2,complex,60,"Table 4, p.13","Strategic Politeness 0.20 [0.10, 0.29] Slight",False,True,,,,yes
+H134,ST081,A,yes,multi-rater,fleiss_kappa,0.16 (mixed signals),0.16,complex,60,"Table 4, p.13","Mixed Signals 0.16 [0.07, 0.25] Slight",False,True,,,,yes
+H135,ST081,A,yes,multi-rater,fleiss_kappa,0.06 (deflection),0.06,complex,60,"Table 4, p.13","Deflection 0.06 [-0.02, 0.14] Slight",False,True,,,,yes
+H136,ST081,A,yes,coder-vs-consensus,percent_agreement,60.9% (mean annotator agreement with gold),0.609,complex,300,"Sec 5.3, p.13","Individual annotator agreement with gold ranges from 45.0% to 81.7% (mean 60.9%, N=15)",False,True,,,,yes
+H137,ST085,A,no,mean-pairwise,cohen_kappa,0.72 (range 0.55 to 0.88),0.72,complex,50,p.4 Clinician Performance,"mean pairwise κ, 0.72; range, 0.55 to 0.88",False,True,,,,yes
+H138,ST086,A,yes,multi-rater,icc,0.866,0.866,number,90,Results: Agreement Between Evaluator Scores and Human Raters,"ICC(2,1) of 0.866 (95% CI 0.825‐0.898) across 90 session × criterion observations",True,True,,,,yes
+H139,ST086,A,yes,mean-pairwise,weighted_kappa,0.737,0.737,number,90,Results: Agreement Between Evaluator Scores and Human Raters,a mean weighted κ of 0.737,True,True,,,,yes
+H140,ST086,B,yes,multi-rater,icc,0.769,0.769,number,110,Results: Agreement Between Evaluator Scores and Human Raters,"an ICC(2,1) of 0.769 (95% CI 0.732‐0.799) across 110 observations",True,True,,,,yes
+H141,ST086,B,yes,mean-pairwise,weighted_kappa,0.550,0.55,number,110,Results: Agreement Between Evaluator Scores and Human Raters,a mean weighted κ of 0.550,True,True,,,,yes
+H142,ST087,A,partial,coder-vs-coder,icc,.764,0.764,number,455 responses (35 participants),Section 3.2.3; Table 3,This yielded an overall human-human ICC of .764 (Table 3),True,True,,,,yes
+H143,ST088,B,no,multi-rater,icc,.83,0.83,number,"6 training cases, 12 raters","R3196 Sec 3.5.1.1, p.32","ICC of .83, based on a two-way mixed-effects, single-measure, absolute-agreement model",True,False,,,,yes
+H144,ST090,A,partial,coder-vs-consensus,f1,0.536 average (range 0.406-0.667),0.536,complex,NR,"Sec 3.1, p.3",overall average of F1=0.536 (range: 0.406-0.667),False,True,,,,yes
+H145,ST092,A,partial,coder-vs-coder,icc,0.911 (pooled); 0.904 high-distress; 0.899 broader,,complex,30 cases,"Methods, Data Collection",Agreement was also high in the pooled 30-case analysis (ICC=0.911),False,True,,,several values in one cell,no
+H146,ST093,A,partial,coder-vs-coder,cohen_kappa,1.000,1,number,28,"Results, Descriptive construct validity, p6",Inter-rater agreement was perfect (Cohen’s κ = 1.000) for binary presence/absence.,True,True,,,,yes
+H147,ST093,A,partial,coder-vs-coder,weighted_kappa,0.743,0.743,number,28,"Results, Descriptive construct validity, p6","For ordinal severity ordering, agreement was substantial (weighted Cohen’s κ = 0.743)",True,True,,,,yes
+H148,ST094,A,partial,coder-vs-coder,cohen_kappa,0.86 (0.78-0.94),0.86,complex,160,Table 2,κself-harm=0.86 (0.78-0.94),True,True,0.78,0.94,,yes
+H149,ST094,A,partial,coder-vs-coder,cohen_kappa,0.71 (0.55-0.83),0.71,complex,160 (subset both marked present),Table 2,κrecency = 0.71 (0.55-0.83),True,True,0.55,0.83,,yes
+H150,ST097,A,yes,mean-pairwise,kendall,0.55,0.55,number,NR,"Page 8, Evaluation correlation",weighted Kendall's tau coefficient ... for the paired human evaluators' fine-grained scores is 0.55,True,False,,,,yes
+H151,ST098,A,partial,multi-rater,fleiss_kappa,0.673,0.673,number,NR,"Page 5, Section 4.2",inter-rater reliability (Fleiss' κ) of 0.673,True,True,,,,yes
+H152,ST098,A,partial,mean-pairwise,percent_agreement,79.5%,0.795,percent,NR,"Page 6, Section 4.4",closely matching inter-human agreement of 79.5%,True,False,,,,yes
+H153,ST099,B,no,coder-vs-coder,cohen_kappa,0.723,0.723,number,50,"p.5, Self-stigma indicators codebook",macro-averaged agreement was substantial (Cohen’s 𝜅= 0.723),True,True,,,,yes
+H154,ST100,A,yes,mean-pairwise,percent_agreement,65.4%,0.654,percent,"108 clinicians, 3 videos","Results, Clinicians and LLMs performance",The overall pairwise percent agreement among clinicians was 65.4%,True,True,,,,yes
+H155,ST101,A,yes,coder-vs-coder,weighted_kappa,0.77-0.78,,complex,77,"Results, Interrater and Model Agreement",All 3 human rater pairs had similar interrater reliability (κ=0.77-0.78).,True,True,,,"range, not a point value",no
+H156,ST102,A,no,coder-vs-coder,krippendorff_alpha,"0.85, 0.84, 0.91",0.85,complex,NR,p3 Dataset,"yielding Krippendorff's α values of 0.85, 0.84, and 0.91",False,True,,,,yes
+H157,ST102,C,no,coder-vs-coder,percent_agreement,92%,0.92,percent,100,p3 Dataset,a further 100 responses reached 92% exact-match agreement,True,True,,,,yes
+H158,ST103,A,yes,mean-pairwise,other,Gwet AC2 0.42 (Purity) to 0.60 (Clarity),,complex,52,"Results, Secondary and Sensitivity Analyses, Human-Human Agreement",Human-human AC2 ranged from 0.42 (Purity) to 0.60 (Clarity),False,True,,,not a number,no
+H159,ST105,A,yes,multi-rater,cohen_kappa,0.85,0.85,number,50,"Study 1, Step 1",The results showed that the coding had good inter-rater reliability (Kappa = 0.85).,True,True,,,,yes
+H160,ST107,A,no,coder-vs-coder,cohen_kappa,0.72 – 0.95,,complex,NR,"Methods, Outcomes, p.5-6",Interrater reliability was good across SAPS and SANS items (κ = 0.72 – κ = 0.95),False,False,,,"range, not a point value",no
+H161,ST108,A,yes,coder-vs-coder,icc,"ICC(2,1)=0.720",,complex,12 defenses,"p.8, Results","LA vs. FF: ICC (2, 1) = 0.720, 95% CI [0.283, 0.910]",False,True,,,not a number,no
+H162,ST108,B,yes,coder-vs-coder,icc,"ICC(2,1)=0.952",,complex,12 defenses,"p.8, Results","CR vs. FDS: ICC (2, 1) = 0.952, 95% CI [0.808, 0.987]",False,True,,,not a number,no
+H163,ST109,A,partial,coder-vs-coder,other,"balanced accuracy 0.841 (avg); sens .955, spec .728",,complex,English dataset,"Results, p.35","On average, the raters achieved a very strong balanced accuracy (.841), sensitivity (.955) and specificity (.728)",False,True,,,not a number,no
+H164,ST110,A,yes,multi-rater,icc,0.57,0.57,number,NR,"Table 3, p.5",Human annotators — 0.69*** 0.57***,True,False,,,,yes
+H165,ST110,B,yes,multi-rater,icc,0.88,0.88,number,NR,"Table 3, p.5",Human annotators 0.45*** 0.84*** 0.88***,True,False,,,,yes
+H166,ST110,B,yes,multi-rater,fleiss_kappa,0.45,0.45,number,NR,"Table 3, p.5",Human annotators 0.45***,True,True,,,,yes
+H167,ST110,C,partial,multi-rater,icc,0.4,0.4,number,NR,Results p.4,"anger annotations (W = 0.62, ICC = 0.4, all p < 0.001)",True,True,,,,yes
+H168,ST111,A,yes,coder-vs-coder,pearson,0.873 (text); 0.879 (Table 3),,complex,86,p.17; Table 3,correlation between the two trained human raters was 0.873 for attribution of hostility,False,True,,,several values in one cell,no
+H169,ST111,B,yes,coder-vs-coder,pearson,0.930 (text); 0.929 (Table 3),,complex,86,p.17; Table 3,0.930 for aggression response ratings,False,True,,,several values in one cell,no
+H170,ST111,A,no,coder-vs-coder,icc,0.80,0.8,number,full Dataset 1,p.12,"attribution of hostility = 0.80, aggression response = 0.73",True,True,,,,yes
+H171,ST111,B,no,coder-vs-coder,icc,0.73,0.73,number,full Dataset 1,p.12,"attribution of hostility = 0.80, aggression response = 0.73",True,True,,,,yes
+H172,ST111,C,yes,coder-vs-coder,pearson,0.896,0.896,number,144,p.24,"attribution of hostility (r = 0.896, t(142) = 23.99",True,True,,,,yes
+H173,ST111,D,yes,coder-vs-coder,pearson,0.918,0.918,number,144,p.24,"aggression response ratings (r = 0.918, t(142) = 27.49",True,True,,,,yes
+H174,ST113,A,yes,mean-pairwise,cohen_kappa,Subst. Use 0.76; EMS 0.93; High Instab. 0.44,,complex,400,Table 4.2,Mean CK: average pairwise Cohen's kappa across all coder pairs,False,True,,,not a number,no
+H175,ST113,A,yes,coder-vs-consensus,f1,Subst. Use 0.78; EMS 0.92; High Instab. 0.50,,complex,400,Table 4.3,each coder's labels were evaluated against gold standard labels derived from the other two coders,False,False,,,not a number,no
+H176,ST114,A,yes,coder-vs-coder,icc,0.79,0.79,number,50,"3.5, p. 9",good agreement between expert raters (ICC = 0.79),True,True,,,,yes
+H177,ST115,A,partial,multi-rater,cohen_kappa,0.78,0.78,number,NR,Sec 3.1.1; 3.4,"Two licensed mental health professionals (κ=0.78 [15, 16]) rated risk levels.",True,False,,,,yes
+H178,ST116,A,yes,mean-pairwise,pearson,0.851,0.851,number,36,"Table 2, p.6",Mean pairwise r 0.851 (Harm),True,False,,,,yes
+H179,ST116,B,yes,mean-pairwise,pearson,0.93,0.93,number,36,"Table 2, p.6",Mean pairwise r 0.93 (Negative emotion),True,False,,,,yes
+H180,ST116,C,yes,mean-pairwise,pearson,0.937,0.937,number,36,"Table 2, p.6",Mean pairwise r 0.937 (Inappropriate behaviour),True,False,,,,yes
+H181,ST116,D,yes,mean-pairwise,pearson,0.942,0.942,number,36,"Table 2, p.6",Mean pairwise r 0.942 (Empathic language),True,False,,,,yes
+H182,ST116,E,yes,mean-pairwise,pearson,0.671,0.671,number,36,"Table 2, p.6",Mean pairwise r 0.671 (Godspeed Q1-Q5 average),True,False,,,,yes
+H183,ST118,C,partial,mean-pairwise,f1,0.7282,0.7282,number,NR (overlapping subsets),Table 8,Aspect (F1) Mean 0.7282,True,False,,,,yes
+H184,ST118,B,partial,mean-pairwise,accuracy,0.8279,0.8279,number,NR (overlapping subsets),Table 8,Sent. Mean 0.8279,True,False,,,,yes
+H185,ST118,A,partial,mean-pairwise,accuracy,0.7905,0.7905,number,NR (overlapping subsets),Table 8,Emo. Mean 0.7905,True,False,,,,yes
+H186,ST119,A,yes,coder-vs-coder,weighted_kappa_quadratic,0.78,0.78,number,90,Sec 5.3; Fig 1,Inter-oncologist agreement sets the empirical ceiling for MU and PU at QWK 0.78 and 0.96,True,False,,,,yes
+H187,ST119,B,yes,coder-vs-coder,weighted_kappa_quadratic,0.96,0.96,number,90,Sec 5.3; Fig 1,Inter-oncologist agreement sets the empirical ceiling for MU and PU at QWK 0.78 and 0.96,True,False,,,,yes
+H188,ST119,C,yes,coder-vs-coder,weighted_kappa_quadratic,0.82,0.82,number,89,Sec 5.3; Fig 1,The TS ceiling is 0.82 after adjudication,True,True,,,,yes
+H189,ST120,A,yes,coder-vs-coder,percent_agreement,93.3%,0.933,percent,2880 decisions,"Results, Validity of the Judge's Codes p.12","The two coders agreed on 93.3% of 2,880 decisions in the validation sample",True,True,,,,yes
+H190,ST120,B,partial,coder-vs-coder,gwet_ac1,0.89,0.89,number,80,S5.5,T3_death_stance 80 0.90 0.52 0.89,True,False,,,,yes
+H191,ST120,C,yes,coder-vs-coder,gwet_ac1,1.00,1,number,64,S5.2 T7_risk_recognized,T7_risk_recognized ... Coder 1 vs. coder 2: κ 1.00 AC1 1.00,True,False,,,,yes
+H192,ST120,D,yes,coder-vs-coder,gwet_ac1,0.74,0.74,number,64,S5.2 T8_urges_contact,T8_urges_contact ... 0.19 0.74,True,True,,,,yes
+H193,ST120,E,yes,coder-vs-coder,cohen_kappa,0.57,0.57,number,64,S5.2 T8_direct_inquiry,T8_direct_inquiry ... 0.57 0.63,True,True,,,,yes
+H194,ST120,F,yes,coder-vs-coder,cohen_kappa,1.00,1,number,64,S5.2 T4_grief_support,T4_grief_support ... 1.00 1.00,True,True,,,,yes
+H195,ST120,G,yes,coder-vs-coder,cohen_kappa,0.69,0.69,number,64,S5.2 T5_grief_support,T5_grief_support ... 0.69 0.69,True,True,,,,yes
+H196,ST121,A,yes,coder-vs-coder,cohen_kappa,.80,0.8,number,448,"Section 4.2, p.5",The raters achieved substantial agreement as measured by Cohen's Kappa (Cohen's Khuman×human = .80),True,False,,,,yes
+H197,ST122,A,yes,coder-vs-coder,cohen_kappa,0.73,0.73,number,1786,"Table 3, p.19",Human-Human Full 1786 0.73,True,False,,,,yes
+H198,ST122,A,yes,coder-vs-coder,cohen_kappa,0.30,0.3,number,292,"Table 3, p.19",Human-Human Perturbed 292 0.30,True,False,,,,yes
+H199,ST122,B,yes,coder-vs-coder,cohen_kappa,0.61,0.61,number,NR,"Linguistic Profile Validation, p.21",Human annotators showed substantial agreement on linguistic profile classification (0.61 κ,True,False,,,,yes
+H200,ST122,C,yes,coder-vs-coder,cohen_kappa,0.93,0.93,number,NR,"Behavioral Profile Validation, p.22",Human annotators showed high agreement on behavioral profile classification (0.93 κ,True,False,,,,yes
+H201,ST123,A,partial,coder-vs-coder,cohen_kappa,0.803,0.803,number,18 of 60 transcripts,Study 1 Method p.60,Their agreement was strong (κ = 0.803),True,True,,,,yes
+H202,ST125,A,yes,multi-rater,fleiss_kappa,0.184,0.184,number,100,p9,values of 0.184 for Safety and 0.048 for Overall Preference,True,True,,,,yes
+H203,ST125,B,yes,multi-rater,fleiss_kappa,0.048,0.048,number,100,p9,values of 0.184 for Safety and 0.048 for Overall Preference,True,True,,,,yes
+H204,ST125,A,partial,coder-vs-consensus,accuracy,80.0%,0.8,percent,non-tie of 100,p9,compared to 80.0% for the leave-one-out human baseline,True,True,,,,yes
+H205,ST125,B,partial,coder-vs-consensus,accuracy,65.5%,0.655,percent,non-tie of 100,p9,slightly exceeds the leave-one-out human baseline (65.5%),True,True,,,,yes
+H206,ST128,A,partial,coder-vs-coder,percent_agreement,44/50 on issuing a diagnosis,,complex,50,Appendix E.3,Reviewers agreed on issuing a diagnosis in 44/50,False,True,,,several values in one cell,no
+H207,ST128,B,partial,coder-vs-coder,percent_agreement,9/12 on first code,,complex,12,Appendix E.3,on the first code in 9/12 where both issued one,False,True,,,several values in one cell,no
+H208,ST133,A,yes,coder-vs-coder,cohen_kappa,0.763,0.763,number,165,Methods: Sentiment Analysis,"when medical facts were included, agreement reached a Cohen κ of 0.763 with 87.27% (144/165) agreement",True,True,,,,yes
+H209,ST133,A,yes,coder-vs-coder,cohen_kappa,0.71,0.71,number,165,Methods: Sentiment Analysis,excluding medical facts yielded a Cohen κ of 0.71 with 86.06% (142/165) agreement,True,True,,,,yes
+H210,ST135,A,yes,coder-vs-coder,gwet_ac1,0.87,0.87,number,396,"Results, Inter-Expert Agreement (p.11)","Gwet's AC1 = 0.87, 95% CI [0.79, 0.94]; Cohen's κ= 0.67",True,False,,,,yes
+H211,ST135,A,yes,coder-vs-coder,cohen_kappa,0.67,0.67,number,396,"Results, Inter-Expert Agreement (p.11)","Cohen's κ= 0.67, 95% CI [0.54, 0.79]; overall accuracy = 90.7%",True,False,,,,yes
+H212,ST135,A,yes,multi-rater,cohen_kappa,0.66,0.66,number,NR,"Methods, Expert Annotation (p.6)","pre-consensus inter-rater agreement: 89%, κ = 0.66 (Yale)",True,False,,,,yes
+H213,ST135,A,yes,multi-rater,cohen_kappa,0.76,0.76,number,NR,"Methods, Expert Annotation (p.6)","pre-consensus inter-rater agreement: 89.9%, κ = 0.76 (UTHealth)",True,False,,,,yes
+H214,ST136,A,yes,coder-vs-coder,krippendorff_alpha,0.04,0.04,number,1688,"Table 1, p. 6",Relevance 1688 0.31 0.04 0.41,True,True,,,,yes
+H215,ST136,A,yes,coder-vs-coder,percent_agreement,0.31,0.31,number,1688,"Table 1, p. 6",Relevance 1688 0.31 0.04 0.41,True,True,,,,yes
+H216,ST136,A,yes,coder-vs-coder,pearson,0.41,0.41,number,1688,"Table 1, p. 6",Relevance 1688 0.31 0.04 0.41,True,True,,,,yes
+H217,ST136,B,yes,coder-vs-coder,krippendorff_alpha,0.18,0.18,number,1689,"Table 1, p. 6",Novelty 1689 0.81 0.18 0.25,True,True,,,,yes
+H218,ST136,B,yes,coder-vs-coder,percent_agreement,0.81,0.81,number,1689,"Table 1, p. 6",Novelty 1689 0.81 0.18 0.25,True,True,,,,yes
+H219,ST136,B,yes,coder-vs-coder,pearson,0.25,0.25,number,1689,"Table 1, p. 6",Novelty 1689 0.81 0.18 0.25,True,True,,,,yes
+H220,ST136,C,yes,coder-vs-coder,krippendorff_alpha,0.08,0.08,number,1689,"Table 1, p. 6",Enablement 1689 0.74 0.08 0.15,True,True,,,,yes
+H221,ST136,C,yes,coder-vs-coder,percent_agreement,0.74,0.74,number,1689,"Table 1, p. 6",Enablement 1689 0.74 0.08 0.15,True,True,,,,yes
+H222,ST136,C,yes,coder-vs-coder,pearson,0.15,0.15,number,1689,"Table 1, p. 6",Enablement 1689 0.74 0.08 0.15,True,True,,,,yes
+H223,ST136,D,yes,coder-vs-coder,krippendorff_alpha,0.01,0.01,number,1689,"Table 1, p. 6",Affect 1689 0.31 0.01 -0.01,True,True,,,,yes
+H224,ST136,D,yes,coder-vs-coder,percent_agreement,0.31,0.31,number,1689,"Table 1, p. 6",Affect 1689 0.31 0.01 -0.01,True,True,,,,yes
+H225,ST136,D,yes,coder-vs-coder,pearson,-0.01,-0.01,number,1689,"Table 1, p. 6",Affect 1689 0.31 0.01 -0.01,True,True,,,,yes
+H226,ST136,E,yes,coder-vs-coder,krippendorff_alpha,0.05,0.05,number,1689,"Table 1, p. 6",Decision Proximity 1689 0.48 0.05 0.08,True,True,,,,yes
+H227,ST136,E,yes,coder-vs-coder,percent_agreement,0.48,0.48,number,1689,"Table 1, p. 6",Decision Proximity 1689 0.48 0.05 0.08,True,True,,,,yes
+H228,ST136,E,yes,coder-vs-coder,pearson,0.08,0.08,number,1689,"Table 1, p. 6",Decision Proximity 1689 0.48 0.05 0.08,True,True,,,,yes
+H229,ST137,C,yes,coder-vs-coder,cohen_kappa,0.929,0.929,number,NR,Sec 3.3,Inter-annotator agreement reached 95.89% with Cohen's κ = 0.929,True,True,,,,yes
+H230,ST137,D,partial,coder-vs-coder,cohen_kappa,0.759,0.759,number,"1,200",Sec 4.1.1,Re-annotation yields 84.96% raw agreement and Cohen's κ = 0.759,True,True,,,,yes
+H231,ST137,A,no,coder-vs-consensus,cohen_kappa,0.800,0.8,number,100,Sec 3.4.1,85% (κ = 0.800) for dialogue acts,True,True,,,,yes
+H232,ST137,B,no,coder-vs-consensus,cohen_kappa,0.872,0.872,number,100,Sec 3.4.1,89% (κ = 0.872) for emotions,True,True,,,,yes
+H233,ST137,C,no,coder-vs-consensus,cohen_kappa,0.805,0.805,number,100,Sec 3.4.1,87% (κ = 0.805) for sentiment,True,True,,,,yes
+H234,ST138,A,yes,multi-rater,fleiss_kappa,0.4997,0.4997,number,NR,"Table 2, p.8",NEP 80.06 0.6958 0.4997,True,True,,,,yes
+H235,ST138,B,yes,multi-rater,fleiss_kappa,0.5712,0.5712,number,NR,"Table 2, p.8",Valence 85.33 0.725 0.5712,True,True,,,,yes
+H236,ST139,A,yes,multi-rater,krippendorff_alpha,0.62,0.62,number,7000,"Sec 4.2, p.4",We achieve a Krippendorff's α score of 0.62 for the inter-annotator agreement.,True,True,,,,yes
+H237,ST141,A,yes,coder-vs-coder,cohen_kappa,0.58,0.58,number,"8,028",p.14,Interrater reliability for process identification (yes/no) was 0.58,True,True,,,,yes
+H238,ST141,B,yes,coder-vs-coder,other,0.55 overall agreement; kappa 0.30-0.85 by dimension,0.55,complex,"8,028",p.14-15,overall agreement on the dimension labels was 0.55,False,False,,,,yes
+H239,ST142,A,yes,coder-vs-coder,percent_agreement,980 of 1002 agreed (22 disagreements),,complex,1002,"Page 20-21, Inter-annotator agreement",The two annotators disagreed on 22 instances and agreed on 980 instances.,False,True,,,out of range,no
+H240,ST143,A,yes,multi-rater,fleiss_kappa,0.745 (95% CI 0.652 to 0.839),0.745,complex,146,"Results, Clinical adjudication","Prior to consensus, inter-rater reliability among the three clinical raters was Fleiss’ κ=0.745",True,True,,,,yes
+H241,ST144,A,partial,coder-vs-coder,cohen_kappa,0.77,0.77,number,NR,Annotation Protocol,high agreement of 0.77 (Cohen κ) after the second phase of the annotation process,True,True,,,,yes
+H242,ST145,B,yes,multi-rater,cohen_kappa,0.879,0.879,number,NR,"Methods, Datasets",The Cohen κ values for IS and ES in Sharma and De Choudhury [12] are 0.879 and 0.876,True,True,,,,yes
+H243,ST145,D,yes,multi-rater,cohen_kappa,0.876,0.876,number,NR,"Methods, Datasets",The Cohen κ values for IS and ES in Sharma and De Choudhury [12] are 0.879 and 0.876,True,True,,,,yes
+H244,ST145,A,yes,multi-rater,other,Cronbach alpha 0.91,,complex,NR,"Methods, Datasets",Peng et al [11] reported Cronbach α values of 0.91 and 0.81 for IS and ES,False,True,,,not a number,no
+H245,ST145,C,yes,multi-rater,other,Cronbach alpha 0.81,,complex,NR,"Methods, Datasets",Peng et al [11] reported Cronbach α values of 0.91 and 0.81 for IS and ES,False,True,,,not a number,no
+H246,ST151,A,yes,coder-vs-coder,cohen_kappa,0.872,0.872,number,64 narratives,"Table 3, p.7",inter-human-annotator 0.872 almost perfect,True,True,,,,yes
+H247,ST152,A,yes,coder-vs-coder,weighted_kappa_quadratic,0.51,0.51,number,120,"Sec 4.3, p5","κ = 0.51 across all dimensions and models, with the highest reliability observed for Adherence as κ = 0.79",True,True,,,,yes
+H248,ST153,A,partial,mean-pairwise,cohen_kappa,0.68,0.68,number,NR,"Page 1, Manual annotation",Average Cohen's κ = 0.68,True,True,,,,yes
+H249,ST155,A,no,coder-vs-coder,cohen_kappa,R1: 0.32-0.51; R2: 0.52-1.00; R3 full agreement,,complex,49 and 84 reflections,"Section 3.2, p.10",Agreement was highest for Strategy Choice (κ = 0.51),False,True,,,not a number,no
+H250,ST156,A,yes,multi-rater,krippendorff_alpha,0.17,0.17,number,1382,Table 1,human α ... MFRC 0.17,True,False,,,,yes
+H251,ST156,B,partial,multi-rater,krippendorff_alpha,0.47,0.47,number,91 multi-annotated,Table 1,AnnoMI client 0.47,True,False,,,,yes
+H252,ST156,C,partial,multi-rater,krippendorff_alpha,0.74,0.74,number,93 multi-annotated,Table 1,AnnoMI therapist 0.74,True,False,,,,yes
+H253,ST156,A,yes,coder-vs-consensus,cohen_kappa,0.110-0.372 (median 0.295),,complex,1382,Table 11,human κ min 0.110 median 0.295 max 0.372,False,False,,,"range, not a point value",no
+H254,ST156,B,partial,coder-vs-consensus,cohen_kappa,0.414-0.773 (median 0.607),,complex,91,Table 11,human κ min 0.414 median 0.607 max 0.773,False,False,,,"range, not a point value",no
+H255,ST156,C,partial,coder-vs-consensus,cohen_kappa,0.631-0.886 (median 0.834),,complex,93,Table 11,human κ min 0.631 median 0.834 max 0.886,False,False,,,"range, not a point value",no
+H256,ST157,C,yes,multi-rater,krippendorff_alpha,0.802 overall; Concretism 0.968; Blocking 0.536,0.802,complex,6 patients x 5 items,"Table 12, p28",overall agreement was strong (α = 0.802),False,True,,,,yes
+H257,ST158,A,yes,coder-vs-coder,icc,0.25 item; 0.42 section,,complex,"5 pts, 10 runs","Table 5, clinical research team",P1 versus P2 | 0.25 ... 0.42,False,True,,,several values in one cell,no
+H258,ST158,A,yes,coder-vs-coder,icc,0.19 item; 0.93 section,,complex,"8 pts, 5 runs","Table 5, psychiatry residents",P1 versus P2 | 0.19 ... 0.93,False,True,,,several values in one cell,no
+H259,ST160,A,yes,multi-rater,icc,"ICC(2,1)=0.564; ICC(2,6)=0.901 (7 humans, LORO none dropped)",,complex,42,Table 2,None 0.564 0.901,False,True,,,not a number,no
+H260,ST162,A,yes,coder-vs-coder,cohen_kappa,0.88,0.88,number,881,"Section 6, Human Validation (p. 9)",94.4% for IF (Cohen's κ = 0.88),True,True,,,,yes
+H261,ST164,A,partial,coder-vs-coder,weighted_kappa_quadratic,"0.938 (R1-2), 0.957 (R1-3), 0.938 (R2-3)",0.938,complex,20,Section 3.4,"Kappa values were 0.938 (Raters 1-2), 0.957 (Raters 1-3), 0.938 (Raters 2-3)",False,True,,,,yes
+H262,ST166,A,partial,coder-vs-coder,krippendorff_alpha,0.833,0.833,number,NR,Sec 3.3 Task 1,The coefficient is obtained as 0.833 using MASI distance,True,True,,,,yes
+H263,ST168,A,yes,coder-vs-coder,cohen_kappa,0.6,0.6,number,395,Methods: Data collection and manual annotation,Cohen’s κ of 0.6 for both domains,True,True,,,,yes
+H264,ST168,A,yes,coder-vs-coder,percent_agreement,88%,0.88,percent,395,Methods: Data collection and manual annotation,raw concordance rates of 88% for the pain domain,True,True,,,,yes
+H265,ST168,B,yes,coder-vs-coder,cohen_kappa,0.6,0.6,number,424,Methods: Data collection and manual annotation,Cohen’s κ of 0.6 for both domains,True,True,,,,yes
+H266,ST168,B,yes,coder-vs-coder,percent_agreement,86%,0.86,percent,424,Methods: Data collection and manual annotation,86% for the fatigue domain,True,True,,,,yes
+H267,ST169,A,yes,coder-vs-coder,weighted_kappa_quadratic,".73 [.65, .82]",0.73,complex,338,"Results, p. 13","QWK between the two human raters was .73, with 95% CI [.65, .82]",False,True,0.65,0.82,,yes
+H268,ST169,A,yes,coder-vs-coder,krippendorff_alpha,".75 [.67, .83]",0.75,complex,338,"Results, p. 13","Krippendorff's α of .75 [.67, .83]",True,True,0.67,0.83,,yes
+H269,ST172,A,yes,multi-rater,krippendorff_alpha,0.23,0.23,number,"1,077 turns x 14 behaviors","App F.2, p.32",overall Krippendorff’s α is 0.23 for human evaluators and 0.71 for LLM evaluators,True,True,,,,yes
+H270,ST172,A,yes,mean-pairwise,percent_agreement,88.14%,0.8814,percent,"1,077 turns x 14 behaviors","App F.2, p.32",88.14% for human evaluators and 96.09% for LLM evaluators,True,True,,,,yes
+H271,ST174,A,partial,coder-vs-coder,cohen_kappa,0.78,0.78,number,10,Methods: Creation of Synthetic Therapeutic Conversations,initial interrater reliability was calculated based on the first 10 transcripts and was established as substantial agreement (κ=0.78),True,True,,,,yes
+H272,ST175,A,yes,multi-rater,icc,"ICC(2,1)=0.38; ICC(2,5)=0.75",,complex,7 transcripts,"Results, Agreement and Reliability","interrater reliability among the 5 HBA physician raters was only fair on single measures (ICC(2,1)=0.38)",False,True,,,not a number,no
+H273,ST178,A,yes,coder-vs-coder,cohen_kappa,0.886,0.886,number,"2,092","Sec 3.3, p.14",Self-efficacy demonstrated reasonably good inter-rater reliability with a Cohen’s kappa of 0.886 and 94.39% agreement,True,True,,,,yes
+H274,ST178,B,yes,coder-vs-coder,cohen_kappa,0.675,0.675,number,"2,092","Sec 3.3, p.14",reflected in κ values of 0.675 and 0.514 respectively,True,True,,,,yes
+H275,ST178,E,yes,coder-vs-coder,cohen_kappa,0.514,0.514,number,"2,092","Sec 3.3, p.14",reflected in κ values of 0.675 and 0.514 respectively,True,True,,,,yes
+H276,ST178,D,yes,coder-vs-coder,cohen_kappa,0 (98.94% agreement),0,complex,"2,092","Sec 3.3, p.15",thus had 98.94% agreement with a κ = 0,False,True,,,,yes
+H277,ST178,C,yes,coder-vs-coder,percent_agreement,100% (kappa not calculable),1,complex,"2,092","Sec 3.3, p.14","thus achieved perfect 100% agreement, and thus κ could not be calculated",False,True,,,,yes
+H278,ST179,A,no,multi-rater,other,IRR = 0.72 for symptoms,0.72,complex,NR (3 rounds x 20 overlapping notes),"Methods, Study design","annotated for symptom severities by 5 SMEs (IRR = 0.72 for symptoms, 0.60 for severity)",True,True,,,,yes
+H279,ST179,B,no,multi-rater,other,IRR = 0.60 for severity,0.6,complex,NR,"Methods, Study design","IRR = 0.72 for symptoms, 0.60 for severity",False,True,,,,yes
+H280,ST180,B,yes,coder-vs-coder,cohen_kappa,0.773,0.773,number,200,"Sec 3.1, p.4",Inter-annotator agreement was Cohen's κ = 0.773.,True,True,,,,yes
+H281,ST180,A,yes,coder-vs-coder,cohen_kappa,0.48-0.94 across codes (Table 2),,complex,100,"Table 2, p.5",agreement ranges from Cohen's κ = 0.58 to 0.94,False,True,,,"range, not a point value",no
+H282,ST181,A,partial,coder-vs-coder,icc,.80,0.8,number,15% of TICKS sessions,Appendix A; Table 1,a second independently rated 15% of them (ICC = .80),True,False,,,,yes
+H283,ST181,A,partial,coder-vs-coder,icc,.77–.85,,complex,VACC double-rated subsets,Appendix A; Table 1,reliability on double-rated subsets is ICC = .77–.85,True,True,,,"range, not a point value",no
+H284,ST181,A,no,multi-rater,icc,"ICC(2,1)=.53; ICC(2,k)=.82",,complex,24 TEACH sessions (parallel item),Appendix A,"ICC(2,1) = .53, average-raters ICC(2,k) = .82",False,True,,,not a number,no
+H285,ST181,A,partial,multi-rater,krippendorff_alpha,.24,0.24,number,6 VACC sessions,Appendix A,Krippendorff’s ordinal α = .24 over 31 rater pairs,True,False,,,,yes
+H286,ST182,A,partial,multi-rater,other,Cronbach's alpha .90-.98,,complex,120,Sec 3.3,annotated by ten trained graduate experts (Cronbach's alpha = .90-.98),False,True,,,not a number,no
+H287,ST183,A,yes,coder-vs-coder,icc,ICC = .93,0.93,complex,NR,"Section 3.1, p. 4","the interrater reliability between the two raters was high, ICC = .93",True,True,,,,yes
+H288,ST184,C,yes,coder-vs-coder,percent_agreement,82.6%,0.826,percent,240,Control simulations p.6,Weighted agreement between the two human coders was 82.6%,True,True,,,,yes
+H289,ST184,B,yes,mean-pairwise,percent_agreement,63.1%,0.631,percent,112 vignettes,Methods p.4,Mean within-vignette pairwise agreement between raters was 63.1%,True,True,,,,yes
+H290,ST184,B,yes,multi-rater,fleiss_kappa,0.502,0.502,number,112 vignettes,Methods p.4,"Fleiss’ κ was 0.502 (95% CI, 0.439 to 0.560)",True,False,,,,yes
+H291,ST185,A,partial,mean-pairwise,krippendorff_alpha,0.33 (i1); 0.40 (i2),,complex,31 sessions (overlap subsets),Table 3,PF 0.33 [0.25–0.41] 0.40 [0.27–0.54],False,True,,,several values in one cell,no
+H292,ST185,B,partial,mean-pairwise,krippendorff_alpha,0.15 (i1); 0.36 (i2),,complex,31 sessions (overlap subsets),Table 3,RF 0.15 [0.02–0.26] 0.36 [0.20–0.54],False,True,,,several values in one cell,no
+H293,ST187,A,yes,mean-pairwise,pabak,0.788,0.788,number,16,"Results, Coding Reliability",Human-human PABAK averaged 0.788 across the 13 semantic fields,True,True,,,,yes
+H294,ST187,B,yes,coder-vs-coder,percent_agreement,68.8%,0.688,percent,16,"Results, Coding Reliability",the percent agreement for arc assignment was 68.8%,True,True,,,,yes
+H295,ST188,A,yes,coder-vs-coder,weighted_kappa_quadratic,0.80,0.8,number,60,"Table 2; Sec 6.2, p.7","Inter-expert agreement was highest for Soothe (κ = .80, 95% CI [.58, .90])",True,True,,,,yes
+H296,ST188,B,yes,coder-vs-coder,weighted_kappa_quadratic,0.69,0.69,number,60,"Table 2; Sec 6.2, p.7","followed by Reframe (κ = .69, [.39, .85])",True,True,,,,yes
+H297,ST188,C,yes,coder-vs-coder,weighted_kappa_quadratic,0.40,0.4,number,60,"Table 2; Sec 6.2, p.7","Endorse ... (κ = .40, [.04, .64])",True,True,,,,yes
+H298,ST190,A,partial,multi-rater,krippendorff_alpha,0.19,0.19,number,638,"Section 3.6, p.7","The overall α was 0.19, indicating low consistency among the three SLPs.",True,False,,,,yes
+H299,ST190,A,partial,coder-vs-coder,krippendorff_alpha,SLP1-SLP2 0.31; SLP1-SLP3 0.15; SLP2-SLP3 0.11,,complex,638,"Section 3.6, p.7","SLP1 and SLP2 (α = 0.31), ... SLP1–SLP3 (α = 0.15) and SLP2–SLP3 (α = 0.11)",False,False,,,not a number,no
+H300,ST191,A,yes,mean-pairwise,weighted_kappa_quadratic,"GP 0.13, RA 0.42",,complex,NR,"Sec 7.3 Human validation, p.5","mean pairwise quadratic-weighted κ: GP 0.13, RA 0.42",True,True,,,not a number,no
+H301,ST191,A,yes,multi-rater,fleiss_kappa,0.11 (quadrant),0.11,complex,NR,"Sec 7.3 Human validation, p.5","Fleiss quadrant κ = 0.11, though the two most MITI-aligned coders reach 0.52",False,True,,,,yes
+H302,ST192,B,yes,multi-rater,fleiss_kappa,0.31,0.31,number,83,"Sec 3, Human rating, p.5",Overall agreement across the three raters was fair (Fleiss’ κ = 0.31).,True,True,,,,yes
+H303,ST192,B,yes,coder-vs-coder,weighted_kappa_quadratic,0.49 to 0.81,,complex,83,"Sec 3, p.5",Pairwise quadratic-weighted Cohen’s κ ranged from 0.49 to 0.81,True,True,,,"range, not a point value",no
+H304,ST192,A,no,coder-vs-coder,weighted_kappa_quadratic,0.927,0.927,number,46,"Sec 2.1, p.3",Inter-rater reliability was high (quadratic-weighted κ = 0.927),True,True,,,,yes
+H305,ST194,B,no,coder-vs-coder,cohen_kappa,0.686,0.686,number,NR,"Sec III-B, p.2","Two domain experts labeled the posts against written guidelines, with Cohen's κ = 0.686 between them [3]",True,False,,,,yes
+H306,ST199,A,partial,multi-rater,fleiss_kappa,0.52,0.52,number,"5,000 (full ReaMent)","Sec 4.4, p.5","we compute Fleiss' κ over the full dataset, obtaining κ = 0.52",True,False,,,,yes
+H307,ST200,A,yes,mean-pairwise,accuracy,"0.7222, 0.7815, 0.7148, 0.7519 (MostVoted vs LeastVoted)",0.7222,complex,90,"p. 12, Table 3",average accuracy between each human judge and the other judges for different evaluated pairs,False,True,,,,yes
+H308,ST201,A,partial,mean-pairwise,krippendorff_alpha,"0.78 (pre-discussion, 3 coders)",0.78,complex,43,"Ch. 2, Data Source Description, p. 89",The pre-discussion inter-rater reliability reached a Krippendorff’s alpha of 0.78.,False,True,,,,yes
+H309,ST201,A,partial,coder-vs-coder,krippendorff_alpha,"0.85, 0.84, 0.91 (coder pairs)",0.85,complex,"remaining data, double coded","Ch. 2, Data Source Description, p. 89","yielding Krippendorff’s alpha values of 0.85, 0.84, and 0.91",False,True,,,,yes
+H310,ST202,A,partial,multi-rater,icc,"43.0-64.0 (single-rater ICC(3,1) across dimensions; VF 64.0)",,complex,625 videos,"Table 2, p.4",Human single-rater agreement ceiling on the 625 fully rated videos.,False,True,,,"range, not a point value",no
+H311,ST203,A,yes,coder-vs-coder,pearson,0.63,0.63,number,30,"Results, p. 9","Pearson’s r = 0.63, p < 0.001",True,True,,,,yes
+H312,ST203,A,yes,coder-vs-coder,icc,0.685,0.685,number,30,"Results, p. 9","ICC(A, 2) = 0.685, 95% CI [0.349, 0.849]",True,True,,,,yes
+H313,ST205,A,yes,multi-rater,fleiss_kappa,0.4622,0.4622,number,2848,Table 8,SemEval | 0.4622 | 0.4576,True,True,,,,yes
+H314,ST205,B,yes,multi-rater,fleiss_kappa,0.3770,0.377,number,2848,Table 8,Ekman | 0.3770 | 0.3826,True,True,,,,yes
+H315,ST205,C,yes,multi-rater,fleiss_kappa,0.3912,0.3912,number,2848,Table 8,SevenEmotions | 0.3912 | 0.3893,True,True,,,,yes
+H316,ST205,D,yes,multi-rater,fleiss_kappa,0.4063,0.4063,number,2848,Table 8,Plutchik | 0.4063 | 0.3899,True,True,,,,yes
+H317,ST205,E,yes,multi-rater,fleiss_kappa,0.4381,0.4381,number,2848,Table 8,GoEmotions | 0.4381 | 0.3755,True,True,,,,yes
+H318,ST206,A,yes,coder-vs-coder,cohen_kappa,"83.33 (EN), 84.06 (ZH)",0.8333,complex,"pre-filter, 8,800 total",App B.5 Table 2 (p. 22),Overall Resp. 83.33 84.06,False,True,,,printed on a 0-100 scale,yes
+H319,ST206,B,yes,coder-vs-coder,cohen_kappa,"81.13 (EN), 81.80 (ZH)",0.8113,complex,"pre-filter, 8,800 total",App B.5 Table 2 (p. 22),Overall Blame 81.13 81.80,False,False,,,printed on a 0-100 scale,yes
+H320,ST209,A,partial,coder-vs-coder,cohen_kappa,0.802,0.802,number,2000,"Methods, Data Collection and Cleaning",yielding a manually labeled dataset of 2000 posts in total (Cohen κ=0.802),True,True,,,,yes
+H321,ST210,A,yes,coder-vs-coder,cohen_kappa,0.845,0.845,number,120 overall (strong vs strong),"Table 3, p. 7",Strong vs. Strong 0.576 0.569 0.845,True,True,,,,yes
+H322,ST210,A,yes,coder-vs-coder,cohen_kappa,0.879,0.879,number,120 overall (weak vs weak),"Table 3, p. 7",Weak vs. Weak 0.748 0.765 0.879,True,True,,,,yes
+H323,ST210,A,yes,coder-vs-coder,cohen_kappa,0.959,0.959,number,120 overall (strong vs weak),"Table 3, p. 7",Strong vs. Weak 1.000 0.959 0.959,True,True,,,,yes
+H324,ST211,A,yes,coder-vs-coder,cohen_kappa,0.68 (average over 11 indicators; range 0.48-0.88),0.68,complex,228,"Table V, p.5",average human-human κ of 0.68,False,True,,,,yes
+H325,ST212,A,partial,coder-vs-coder,cohen_kappa,0.286,0.286,number,NR,Methods p.3; Discussion p.8,The initial entity kappa score is 0.286.,True,True,,,,yes
+H326,ST215,A,partial,multi-rater,fleiss_kappa,0.79,0.79,number,NR,Methods: Annotation Agreement,"the value of κ was found to be 0.79, suggesting substantial agreement between annotators",True,True,,,,yes
+H327,ST216,A,yes,multi-rater,cohen_kappa,0.82,0.82,number,1200,"Sec. III-B, p.4","strong inter-annotator agreement, with a Cohen’s kappa coefficient of κ = 0.82",True,True,,,,yes
+H328,ST217,A,yes,coder-vs-coder,krippendorff_alpha,0.66,0.66,number,43,Table 1,Krippendorff α | 0.66,True,True,,,,yes
+H329,ST217,A,yes,coder-vs-coder,gwet_ac1,0.87,0.87,number,43,Table 1,Gwet AC2 | 0.87,True,True,,,,yes
+H330,ST217,A,yes,coder-vs-coder,percent_agreement,0.29,0.29,number,43,Table 1,Percent agreement | 0.29,True,True,,,,yes
+H331,ST217,B,yes,coder-vs-coder,krippendorff_alpha,0.69,0.69,number,43,Table 1,Krippendorff α | 0.69,True,True,,,,yes
+H332,ST217,B,yes,coder-vs-coder,gwet_ac1,0.83,0.83,number,43,Table 1,Gwet AC2a | 0.83,True,True,,,,yes
+H333,ST217,B,yes,coder-vs-coder,percent_agreement,0.31,0.31,number,43,Table 1,Percent agreement | 0.31,True,True,,,,yes
+H334,ST219,A,yes,mean-pairwise,percent_agreement,72%,0.72,percent,25 instructions,"Sec 5.1, p.9",SMEs agreed with each other 72% in the mental health domain,True,True,,,,yes
+H335,ST219,B,yes,mean-pairwise,percent_agreement,75%,0.75,percent,25 instructions,"Sec 5.1, p.9",75% in the dietetics domain,True,True,,,,yes
+H336,ST220,A,yes,coder-vs-coder,cohen_kappa,0.9131,0.9131,number,2010 comparisons,"Table 2, p.14 (primary, text-only)",Primary 2010 1954 56 0.9131 Almost perfect,True,True,,,,yes
+H337,ST220,A,yes,coder-vs-coder,cohen_kappa,0.8284,0.8284,number,7370 comparisons,"Table 2, p.14 (secondary, text-only)",Secondary 7370 7242 128 0.8284 Almost perfect,True,True,,,,yes
+H338,ST220,A,yes,coder-vs-coder,cohen_kappa,0.6313,0.6313,number,"19,430 comparisons","Table 2, p.14 (tertiary, text-only)","Tertiary 19,430 19,179 251 0.6313 Substantial",True,True,,,,yes
+H339,ST221,A,yes,coder-vs-coder,cohen_kappa,"0.58-0.65, median 0.58",,complex,"21,580","Section 4, p. 11","Cohen's Kappa values ranging between 0.58 and 0.65, with a median at 0.58",False,True,,,"range, not a point value",no
+H340,ST221,A,yes,multi-rater,krippendorff_alpha,0.60,0.6,number,"21,580","Section 4, p. 11",a Krippendorff's α of 0.60,True,False,,,,yes
+H341,ST222,A,no,coder-vs-coder,cohen_kappa,stereotyping 0.35 (89% agreement); discrediting 0.81,,complex,NR,Methods: Ground Truth and Annotation,"stereotyping, a rarer and more context-dependent class, had κ of 0.35 with 89% percentage agreement",False,True,,,not a number,no
+H342,ST223,A,yes,mean-pairwise,fleiss_kappa,0.88,0.88,number,2400,"Table 1, Sec 5.2 (p.6)",Overall Average 0.87 0.90 0.87 0.88,True,True,,,,yes
+H343,ST226,A,yes,multi-rater,krippendorff_alpha,0.44,0.44,number,735 questions,Sec 4.1,"Krippendorff's alpha across all moral foundation dimensions, resulting in α = 0.44 based on 735 moral questions",True,True,,,,yes
+H344,ST226,A,yes,mean-pairwise,spearman,0.515 (average),0.515,complex,735 questions,Table 3,Human Avg 0.515,False,True,,,,yes
+H345,ST227,A,yes,coder-vs-coder,cohen_kappa,"R1-3 κ>0.64 (emp, comp); applic. κ<0.60; R4-5 vs R1-3 <0.10",,complex,NR,"Fig 6, p.7","substantial agreement for both empathy and comprehensiveness (κ > 0.64), and moderate agreement for applicability (κ < 0.60)",False,True,,,"bound, not a point value",no
+H346,ST229,A,yes,coder-vs-coder,cohen_kappa,"0.62 [0.61, 0.63]",0.62,complex,7854,"Methods, Strategy coding","The raters agreed substantially ... on the strategy codings at an unweighted Cohen’s κ = 0.62 [0.61, 0.63]",True,True,0.61,0.63,,yes
+H347,ST231,A,yes,multi-rater,fleiss_kappa,0.429,0.429,number,220,"Sec 2.2, App A.1","Fleiss' Kappa ... yielding a score of 0.429, indicating moderate agreement",True,True,,,,yes
+H348,ST233,A,yes,multi-rater,icc,0.975 therapist; 0.916/0.986/0.890 client,,complex,NR,"Table 2, p.3","Inter-annotator agreement as intraclass correlation (Wu et al., 2023)",False,False,,,several values in one cell,no
+H349,ST235,A,yes,coder-vs-coder,cohen_kappa,0.69 to 0.88,,complex,500,"Sec 3.1, p.4",the agreement scores ranged from 0.69 to 0.88 for strategies in our codebook,True,True,,,"range, not a point value",no
+H350,ST236,A,yes,coder-vs-coder,cohen_kappa,0.52,0.52,number,NR,"Sec 4.1, p.5",yielding 0.52 for ICF categories and 0.43 for sentiment,True,False,,,,yes
+H351,ST236,B,yes,coder-vs-coder,cohen_kappa,0.43,0.43,number,NR,"Sec 4.1, p.5",yielding 0.52 for ICF categories and 0.43 for sentiment,True,False,,,,yes
+H352,ST236,A,yes,coder-vs-coder,f1_micro,0.54,0.54,number,NR,"Sec 4.1, p.5","micro-averaged F1-score was also calculated for IAA, resulting in 0.54 for ICF categories",True,True,,,,yes
+H353,ST236,B,yes,coder-vs-coder,f1_micro,0.67,0.67,number,NR,"Sec 4.1, p.5",0.54 for ICF categories and 0.67 for sentiment,True,True,,,,yes
+H354,ST237,A,yes,coder-vs-coder,icc,0.92 [0.85;0.96],0.92,complex,40,Table 2,HumanRater2 | 0.92 [0.85;0.96],True,True,0.85,0.96,,yes
+H355,ST238,A,yes,multi-rater,icc,.793,0.793,number,120,"Results, Assessing consistency and agreement",The ICC between human evaluators across all 120 articles was .793,True,True,,,,yes
+H356,ST239,A,yes,multi-rater,krippendorff_alpha,α = .79,,complex,1610,"Results, Manual Coding Stage, p. 11","α = .79, Gwet's AC1 = 0.98",True,True,,,not a number,no
+H357,ST239,A,yes,multi-rater,gwet_ac1,0.98,0.98,number,1610,"Results, Manual Coding Stage, p. 11","α = .79, Gwet's AC1 = 0.98",True,True,,,,yes
+H358,ST239,B,partial,coder-vs-coder,krippendorff_alpha,α = .28,,complex,2000,"Comparing RAMP and Noniterative Methods, p. 13","lower reliability (α = .28, Gwet's AC1 = 0.95)",True,True,,,not a number,no
+H359,ST239,B,partial,coder-vs-coder,gwet_ac1,0.95,0.95,number,2000,"Comparing RAMP and Noniterative Methods, p. 13","lower reliability (α = .28, Gwet's AC1 = 0.95)",True,True,,,,yes
+H360,ST240,A,partial,coder-vs-coder,icc,0.78,0.78,number,150,"Sec 4 Data Collection, p5","jointly annotated 150 cases, achieving strong inter-rater reliability with an ICC of 0.78",True,True,,,,yes
+H361,ST240,A,partial,coder-vs-coder,cohen_kappa,> 0.85,,complex,remaining cases,"Sec 4 Data Collection, p5",maintaining high agreement (Cohen's κ > 0.85),True,True,,,"bound, not a point value",no
+H362,ST240,A,partial,coder-vs-coder,icc,0.87,0.87,number,50,"Sec 4 Data Collection, p5",random re-sampling of 50 cases confirmed the annotation quality with an ICC of 0.87,True,True,,,,yes
+H363,ST241,A,yes,multi-rater,icc,"ICC(3,4) = 0.897, 95% CI [0.843, 0.935]",,complex,54,"Results, RQ1, Agreement on QPR adherence","ICC(3, 4) = 0.897, 95% CI [0.843, 0.935]",False,True,,,not a number,no
+H364,ST242,A,yes,coder-vs-coder,cohen_kappa,0.89,0.89,number,150,"Sec 4.2.1, p.6",The Cohen's Kappa of the two annotators is 0.89,True,True,,,,yes
+H365,ST243,A,partial,coder-vs-coder,krippendorff_alpha,0.66,0.66,number,150,Table 1; Sec 4.1.1,agreement = 0.86; Krippendorff's α = 0.66,True,False,,,,yes
+H366,ST243,B,partial,coder-vs-coder,krippendorff_alpha,0.81,0.81,number,981,Table 1; Sec 4.1.2,Krippendorff's α = 0.81,True,False,,,,yes
+H367,ST243,C,partial,coder-vs-coder,icc,0.86,0.86,number,125,Table 1; Sec 4.1.3,excellent inter-rater reliability (ICC= 0.86),True,True,,,,yes
+H368,ST244,A,yes,multi-rater,fleiss_kappa,0.54,0.54,number,125,"Results, Clinical rater/LLM agreement","Exact agreement between clinical raters was 56.00% (Fleiss' Kappa = 0.54, moderate agreement).",True,True,,,,yes
+H369,ST245,A,partial,coder-vs-coder,cohen_kappa,85.51%,0.8551,percent,50,"Sec 3.2, p3",we randomly selected 50 samples for joint annotation. Once Cohen's Kappa reached 85.51%,True,True,,,,yes
+H370,ST247,A,yes,coder-vs-coder,gwet_ac1,0.972,0.972,number,"1,080 posts","Sec 2.2.1, p.10","Gwet's AC1 and Fleiss' Kappa scores on the 1,080 posts labeled by the two coders were 0.972",True,True,,,,yes
+H371,ST247,A,yes,coder-vs-coder,fleiss_kappa,0.851,0.851,number,"1,080 posts","Sec 2.2.1, p.10",0.972 (95% CI: 0.966 - 0.979) and 0.851 (95% CI: 0.817 - 0.886),True,True,,,,yes
+H372,ST247,B,partial,coder-vs-coder,gwet_ac1,0.625,0.625,number,"1,368 texts","Sec 2.2.2, p.10",Gwet's AC1 and Fleiss' Kappa between two coders' annotation were 0.625,True,True,,,,yes
+H373,ST247,B,partial,coder-vs-coder,fleiss_kappa,0.541,0.541,number,"1,368 texts","Sec 2.2.2, p.10",0.625 (95% CI: 0.583 - 0.667) and 0.541 (95% CI: 0.494 - 0.588),True,True,,,,yes
+H374,ST249,A,yes,coder-vs-coder,cohen_kappa,0.7983,0.7983,number,500,"Sec II.C, p3","The agreement for individual post labels (H1, H2, C) was 0.7983",True,False,,,,yes
+H375,ST249,A,yes,coder-vs-coder,cohen_kappa,0.8111,0.8111,number,500,"Sec II.C, p3",The agreement for contextualized labels that incorporate historical information (H1+H2+C) was 0.8111,True,True,,,,yes
+H376,ST250,A,partial,multi-rater,fleiss_kappa,0.71,0.71,number,NR,App C.1,"After consolidating these into coarse-grained categories for evaluation, the mean κ increases to 0.71.",True,True,,,,yes
+H377,ST250,B,partial,coder-vs-coder,other,0.82,0.82,number,95,App C.1,"independently annotate a shared subset of 95 posts, achieving a high inter-annotator agreement of 0.82",True,True,,,,yes
+H378,ST251,A,yes,multi-rater,icc,"ICC(2,1) .20-.26 (CCT, PAR, EMP, OVR); .03 SST",,complex,18 transcripts,Section 3.6; S5.5,"Expert single-rater reliability was low for CCT, PAR, EMP, and OVR (ICC(2,1) = .20–.26) and very low for SST (.03).",False,True,,,not a number,no
+H379,ST253,A,yes,coder-vs-coder,pearson,r=.76 internal; .86 external,,complex,20 participants,p. 8,correlation between human raters for internal details... r =.76,False,True,,,several values in one cell,no
+H380,ST253,B,yes,coder-vs-coder,pearson,r=.80 internal; .76 external,,complex,20 participants,p. 8,correlation between the two human raters was r =.80,False,True,,,several values in one cell,no
+H381,ST253,C,yes,coder-vs-coder,pearson,r=.78 internal; .73 external,,complex,20 participants,p. 9-10,two human raters had a correlation of r =.78,False,False,,,several values in one cell,no
+H382,ST253,D,yes,coder-vs-coder,pearson,r=.84 internal; .80 external,,complex,99 participants,p. 11-12,"correlation between human raters was strong, r =.84",False,True,,,several values in one cell,no
+H383,ST253,E,yes,coder-vs-coder,pearson,r=.78 internal; .83 external,,complex,99 participants,p. 12,two human raters showed a correlation of r =.78,False,True,,,several values in one cell,no
+H384,ST253,F,yes,coder-vs-coder,pearson,r=.81 internal; .76 external,,complex,99 participants,p. 12,human raters showed a correlation of r =.81,False,True,,,several values in one cell,no
+H385,ST255,A,yes,coder-vs-coder,cohen_kappa,0.91,0.91,number,5072,"Section 3, p. 5",coded independently by two survey researchers (Cohen's kappa = 0.91,True,True,,,,yes
+H386,ST256,B,partial,multi-rater,kendall,W = 0.626,0.626,complex,30,"Methods, Expert Ratings","their ratings demonstrated high consistency, with Kendall's W = 0.626 (p < 0.010)",True,True,,,,no
+H387,ST256,A,partial,multi-rater,kendall,W = 0.626,0.626,complex,30,"Results, Dictionary Validity","yielded substantial agreement (Kendall's W = 0.626, p < 0.010)",True,True,,,,yes
+H388,ST257,A,yes,multi-rater,icc,"ICC .84 to 1.0 per item, median .93",,complex,NR,"Measures, p. 11-12","Interrater reliability for the 10 items ranged from ICC = .84 ... to ICC = 1.0 ..., with a median of ICC = .93.",False,True,,,not a number,no
+H389,ST258,A,no,multi-rater,fleiss_kappa,0.47,0.47,number,7 transcripts,Data collection,Fleiss’ kappa scores on this subset were 0.74 for therapist behavior and 0.47 for client talk type,True,True,,,,yes
+H390,ST259,A,yes,mean-pairwise,percent_agreement,43% (57% different ratings),0.43,complex,75,Appendix 7.2,"Just over half (57%) the time (across all dimensions), clinicians actually gave the same conversation different ratings",False,True,,,,yes
+H391,ST259,A,yes,mean-pairwise,percent_agreement,48%,0.48,percent,75,Appendix 7.2,detected risk (48% match rate),True,True,,,,yes
+H392,ST259,A,yes,mean-pairwise,percent_agreement,36%,0.36,percent,75,Appendix 7.2,took appropriate actions in response to risk (36% match rate),True,True,,,,yes
+H393,ST261,A,partial,coder-vs-coder,cohen_kappa,consistently exceeding .80 (agreement 94%-99%),,complex,847 (30% of responses),"Study 1, Human Coding Procedure","inter-rater agreement for the different scenarios ranged from 94% to 99%, with Cohen's Kappa values consistently exceeding the .80 threshold",False,True,,,not a number,no
+H394,ST261,B,yes,coder-vs-coder,cohen_kappa,exceeding .83 (agreement 93.33%-98.30%),,complex,2090,"Study 2, Human Coding Procedure","ranged from 93.33% to 98.30%, with Cohen's Kappas consistently exceeding .83",False,True,,,not a number,no
+H395,ST263,A,yes,multi-rater,icc,"ICC(3,6) = .934",,complex,876,p.10,"Inter-rater reliability was excellent, ICC(3,6) = .934",True,True,,,not a number,no
+H396,ST263,B,yes,multi-rater,icc,"ICC(2,4) = .791",,complex,"5,703 (incl. 1,668 top-3)",p.10,"Inter-rater reliability for the total set of valid achievements was acceptable, ICC(2,4) = .791",True,True,,,not a number,no
+H397,ST264,A,partial,coder-vs-coder,cohen_kappa,0.71,0.71,number,"4,200 messages","Sec 3.1.2, p.7","We achieved Cohen's κ of 0.71 across all 4,200 messages",True,False,,,,yes
+H398,ST264,B,yes,coder-vs-coder,cohen_kappa,0.78,0.78,number,200 entities,"Sec 3.2.2, p.8","after a total of 200 entities had been examined, achieving a Cohen's κ of 0.78",True,False,,,,yes
+H399,ST265,A,yes,coder-vs-coder,cohen_kappa,0.457-0.802 (pairwise),,complex,200,"Table 4, p.14",Expert 3 vs Expert 4 0.802; Expert 1 vs Expert 3 0.457,False,False,,,"range, not a point value",no
+H400,ST265,B,yes,coder-vs-coder,cohen_kappa,0.330-0.738 (pairwise),,complex,200,"Table 4, p.14",Expert 3 vs Expert 4 0.738; Expert 1 vs Expert 2 0.330,False,False,,,"range, not a point value",no
+H401,ST266,A,partial,coder-vs-coder,icc,0.99,0.99,number,10% of sample (~5),Methods: PTSD measurements,0.99 for CAPS-5 PTSD severity,True,True,,,,yes
+H402,ST266,B,partial,coder-vs-coder,icc,0.92,0.92,number,10% of sample (~5),Methods: PTSD measurements,0.92 for ITI PTSD severity,True,True,,,,yes
+H403,ST266,C,partial,coder-vs-coder,icc,0.91,0.91,number,10% of sample (~5),Methods: PTSD measurements,0.91 for ITI DSO severity,True,True,,,,yes
+H404,ST271,A,yes,coder-vs-coder,cohen_kappa,0.92,0.92,number,300 notes,Sec 3.2,"coarse-grained annotation, the inter-annotator agreement (IAA) Cohen's Kappa scores were 0.92 [MSHS]",True,True,,,,yes
+H405,ST271,A,yes,coder-vs-coder,cohen_kappa,0.77,0.77,number,300 notes,Sec 3.2,"for fine-grained, 0.77 [MSHS]",True,True,,,,yes
+H406,ST271,B,yes,coder-vs-coder,cohen_kappa,0.86,0.86,number,225 notes,Sec 3.2,0.86 [WCM],True,True,,,,yes
+H407,ST271,B,yes,coder-vs-coder,cohen_kappa,0.81,0.81,number,225 notes,Sec 3.2,0.81 [WCM],True,True,,,,yes
+H408,ST272,A,yes,coder-vs-coder,kendall,0.1178-0.3854 (P2-P4 0.1178; P1-P3 0.3854),,complex,60 interactions,Figure 3; Table 17,values below the diagonal are Kendall-τ between annotators of the scores for every interaction,False,True,,,"range, not a point value",no
+H409,ST272,A,yes,coder-vs-coder,other,MIPSA 0.5303-0.7623 (P2-P3 0.5303; P1-P3 0.7623),,complex,60 interactions,Figure 3; Table 17,above the diagonal are mean interaction-level pairwise system accuracy (MIPSA),False,True,,,not a number,no
+H410,ST274,A,yes,coder-vs-coder,cohen_kappa,0.96,0.96,number,6597,"Study 1 Results, Table 1",The two research assistants showed near-perfect consistency with each other (κ = 0.96),True,False,,,,yes
+H411,ST275,A,partial,multi-rater,fleiss_kappa,0.82,0.82,number,20% random sample of data,Sec 4.1,"we calculated Fleiss' κ, achieving a score of 0.82",True,True,,,,yes
+H412,ST275,B,partial,multi-rater,krippendorff_alpha,0.78,0.78,number,20% random sample of data,Sec 4.1,"we computed Krippendorff's α, resulting in a value of 0.78",True,True,,,,yes
+H413,ST276,A,yes,mean-pairwise,cohen_kappa,0.69,0.69,number,1112,"Sec IV-C, p.6",average Cohen's Kappa of 0.69 for all iterations involving the dataset annotation,True,True,,,,yes
+H414,ST278,A,partial,coder-vs-coder,accuracy,80,0.8,number,10,Table 1; Sec 4,a speech therapist ... manually re-assessed ten samples per language,True,True,,,printed on a 0-100 scale,yes
+H415,ST278,B,partial,coder-vs-coder,accuracy,70,0.7,number,10,Table 1; Sec 4,a speech therapist ... manually re-assessed ten samples per language,True,True,,,printed on a 0-100 scale,yes
+H416,ST278,C,partial,coder-vs-coder,weighted_kappa_linear,0.25,0.25,number,10,Table 1,Human 0.25,True,False,,,,yes
+H417,ST278,D,partial,coder-vs-coder,weighted_kappa_linear,0.50,0.5,number,10,Table 1,Human 0.50,True,True,,,,yes
+H418,ST281,A,partial,coder-vs-coder,weighted_kappa,0.85,0.85,number,50,Section 2.4,"weighted Cohen's Kappa for the 7-point scale, yielding a value of 0.85",True,True,,,,yes
+H419,ST281,A,partial,coder-vs-coder,pearson,0.96,0.96,number,50,Section 2.4,"The correlation among the scores of the two raters was also very high, r = 0.96",True,True,,,,yes
+H420,ST282,A,yes,multi-rater,other,SHCMP >60% for n=2 bins,,complex,NR,"Sec 2.4, Figure 3",the SHCMP scores are high (greater than 60% for n = 2),False,True,,,"bound, not a point value",no
+H421,ST284,A,partial,multi-rater,fleiss_kappa,0.79,0.79,number,454,R9978 Fig B.2,(a) T1 Counsellor Fleiss' κ = 0.79,True,True,,,,yes
+H422,ST284,B,partial,multi-rater,fleiss_kappa,0.70,0.7,number,454,R9978 Fig B.2,(c) T2 Counsellor Fleiss' κ = 0.70,True,True,,,,yes
+H423,ST284,C,partial,multi-rater,fleiss_kappa,0.74,0.74,number,454,R9978 Fig B.2,(b) T1 Client Fleiss' κ = 0.74,True,True,,,,yes
+H424,ST284,D,partial,multi-rater,fleiss_kappa,0.60,0.6,number,454,R9978 Fig B.2,(d) T2 Client Fleiss' κ = 0.60,True,True,,,,yes
+H425,ST284,F,yes,multi-rater,fleiss_kappa,0.47,0.47,number,1924,"R9978 App E, Fig E.1",T2 counsellor codes (κ = 0.47),True,True,,,,yes
+H426,ST284,G,yes,multi-rater,fleiss_kappa,0.68,0.68,number,580,R9055 Sec 4.3,overall Fleiss' κ was 0.68 for counsellor codes,True,True,,,,yes
+H427,ST284,H,yes,multi-rater,fleiss_kappa,0.67,0.67,number,241,R9055 Sec 4.3,0.67 for client codes,True,True,,,,yes
+H428,ST285,A,yes,coder-vs-coder,cohen_kappa,0.74,0.74,number,20,Section 4.3,The final IRR between the two researchers resulted in a Cohen's Kappa of 0.74.,True,True,,,,yes
+H429,ST287,A,yes,coder-vs-coder,cohen_kappa,0.58,0.58,number,100,Table 4; Section 4.1,Cohen's Kappa result of κ = 0.58 between the EHRs,True,True,,,,yes
+H430,ST287,A,yes,coder-vs-coder,percent_agreement,0.79,0.79,number,100,Table 4,EHR 2 0.75 0.79 0.50 0.58,True,True,,,,yes
+H431,ST287,B,yes,coder-vs-coder,cohen_kappa,0.60,0.6,number,60,Table 4,EHR 2 0.72 0.80 0.43 0.60,True,True,,,,yes
+H432,ST287,B,yes,coder-vs-coder,percent_agreement,0.80,0.8,number,60,Table 4,EHR 2 0.72 0.80 0.43 0.60,True,True,,,,yes
+H433,ST287,C,yes,coder-vs-coder,cohen_kappa,0.85,0.85,number,60,Table 4,EHR 2 0.98 0.93 0.96 0.85,True,True,,,,yes
+H434,ST287,C,yes,coder-vs-coder,percent_agreement,0.93,0.93,number,60,Table 4,EHR 2 0.98 0.93 0.96 0.85,True,True,,,,yes
+H435,ST289,A,yes,multi-rater,krippendorff_alpha,0.91/0.67/0.63/0.76 (low-vhigh); sum -0.02,,complex,100,Table 2,Human reliability | 0.91 ... | 0.67 ... | 0.63 ... | 0.76 ... | −0.02,False,True,,,several values in one cell,no
+H436,ST289,B,yes,multi-rater,krippendorff_alpha,voices 1.00; hopelessness 0.62; withdrawal 0.92,,complex,100,Item specific analysis,hearing voices ... (human α = 1.00 ... hopelessness ... human α = 0.62,False,True,,,not a number,no
+H437,ST293,A,yes,multi-rater,fleiss_kappa,0.46,0.46,number,200,"Methods, Measurement of Mistrust",The interrater‐reliability of the human evaluators was moderate (Fleiss' kappa: 0.46),True,True,,,,yes
+H438,ST294,A,yes,coder-vs-coder,cohen_kappa,0.962,0.962,number,5292,"Method, Classification using LLMs",inter-rater reliability was calculated using Cohen's κ = 0.962,True,True,,,,yes
+H439,ST296,A,yes,multi-rater,fleiss_kappa,0.59 (0.586),0.59,complex,200,Results p. 8; Table 1,inter-annotator agreement (κ) ranged from 0.49 to 0.71 with an overall κ of 0.59,False,True,,,,yes
+H440,ST296,B,yes,multi-rater,fleiss_kappa,0.52 (0.524),0.52,complex,200,Results p. 8; Table 1,inter-annotator κ values ranged from 0.33 to 0.67 with an overall κ of 0.52,False,True,,,,yes
+H441,ST298,A,yes,multi-rater,icc,.85 (students); .84 (working adults),,complex,15 questions,p.15,the ICC for the average ratings across the three raters was .85 for the student sample,False,True,,,several values in one cell,no
+H442,ST300,A,yes,coder-vs-coder,pearson,OPE 0.31,,complex,16 samples,Table 7,Inter-rater agreement (Pearson's correlation coefficient) of human ratings,False,False,,,not a number,no
+H443,ST300,A,yes,coder-vs-coder,pearson,CON 0.69,,complex,16 samples,Table 7,Inter-rater agreement (Pearson's correlation coefficient) of human ratings,False,False,,,not a number,no
+H444,ST300,A,yes,coder-vs-coder,pearson,EXT 0.73,,complex,16 samples,Table 7,Inter-rater agreement (Pearson's correlation coefficient) of human ratings,False,False,,,not a number,no
+H445,ST300,A,yes,coder-vs-coder,pearson,AGR 0.59,,complex,16 samples,Table 7,Inter-rater agreement (Pearson's correlation coefficient) of human ratings,False,False,,,not a number,no
+H446,ST300,A,yes,coder-vs-coder,pearson,NEU 0.45,,complex,16 samples,Table 7,Inter-rater agreement (Pearson's correlation coefficient) of human ratings,False,False,,,not a number,no
+H447,ST301,A,no,coder-vs-coder,cohen_kappa,> 0.7,,complex,NR,Sec 3.1,coders achieved inter-rater reliability (Cohen's Kappa > 0.7) with the lead coder,True,True,,,"bound, not a point value",no
+H448,ST302,A,partial,coder-vs-coder,cohen_kappa,0.697,0.697,number,100 samples subset,Sec 2; Sec 5.1; App A.5.3,"Cohen's Kappa is 0.697, the MCC is 0.7078, and the F1 Score is 0.8024",True,False,,,,yes
+H449,ST304,A,yes,multi-rater,fleiss_kappa,0.57,0.57,number,NR,"Sec. III-C, p.5",we achieve an emotion Fleiss kappa score of 0.57,True,True,,,,yes
+H450,ST304,B,yes,multi-rater,fleiss_kappa,0.69,0.69,number,NR,"Sec. III-C, p.5",we achieve a strategy Fleiss kappa score of 0.69,True,True,,,,yes
+H451,ST308,A,yes,multi-rater,icc,0.6888 (overall),0.6888,complex,79 sessions,"Table 4, p.19; Sec 4.2 p.5","we adopt the ICC(2, k) form with two-way random effects, absolute agreement, and multiple raters",False,True,,,,yes
+H452,ST309,A,no,coder-vs-coder,cohen_kappa,0.5119,0.5119,number,150 posts,Table 2; Sec 2.2.4,RE Kappa 0.5119,True,True,,,,yes
+H453,ST309,B,no,coder-vs-coder,f1,0.8452,0.8452,number,150 posts,Table 2; Sec 2.2.4,RR F1 0.8452,True,True,,,,yes
+H454,ST310,A,yes,multi-rater,fleiss_kappa,0.4779,0.4779,number,286,"Sec 3.4.2, footnote 5","0.4779 for E/I, 0.4686 for S/N, 0.5517 for T/F, 0.4622 for J/P.",True,True,,,,yes
+H455,ST311,D,yes,multi-rater,fleiss_kappa,0.91 (HurricaneEmo avg),0.91,complex,160,"Table 2.1, p.15",HurricaneEmo 0.92 0.89 0.92 0.91,False,True,,,,yes
+H456,ST313,A,partial,multi-rater,other,"0.95 (kappa, 3 annotators)",0.95,complex,500,"Methods, Annotation",The κ agreement of the 3 annotators was 0.95,False,True,,,,yes
+H457,ST314,B,yes,multi-rater,percent_agreement,approximately 82%,,complex,TP events,Sec 4.6,occurring in approximately 82% of the dataset’s turning point events,True,True,,,not a number,no
+H458,ST315,A,yes,multi-rater,fleiss_kappa,0.83,0.83,number,NR,"Sec 4.1, Cognitive Distortion Annotation (p.5)","a Fleiss-Kappa score of 0.83 was calculated, indicating a high level of agreement",True,False,,,,yes
+H459,ST322,A,yes,coder-vs-coder,pearson,0.88,0.88,number,NR,"Methods, Manual sentiment analysis",average sentiment scores for first compared to second raters in both Study 1 (Pearson R = 0.88,True,True,,,,yes
+H460,ST322,B,yes,coder-vs-coder,pearson,0.91,0.91,number,NR,"Methods, Manual sentiment analysis","Study 2 (R = 0.91, P < 0.001",True,True,,,,yes
+H461,ST325,A,no,coder-vs-coder,cohen_kappa,.84,0.84,number,NR,Sec 3,achieving an inter-rater reliability (IRR) of Cohen's K = .84,True,True,,,,yes
+H462,ST328,A,yes,multi-rater,icc,".98 (ICC(2,k))",0.98,complex,876,"p.9, Table 1",Only ratings of social desirability (.98) surpassed this expectation,False,True,,,,yes
+H463,ST328,B,yes,multi-rater,icc,"OB .78; IP .75; BR .73; ST .79; AB .57 (ICC(2,k))",,complex,876,"p.9, Table 1","observability (.78), importance (.75), base rate (.73) and stability (.79) just missed it",False,True,,,not a number,no
+H464,ST329,A,yes,coder-vs-coder,cohen_kappa,0.60 / 0.59 / 0.35,,complex,100,Table 5,Annotator vs. Annotator (real data) 0.60 0.59 0.35,False,True,,,several values in one cell,no
+H465,ST329,B,yes,coder-vs-coder,cohen_kappa,0.77 / 0.71 / 0.68,,complex,100,Table 5,Annotator vs. Annotator (synthetic data) 0.77 0.71 0.68,False,True,,,several values in one cell,no
+H466,ST331,A,partial,multi-rater,pearson,range .83 to .98 per story (total scores),,complex,~15% of responses,"p. 8368, Manual scoring","when considering total scores, Pearson correlations ranged between .83 and .98 per story",False,True,,,not a number,no
+H467,ST333,A,yes,coder-vs-consensus,f1_weighted,49.1%,0.491,percent,146,Sec 3.2,"weighted F-1 score of 49.1%, 77.7%, and 54.6% for CBT-CD, CBT-PC, and CBT-FC",True,False,,,,yes
+H468,ST333,B,yes,coder-vs-consensus,f1_weighted,77.7%,0.777,percent,184,Sec 3.2,"weighted F-1 score of 49.1%, 77.7%, and 54.6% for CBT-CD, CBT-PC, and CBT-FC",True,False,,,,yes
+H469,ST333,C,yes,coder-vs-consensus,f1_weighted,54.6%,0.546,percent,112,Sec 3.2,"weighted F-1 score of 49.1%, 77.7%, and 54.6% for CBT-CD, CBT-PC, and CBT-FC",True,False,,,,yes
+H470,ST334,B,yes,multi-rater,krippendorff_alpha,α = .63,,complex,"1,200",Table 1,PTSD ... (1) α = .63,True,True,,,not a number,no
+H471,ST334,B,partial,coder-vs-consensus,f1,F1 = .77,,complex,200,Table 1,(2) F1 = .77,True,True,,,not a number,no
+H472,ST334,C,yes,multi-rater,krippendorff_alpha,α = .69,,complex,"1,200",Table 1,Counseling ... (1) α = .69,True,True,,,not a number,no
+H473,ST334,C,partial,coder-vs-consensus,f1,F1 = .95,,complex,200,Table 1,(2) F1 = .95,True,True,,,not a number,no
+H474,ST334,B,partial,coder-vs-coder,cohen_kappa,κ = .82,,complex,200 per dataset,Sec 3.2 Annotation Process,annotated a subset of 200 instances from each dataset ... (Cohen's κ = .82),True,True,,,not a number,no
+H475,ST335,B,yes,mean-pairwise,pearson,0.422 (empathy),0.422,complex,300,Table 7,Agreement scores for Urdu annotators on the Roman Urdu dataset.,False,True,,,,yes
+H476,ST335,B,yes,mean-pairwise,krippendorff_alpha,0.392 (empathy),0.392,complex,300,Table 7,KA 0.214 0.316 0.392 0.392,False,True,,,,yes
+H477,ST337,A,yes,coder-vs-coder,icc,0.85,0.85,number,NR,Section 1.2,"intra-class coefficients were 0.85, 0.97 and 0.94 for coherence, content and tangentiality",True,True,,,,yes
+H478,ST337,A,yes,coder-vs-coder,icc,0.97,0.97,number,NR,Section 1.2,"intra-class coefficients were 0.85, 0.97 and 0.94 for coherence, content and tangentiality",True,True,,,,yes
+H479,ST337,A,yes,coder-vs-coder,icc,0.94,0.94,number,NR,Section 1.2,"intra-class coefficients were 0.85, 0.97 and 0.94 for coherence, content and tangentiality",True,True,,,,yes
+H480,ST339,A,yes,mean-pairwise,pearson,0.513 (0.028),0.513,complex,367 segments,"Table 1, Sect. 5.1",computed r for each rater by comparing their ratings with those assigned by other raters,True,True,,,,yes
+H481,ST341,A,yes,coder-vs-coder,percent_agreement,77%,0.77,percent,443 pairs,"p.5, Results",a 77% (E1-E2) inter-rater concordance ratio,True,True,,,,yes
+H482,ST349,A,yes,coder-vs-coder,cohen_kappa,0.79,0.79,number,347,p. 4,0.79 for Limits,True,True,,,,yes
+H483,ST349,B,yes,coder-vs-coder,cohen_kappa,0.79,0.79,number,347,p. 4,0.79 for change,True,True,,,,yes
+H484,ST349,C,yes,coder-vs-coder,cohen_kappa,0.62,0.62,number,347,p. 4,0.62 for Perspective,True,False,,,,yes
+H485,ST349,D,yes,coder-vs-coder,cohen_kappa,0.76,0.76,number,347,p. 4,0.76 for Compromise,True,True,,,,yes
+H486,ST349,E,yes,coder-vs-coder,cohen_kappa,0.73,0.73,number,347,p. 4,0.73 for Resolution,True,True,,,,yes
+H487,ST355,A,yes,mean-pairwise,cohen_kappa,0.32,0.32,number,"1,509","Sec 3, p3",Cohen's kappa between annotators was 0.32,True,True,,,,yes
+H488,ST355,B,yes,mean-pairwise,cohen_kappa,0.38,0.38,number,NR,"Sec 6, p5",inner-annotator agreement (0.38 Cohen's kappa coefficient) observed in the Facebook posts,True,True,,,,yes
+H489,ST362,A,no,multi-rater,percent_agreement,95%,0.95,percent,small batches (30 instances),"Sec 2.2, p.3",After the inter-annotator agreement score reaches 95% in assessing the small batches,True,True,,,,yes
+H490,ST363,A,yes,coder-vs-coder,krippendorff_alpha,0.7834,0.7834,number,283 therapist + 91 client utterances,"Methods, Annotations (p.19)","annotated 283 therapist utterances and 91 client utterances (inter-rater agreement, krippendorff’s alpha = 0.7834)",True,True,,,,yes
+H491,ST366,A,yes,multi-rater,icc,ICCs = .71 - .96,,complex,"all responses per dataset (3,243)","Results p. 15, Table 1",Originality ICCs = .71 - .96,True,True,,,"range, not a point value",no
+H492,ST366,B,yes,multi-rater,icc,ICCs = .76 - .88,,complex,"all responses per dataset (3,243)","Results p. 15, Table 1",Quality ICCs = .76 - .88,True,True,,,"range, not a point value",no
+H493,ST367,A,partial,multi-rater,fleiss_kappa,0.412,0.412,number,about 17,"Sec 3, Annotation Quality","About 17 examples were annotated by both independently, and on this subset the Fleiss Kappa (1971) value is 0.412",True,False,,,,yes
+H494,ST371,A,yes,coder-vs-coder,cohen_kappa,0.88,0.88,number,668,Sec 4,Question complexity: Cohen's κ = 0.88,True,False,,,,yes
+H495,ST371,B,yes,coder-vs-coder,cohen_kappa,0.90,0.9,number,668,Sec 4,Syntactic Structure: Cohen's κ = 0.90,True,False,,,,no
+H496,ST372,A,yes,multi-rater,fleiss_kappa,.25 - .53,,complex,"2,000","Table 3, p.15",Feedback data ... Fleiss' Kappa (min – max) .25 - .53,True,False,,,"range, not a point value",no
+H497,ST372,B,no,multi-rater,fleiss_kappa,.18 - .45,,complex,NR,"Table 3, p.15",Election data ... .18 - .45,True,True,,,"range, not a point value",no
+H498,ST372,C,no,multi-rater,fleiss_kappa,.27 - .53,,complex,NR,"Table 3, p.15",Reddit data ... .27 - .53,True,True,,,"range, not a point value",no
+H499,ST372,D,no,multi-rater,fleiss_kappa,.55,0.55,number,NR,"Table 3, p.15",Hate speech data ... .55,True,True,,,,yes
+H500,ST376,A,yes,multi-rater,krippendorff_alpha,NR (threshold 0.7 used to discard),,complex,1000 statements,Sec 3.2 (p.4),"For the controversial ratings which have low agreements (less than 0.7), we discard this statement and introduce another one.",False,False,,,not a number,no
+H501,ST379,A,yes,multi-rater,krippendorff_alpha,0.79 (95% CI 0.73;0.84),,complex,NR,Results p.4,Krippendorff's α nominal: 0.79 (95% CI 0.73;0.84),True,True,,,several values in one cell,no
+H502,ST379,A,yes,multi-rater,gwet_ac1,0.80 (95% CI 0.75;0.84),,complex,NR,Results p.4,Gwet's AC1: 0.80 (95% CI 0.75;0.84),True,True,,,several values in one cell,no
+H503,ST379,A,yes,multi-rater,krippendorff_alpha,0.60 (95% CI 0.57;0.64),,complex,NR,Results p.4 (turn-level),turn-level (Krippendorff's α nominal: 0.60 (95% CI 0.57;0.64),True,True,,,several values in one cell,no
+H504,ST379,A,yes,multi-rater,gwet_ac1,0.88 (95% CI 0.87;0.89),,complex,NR,Results p.4 (turn-level),Gwet's AC1: 0.88 (95% CI 0.87;0.89),True,True,,,several values in one cell,no

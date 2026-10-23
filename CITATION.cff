@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Agreement between large language models and human coders on psychological and clinical text: data and code"
+type: dataset
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Rekhert
+    given-names: Martin
+    orcid: "https://orcid.org/0009-0001-2402-2031"
+    affiliation: "Higher School of Psychology, Turan University, Almaty, Kazakhstan"
+repository-code: "https://github.com/neabevz-hash/llm-coder-agreement-meta-analysis"
+keywords:
+  - large language models
+  - inter-rater reliability
+  - clinical text
+  - qualitative coding
+  - meta-analysis
+  - psychological assessment
+preferred-citation:
+  type: article
+  title: "Agreement between large language models and human coders on psychological and clinical text: A systematic review and multilevel meta-analysis"
+  authors:
+    - family-names: Rekhert
+      given-names: Martin
+      orcid: "https://orcid.org/0009-0001-2402-2031"
+  year: 2026
+  notes: "Manuscript submitted for publication. Preprint: forthcoming"

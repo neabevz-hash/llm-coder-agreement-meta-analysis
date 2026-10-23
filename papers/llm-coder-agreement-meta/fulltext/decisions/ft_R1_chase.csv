@@ -1,0 +1,18 @@
+﻿rec_id,k,file,code,decision,reason,note,ai_code
+R20001,1,ft_R1_chase_01.md,=+,eligible,,автор согласен с ИИ,+
+R20009,2,ft_R1_chase_01.md,=+,eligible,,автор согласен с ИИ,+
+R20013,3,ft_R1_chase_01.md,+,eligible,,"T1 решение Claude по поручению автора: те же датасеты (IEMOCAP, MELD, EmoryNLP) с метками людей включены в ST010 и ST345",?
+R20016,4,ft_R1_chase_01.md,=-2,not_eligible,E5_no_generative_llm,автор согласен с ИИ,-2
+R20031,5,ft_R1_chase_01.md,=+,eligible,,автор согласен с ИИ,+
+R20055,6,ft_R1_chase_01.md,=-4,not_eligible,E2_external_criterion,автор согласен с ИИ,-4
+R20058,7,ft_R1_chase_01.md,=-3,not_eligible,E1_humans_rate_llm,автор согласен с ИИ,-3
+R20059,8,ft_R1_chase_01.md,=-3,not_eligible,E1_humans_rate_llm,автор согласен с ИИ,-3
+R20061,9,ft_R1_chase_01.md,=-4,not_eligible,E2_external_criterion,автор согласен с ИИ,-4
+R20063,10,ft_R1_chase_01.md,=+,eligible,,автор согласен с ИИ,+
+R20082,11,ft_R1_chase_01.md,=-7,not_eligible,no_human_coding,автор согласен с ИИ,-7
+R20145,12,ft_R1_chase_01.md,=-4,not_eligible,E2_external_criterion,автор согласен с ИИ,-4
+R20159,13,ft_R1_chase_01.md,=-5,not_eligible,E3_not_psychological,автор согласен с ИИ,-5
+R20173,14,ft_R1_chase_01.md,=+,eligible,,автор согласен с ИИ,+
+R20178,15,ft_R1_chase_01.md,=-7,not_eligible,no_human_coding,автор согласен с ИИ,-7
+R20181,16,ft_R1_chase_01.md,=-5,not_eligible,E3_not_psychological,автор согласен с ИИ,-5
+R20203,17,ft_R1_chase_01.md,=+,eligible,,автор согласен с ИИ,+

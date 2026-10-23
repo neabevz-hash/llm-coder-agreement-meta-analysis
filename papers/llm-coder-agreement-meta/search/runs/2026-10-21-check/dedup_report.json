@@ -1,0 +1,38 @@
+{
+  "records_per_source": {
+    "pubmed": 977,
+    "europepmc": 1095,
+    "openalex": 8756,
+    "s2": 5444,
+    "arxiv": 2689
+  },
+  "records_total": 18961,
+  "unique_records": 9566,
+  "duplicates_removed": 9395,
+  "pointer_or_component_records_attached": 21,
+  "auto_removed_non_study_records": 290,
+  "auto_removed_no_search_term_match": 4829,
+  "auto_removed_by_types": {
+    "openalex:dataset": 189,
+    "openalex:software": 51,
+    "openalex:peer-review": 31,
+    "openalex:supplementary-materials": 9,
+    "openalex:reference-entry": 4,
+    "openalex:paratext": 2,
+    "openalex:erratum": 2,
+    "openalex:software-paper": 1,
+    "pubmed:Journal Article;Dataset;Research Support, Non-U.S. Gov't": 1
+  },
+  "records_to_screen": 4447,
+  "unique_only_via_instrument_citations": 0,
+  "unique_only_via_pointer_sources": 0,
+  "component_only_records_to_screen": 2,
+  "flagged_possible_duplicates": 731,
+  "unique_by_n_sources": {
+    "1": 4378,
+    "2": 2336,
+    "3": 2094,
+    "4": 726,
+    "5": 32
+  }
+}

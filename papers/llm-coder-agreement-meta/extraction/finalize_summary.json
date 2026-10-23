@@ -1,0 +1,97 @@
+{
+  "studies_coded": 379,
+  "studies_missing": [],
+  "tasks": 765,
+  "task_types": {
+    "T4": 150,
+    "T1": 418,
+    "T3": 126,
+    "T2": 71
+  },
+  "estimates_listed": 3421,
+  "estimates_included": 2986,
+  "estimates_added": 301,
+  "excluded_reasons": {
+    "per-domain value; overall listed": 14,
+    "per-metric value; overall average listed": 12,
+    "R2 regression fit, not agreement statistic": 10,
+    "R2 on label proportions, not agreement statistic": 10,
+    "per-class value; overall listed": 9,
+    "closed-source judge result reused from R0807": 8,
+    "confusion matrix, not an agreement statistic": 8,
+    "confusion matrix counts, not an agreement statistic": 8,
+    "per-dimension value; overall macro F1 listed": 8,
+    "balanced accuracy, precision and recall composites; balanced accuracy is not extracted (D7) (R1 50)": 8
+  },
+  "studies_with_kappa_family": 111,
+  "studies_with_icc_or_correlation": 99,
+  "studies_with_descriptive_only": 166,
+  "statistics_included": {
+    "accuracy": 559,
+    "f1_macro": 429,
+    "cohen_kappa": 352,
+    "f1": 337,
+    "icc": 264,
+    "pearson": 219,
+    "spearman": 165,
+    "weighted_kappa_quadratic": 110,
+    "f1_weighted": 105,
+    "percent_agreement": 95,
+    "krippendorff_alpha": 60,
+    "f1_micro": 36,
+    "any_match_agreement": 35,
+    "gwet_ac1": 34,
+    "other": 30,
+    "adjacent_agreement": 29,
+    "weighted_kappa": 29,
+    "mae": 23,
+    "ccc": 18,
+    "kendall": 17,
+    "fleiss_kappa": 16,
+    "recall": 8,
+    "precision": 7,
+    "weighted_kappa_linear": 4,
+    "f1_class": 3,
+    "rmse": 2
+  },
+  "value_in_text_included": "2949 of 2986",
+  "studies_excluded_r1": [
+    "ST314",
+    "ST366"
+  ],
+  "outcomes": {
+    "not pooled": 137,
+    "primary": 605,
+    "descriptive": 1561,
+    "secondary": 683
+  },
+  "human_reliability_values": 504,
+  "studies_with_human_reliability": 227,
+  "rob": {
+    "rob_1": {
+      "unclear": 81,
+      "low": 266,
+      "high": 32
+    },
+    "rob_2": {
+      "high": 45,
+      "low": 166,
+      "unclear": 168
+    },
+    "rob_3": {
+      "high": 116,
+      "low": 112,
+      "unclear": 151
+    },
+    "rob_4": {
+      "low": 216,
+      "high": 125,
+      "unclear": 38
+    },
+    "rob_5": {
+      "high": 73,
+      "low": 59,
+      "unclear": 247
+    }
+  }
+}

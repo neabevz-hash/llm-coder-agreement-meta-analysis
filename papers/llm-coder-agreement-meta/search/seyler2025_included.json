@@ -1,0 +1,282 @@
+[
+ {
+  "n": 15,
+  "ref": "Qiao, S., Fang, X., Garrett, C., Zhang, R., Li, X., & Kang, Y. (2024). Generative AI for qualitative analysis in a maternal health study: Coding in-depth interv",
+  "doi": "10.1101/2024.09.16.24313707",
+  "cr_title": "Generative AI for Thematic Analysis in a Maternal Health Study: Coding Semi-structured Interviews using Large Language M",
+  "score": 104.12834
+ },
+ {
+  "n": 26,
+  "ref": "Flaherty, L. R., & Oliver, K. H. (2025). A positive spin: large language models can help directors evaluate programs through their patients’ own words. Pain Rep",
+  "doi": "10.1097/pr9.0000000000001219",
+  "cr_title": "A positive spin: large language models can help directors evaluate programs through their patients' own words",
+  "score": 136.48557
+ },
+ {
+  "n": 27,
+  "ref": "López-Pérez, B., Chen, Y., Li, X., Cheng, S., & Razavi, P. (2025). Exploring the poten- tial of large language models to understand interpersonal emotion regula",
+  "doi": "10.1037/emo0001528",
+  "cr_title": "Exploring the potential of large language models to understand interpersonal emotion regulation strategies from narrativ",
+  "score": 114.27467
+ },
+ {
+  "n": 28,
+  "ref": "Xiao, Z., Yuan, X., Liao, Q. V., Abdelghani, R., & Oudeyer, P. Y. (2023, March). Supporting qualitative analysis with large language models: Combining codebook ",
+  "doi": "10.1145/3581754.3584136",
+  "cr_title": "Supporting Qualitative Analysis with Large Language Models: Combining Codebook with GPT-3 for Deductive Coding",
+  "score": 155.32281
+ },
+ {
+  "n": 29,
+  "ref": "Martin, S., Beecham, E., Kursumovic, E., Armstrong, R. A., Cook, T. M., Déom, N., ... & collaborators. (2024). Comparing human vs. machine-assisted analysis to ",
+  "doi": "10.1101/2024.07.16.24310275",
+  "cr_title": "Comparing human vs. machine-assisted analysis to develop a new approach for Big Qualitative Data Analysis",
+  "score": 126.592445
+ },
+ {
+  "n": 30,
+  "ref": "Smirnov, E. (2025). Enhancing qualitative research in psychology with large language models: a methodological exploration and examples of simulations. Qualitati",
+  "doi": "10.1080/14780887.2024.2428255",
+  "cr_title": "Enhancing qualitative research in psychology with large language models: a methodological exploration and examples of si",
+  "score": 121.65713
+ },
+ {
+  "n": 32,
+  "ref": "Katz, A., Fleming, G. C., & Main, J. (2024). Thematic analysis with open-source gen- erative AI and machine learning: a new method for inductive qualitative cod",
+  "doi": "10.1057/s41599-026-06508-5",
+  "cr_title": "Thematic analysis with open-source generative AI and machine learning: a new method for inductive qualitative codebook d",
+  "score": 91.58088
+ },
+ {
+  "n": 33,
+  "ref": "Byun, C., Vasicek, P., & Seppi, K. (2023, April). Dispensing with humans in human- computer interaction research. In Extended abstracts of the 2023 CHI conferen",
+  "doi": "10.1145/3544549.3582749",
+  "cr_title": "Dispensing with Humans in Human-Computer Interaction Research",
+  "score": 128.28157
+ },
+ {
+  "n": 34,
+  "ref": "Zambrano, A. F., Liu, X., Barany, A., Baker, R. S., Kim, J., & Nasiar, N. (2023, October). From nCoder to ChatGPT: From automated coding to reﬁning human coding",
+  "doi": "10.1007/978-3-031-47014-1_32",
+  "cr_title": "From nCoder to ChatGPT: From Automated Coding to Refining Human Coding",
+  "score": 125.680595
+ },
+ {
+  "n": 35,
+  "ref": "Brondani, M., Alves, C., Ribeiro, C., Braga, M. M., Garcia, R. C. M., Ardenghi, T., & Pattanaporn, K. (2024). Artiﬁcial intelligence, ChatGPT, and dental educat",
+  "doi": "10.1002/jdd.13663",
+  "cr_title": "Artificial intelligence, ChatGPT, and dental education: Implications for reflective assignments and qualitative research",
+  "score": 136.94986
+ },
+ {
+  "n": 36,
+  "ref": "De Paoli, S. (2024). Performing an inductive thematic analysis of semi-structured in- terviews with a large language model: An exploration and provocation on th",
+  "doi": "10.1177/08944393231220483",
+  "cr_title": "Performing an Inductive Thematic Analysis of Semi-Structured Interviews With a Large Language Model: An Exploration and ",
+  "score": 126.145454
+ },
+ {
+  "n": 37,
+  "ref": "Hitch, D. (2024). Artiﬁcial intelligence augmented qualitative analysis: the way of the future? Qualitative Health Research, 34(7), 595–606.",
+  "doi": "10.1177/10497323231217392",
+  "cr_title": "Artificial Intelligence Augmented Qualitative Analysis: The Way of the Future?",
+  "score": 92.56516
+ },
+ {
+  "n": 38,
+  "ref": "Lee, V. V., van der Lubbe, S. C., Goh, L. H., & Valderas, J. M. (2024). Harnessing ChatGPT for thematic analysis: Are we ready? Journal of Medical Internet Rese",
+  "doi": "10.2196/54974",
+  "cr_title": "Harnessing ChatGPT for Thematic Analysis: Are We Ready?",
+  "score": 119.69061
+ },
+ {
+  "n": 39,
+  "ref": "Mesec, B. (2023). The language model of artiﬁcial intelligence chatGPT—a tool of qualitative analysis of texts. Authorea preprints.",
+  "doi": "10.22541/au.168182047.70243364/v1",
+  "cr_title": "The language model of artificial inteligence chatGPT - a tool of qualitative analysis of texts",
+  "score": 72.48095
+ },
+ {
+  "n": 40,
+  "ref": "Kondo, T., Miyachi, J., Jönsson, A., & Nishigori, H. (2024). A mixed-methods study comparing human-led and ChatGPT-driven qualitative analysis in medical educat",
+  "doi": "10.2196/90064",
+  "cr_title": "AI-Generated Versus Human Supervisor Feedback on Medical Students’ Clinical Clerkship Logs: Cross-Sectional Convergent M",
+  "score": 48.90025
+ },
+ {
+  "n": 41,
+  "ref": "Arlinghaus, C. S., Wulﬀ, C., & Maier, G. W. (2024). Inductive Coding with ChatGPT - An Evaluation of Diﬀerent GPT Models Clustering Qualitative Data into Catego",
+  "doi": "10.31219/osf.io/gpnye",
+  "cr_title": "",
+  "score": null
+ },
+ {
+  "n": 42,
+  "ref": "Bennis, I., & Mouwafaq, S. (2025). Advancing AI-driven thematic analysis in qualitative research: a comparative study of nine generative models on Cutaneous Lei",
+  "doi": "10.1186/s12911-025-02961-5",
+  "cr_title": "Advancing AI-driven thematic analysis in qualitative research: a comparative study of nine generative models on Cutaneou",
+  "score": 143.43697
+ },
+ {
+  "n": 43,
+  "ref": "Jalali, M. S., & Akhavan, A. (2024). Integrating AI language models in qualitative research: Replicating interview data analysis with ChatGPT. System Dynamics R",
+  "doi": "10.1002/sdr.1772",
+  "cr_title": "Integrating\n                    <scp>AI</scp>\n                    language models in qualitative research: Replicating i",
+  "score": 107.57807
+ },
+ {
+  "n": 44,
+  "ref": "Muasher-Kerwin, C., Hughes, M. C., Foster, M. L., Al Azher, I., & Alhoori, H. (2025). Exploring large language models for summarizing and interpreting an online",
+  "doi": "10.1177/20552076251337345",
+  "cr_title": "Exploring large language models for summarizing and interpreting an online brain tumor support forum",
+  "score": 147.52875
+ },
+ {
+  "n": 45,
+  "ref": "Perkins, M., & Roe, J. (2024). The use of Generative AI in qualitative analysis: Induc- tive thematic analysis with ChatGPT. Journal of Applied Learning and Tea",
+  "doi": "10.37074/jalt.2024.7.1.22",
+  "cr_title": "The use of Generative AI in qualitative analysis: Inductive thematic analysis with ChatGPT",
+  "score": 71.280235
+ },
+ {
+  "n": 46,
+  "ref": "Prescott, M. R., Yeager, S., Ham, L., Rivera Saldana, C. D., Serrano, V., Narez, J., ... Montoya, J. (2024). Comparing the eﬃcacy and eﬃciency of human and gene",
+  "doi": "10.2196/54482",
+  "cr_title": "Comparing the Efficacy and Efficiency of Human and Generative AI: Qualitative Thematic Analyses",
+  "score": 142.50757
+ },
+ {
+  "n": 47,
+  "ref": "DePriest, K., Feher Iii, J., Gore, K., Glasgow, L., Grant, C., Holtgrave, P., ... & Chew, R. (2025). Content Analysis of Social Determinants of Health Accelerat",
+  "doi": "10.1097/phh.0000000000002148",
+  "cr_title": "Content Analysis of Social Determinants of Health Accelerator Plans Using Artificial Intelligence: A Use Case for Public",
+  "score": 148.90839
+ },
+ {
+  "n": 48,
+  "ref": "Friedman, C., Owen, A., & VanPuymbrouck, L. (2025). Should ChatGPT help with my research? A caution against artiﬁcial intelligence in qualitative analysis. Qual",
+  "doi": "10.1177/14687941241297375",
+  "cr_title": "Should ChatGPT help with my research? A caution against artificial intelligence in qualitative analysis",
+  "score": 133.26973
+ },
+ {
+  "n": 49,
+  "ref": "Tai, R. H., Bentley, L. R., Xia, X., Sitt, J. M., Fankhauser, S. C., Chicas-Mosier, A. M., & Monteith, B. G. (2024). An examination of the use of large language",
+  "doi": "10.1177/16094069241231168",
+  "cr_title": "An Examination of the Use of Large Language Models to Aid Analysis of Textual Data",
+  "score": 125.020775
+ },
+ {
+  "n": 50,
+  "ref": "Katz, A., Wei, S., Nanda, G., Brinton, C., & Ohland, M. (2023). Exploring the eﬃcacy of ChatGPT in analyzing student teamwork feedback with an existing taxonomy",
+  "doi": "10.18260/1-2--41066",
+  "cr_title": "Work-in-Progress: Using Latent Dirichlet Allocation to uncover themes in student comments from peer evaluations of teamw",
+  "score": 60.302437
+ },
+ {
+  "n": 51,
+  "ref": "Bijker, R., Merkouris, S. S., Dowling, N. A., & Rodda, S. N. (2024). ChatGPT for automated qualitative research: Content analysis. Journal of Medical Internet R",
+  "doi": "10.2196/59050",
+  "cr_title": "ChatGPT for Automated Qualitative Research: Content Analysis",
+  "score": 119.956665
+ },
+ {
+  "n": 52,
+  "ref": "Morgan, D. L. (2023). Exploring the use of artiﬁcial intelligence for qualitative data analysis: The case of ChatGPT. International Journal of Qualitative Metho",
+  "doi": "10.1177/16094069231211248",
+  "cr_title": "Exploring the Use of Artificial Intelligence for Qualitative Data Analysis: The Case of ChatGPT",
+  "score": 80.0119
+ },
+ {
+  "n": 53,
+  "ref": "Pentucci, M., Cioci, G., & Laici, C. (2024). HYBRID ANALYSIS IN EDUCATION: COMPARING CHATGPT AND HUMAN THEMATIC ANALYSIS OF TEACHERS’ RESPONSES ON TECHNOLOGY US",
+  "doi": "10.21125/iceri.2024.1006",
+  "cr_title": "HYBRID ANALYSIS IN EDUCATION: COMPARING CHATGPT AND HUMAN THEMATIC ANALYSIS OF TEACHERS' RESPONSES ON TECHNOLOGY USE IN ",
+  "score": 150.682
+ },
+ {
+  "n": 54,
+  "ref": "Sakaguchi, K., Sakama, R., & Watari, T. (2025). Evaluating ChatGPT in Qualitative Thematic Analysis With Human Researchers in the Japanese Clinical Context and ",
+  "doi": "10.2196/71521",
+  "cr_title": "Evaluating ChatGPT in Qualitative Thematic Analysis With Human Researchers in the Japanese Clinical Context and Its Cult",
+  "score": 155.74507
+ },
+ {
+  "n": 55,
+  "ref": "Kon, M. H. A., Pereira, M. J., Molina, J. A. D. C., Yip, V. C. H., Abisheganaden, J. A., & Yip, W. (2025). Unravelling ChatGPT’s potential in summarising qualit",
+  "doi": "10.1038/s41433-024-03419-0",
+  "cr_title": "Unravelling ChatGPT’s potential in summarising qualitative in-depth interviews",
+  "score": 138.76208
+ },
+ {
+  "n": 56,
+  "ref": "Tabone, W., & De Winter, J. (2023). Using ChatGPT for human–computer interaction research: a primer. Royal Society Open Science, 10(9), 231053.",
+  "doi": "10.1098/rsos.231053",
+  "cr_title": "Using ChatGPT for human–computer interaction research: a primer",
+  "score": 90.69361
+ },
+ {
+  "n": 57,
+  "ref": "Davis, J., Van Bulck, L., Durieux, B. N., & Lindvall, C. (2024). The temperature feature of ChatGPT: modifying creativity for clinical research. JMIR Human Fact",
+  "doi": "10.2196/53559",
+  "cr_title": "The Temperature Feature of ChatGPT: Modifying Creativity for Clinical Research",
+  "score": 134.20363
+ },
+ {
+  "n": 58,
+  "ref": "Li, L., Sleem, L., Nichil, G., & State, R. (2025). Exploring the Impact of Temperature on Large Language Models: Hot or Cold?. Procedia Computer Science, 264, 2",
+  "doi": "10.1016/j.procs.2025.07.135",
+  "cr_title": "Exploring the Impact of Temperature on Large Language Models: Hot or Cold?",
+  "score": 118.406166
+ },
+ {
+  "n": 59,
+  "ref": "Wachinger, J., Bärnighausen, K., Schäfer, L. N., Scott, K., & McMahon, S. A. (2025). Prompts, pearls, imperfections: Comparing ChatGPT and a human researcher in",
+  "doi": "10.1177/10497323241244669",
+  "cr_title": "Prompts, Pearls, Imperfections: Comparing ChatGPT and a Human Researcher in Qualitative Data Analysis",
+  "score": 150.7111
+ },
+ {
+  "n": 60,
+  "ref": "Li, K. D., Fernandez, A. M., Schwartz, R., Rios, N., Carlisle, M. N., Amend, G. M., ... Breyer, B. N. (2024). Comparing GPT-4 and human researchers in health ca",
+  "doi": "10.2196/56500",
+  "cr_title": "Comparing GPT-4 and Human Researchers in Health Care Data Analysis: Qualitative Description Study",
+  "score": 130.08183
+ },
+ {
+  "n": 82,
+  "ref": "Castellanos, A., Jiang, H., Gomes, P., Vander Meer, D., & Castillo, A. (2025). Large Language Models for Thematic Summarization in Qualitative Health Care Resea",
+  "doi": "10.2196/64447",
+  "cr_title": "Large Language Models for Thematic Summarization in Qualitative Health Care Research: Comparative Analysis of Model and ",
+  "score": 150.43985
+ },
+ {
+  "n": 83,
+  "ref": "Fuller, K. A., Morbitzer, K. A., Zeeman, J. M., Persky, M. A., Savage, A. C., & McLaughlin, J. E. (2024). Exploring the use of ChatGPT to analyze student course",
+  "doi": "10.1186/s12909-024-05316-2",
+  "cr_title": "Exploring the use of ChatGPT to analyze student course evaluation comments",
+  "score": 126.72951
+ },
+ {
+  "n": 84,
+  "ref": "Hamilton, L., Elliott, D., Quick, A., Smith, S., & Choplin, V. (2023). Exploring the use of AI in qualitative analysis: A comparative study of guaranteed income",
+  "doi": "10.1177/16094069231201504",
+  "cr_title": "Exploring the Use of AI in Qualitative Analysis: A Comparative Study of Guaranteed Income Data",
+  "score": 116.28507
+ },
+ {
+  "n": 85,
+  "ref": "Mathis, W. S., Zhao, S., Pratt, N., Weleﬀ, J., & De Paoli, S. (2024). Inductive thematic analysis of healthcare qualitative interviews using open-source large l",
+  "doi": "10.1016/j.cmpb.2024.108356",
+  "cr_title": "Inductive thematic analysis of healthcare qualitative interviews using open-source large language models: How does it co",
+  "score": 165.94757
+ },
+ {
+  "n": 86,
+  "ref": "Player, L., Hughes, R., Mitev, K., Whitmarsh, L., Demski, C., Nash, N., ... Wilson, M. (2025). The use of large language models for qualitative research: The De",
+  "doi": "10.1037/met0000753",
+  "cr_title": "The use of large language models for qualitative research: The Deep Computational Text Analyser (DECOTA).",
+  "score": 137.69095
+ }
+]
