@@ -5,7 +5,7 @@ This repository contains the records, decisions, coded data and analysis code fo
 > Rekhert, M. (2026). *Agreement between large language models and human coders on psychological and clinical text: A systematic review and multilevel meta-analysis* [Manuscript submitted for publication]. Preprint: https://doi.org/10.5281/zenodo.23613737
 
 - Protocol (OSF Registries, registered 21 October 2026 before the final search and screening): https://doi.org/10.17605/OSF.IO/Z63BS
-- Archived release (Zenodo): forthcoming
+- Archived release (Zenodo): https://doi.org/10.5281/zenodo.23613757
 - Author: Martin Rekhert, Higher School of Psychology, Turan University, Almaty, Kazakhstan (ORCID [0009-0001-2402-2031](https://orcid.org/0009-0001-2402-2031))
 
 ## The review in brief
