@@ -2,7 +2,7 @@
 
 This repository contains the records, decisions, coded data and analysis code for
 
-> Rekhert, M. (2026). *Agreement between large language models and human coders on psychological and clinical text: A systematic review and multilevel meta-analysis* [Manuscript submitted for publication]. Preprint: forthcoming
+> Rekhert, M. (2026). *Agreement between large language models and human coders on psychological and clinical text: A systematic review and multilevel meta-analysis* [Manuscript submitted for publication]. Preprint: https://doi.org/10.5281/zenodo.23613737
 
 - Protocol (OSF Registries, registered 21 October 2026 before the final search and screening): https://doi.org/10.17605/OSF.IO/Z63BS
 - Archived release (Zenodo): forthcoming
